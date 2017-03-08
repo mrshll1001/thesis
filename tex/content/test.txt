@@ -1,0 +1,38 @@
+Methodology {#sec:method}
+===========
+
+Introduction
+------------
+
+This chapter discusses and interrogates the methodologies, approaches,
+and procedures used in the performance of the research project. It
+begins by describing the methodological framework that denoted how the
+project was organised, before turning to how data was collected and
+subsequently analysed. Finally, the chapter reflects on the mundane
+performance of the methods as they were affected during the production
+of the research, and the implications thereof.
+
+Participation and Action Research {#sec:method:approach}
+---------------------------------
+
+Some intro stuff about action research.
+
+Interactions, Work, and Labour: Approaches to Fieldwork and Analysis {#sec:method:fieldwork}
+--------------------------------------------------------------------
+
+The research initially set out to understand how digital systems can be
+used to do stuff with accounts and accountability in charities.
+
+This section therefore justifies the use of ethnomethodology as the
+orientation to the fieldwork portions of the research, places the use of
+workshops within this, and also explores how a Marxist stance on
+political economy (and to a lesser extent, sociology) also influenced
+the analysis of fieldwork data and the subsequent design of systems
+developed as a response to it.
+
+### Ethnomethodological Orientation to Fieldwork
+
+### Taking a Marxist stance
+
+Reflecting on the performance
+-----------------------------
