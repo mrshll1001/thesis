@@ -1,0 +1,47 @@
+Methodology {#sec:method}
+===========
+
+Introduction
+------------
+
+Interactions, Work, and Labour: Approaches to Fieldwork and Analysis {#sec:method:fieldwork}
+--------------------------------------------------------------------
+
+### Ethnomethodological Orientation to Fieldwork
+
+### Taking a Marxist stance
+
+The performance of the first large portion of fieldwork in the study,
+beginning March 2016, overlapped with a series of events in my personal
+life that began a slide across the political spectrum towards Communism.
+This is worth mentioning because the process resulted in engagment with
+a host of classic, modern, and academic literatures. These had a
+subsequent effect on my reading of fieldwork data, and helped shape the
+design of systems that were built in response.
+
+Marxism, and therefore Marxist stances, can be said to be concerned
+primarily with the relationships between workers, their labour, capital,
+and property . The foci offered by Marxism resonated with the research
+goals in as much as they were set out to determine in what ways the work
+of charities related to financial capital, and what role technology
+played in this relationship. In Marxism, the work and value of any
+organisation, charities included, is ultimately derived from the labour
+of its workers @marx_contribution_1970. Classic political economy (e.g.
+@smith_inquiry_1785) divides labour into the categories of *Productive
+Labour* and *Unproductive Labour*. *Productive Labour* is labour that
+directly goes into increasing the wealth of an organisation, whereas
+*Unproductive Labour* is that which does not; but is nontheless
+necessary for the organisation or nation to function
+@smith_inquiry_1785. Marxism is famous for its critique of this
+classical and arbitrary divide of the productive and unproductive forms
+of labour; a critique that, in summary, attacks the notions of
+*Productive* and *Unproductive* as having no neutral definition
+@marx_capital_1974. Instead, what is seen as *Productive* or
+*Unproductive* is in constant flux and based on a multitude of different
+factors such as the mode of production[^1], social class, and what the
+‘product’ actually is @marx_capital_1974.
+
+Reflecting on the performance
+-----------------------------
+
+[^1]: E.g. feudalism, capitalism, etc.
