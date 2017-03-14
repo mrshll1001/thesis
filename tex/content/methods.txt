@@ -16,17 +16,24 @@ beginning March 2016, overlapped with a series of events in my personal
 life that began a slide across the political spectrum towards Communism.
 This is worth mentioning because the process resulted in engagment with
 a host of classic, modern, and academic literatures. These had a
-subsequent effect on my reading of fieldwork data, and helped shape the
-design of systems that were built in response.
+subsequent effect on my reading of fieldwork data with regards to labour
+relations of workers, and helped shape the design of systems that were
+built in response.
 
 Marxism, and therefore Marxist stances, can be said to be concerned
 primarily with the relationships between workers, their labour, capital,
 and property . The foci offered by Marxism resonated with the research
 goals in as much as they were set out to determine in what ways the work
 of charities related to financial capital, and what role technology
-played in this relationship. In Marxism, the work and value of any
-organisation, charities included, is ultimately derived from the labour
-of its workers @marx_contribution_1970. Classic political economy (e.g.
+played in this relationship. Taking a Marxist stance meant, to me,
+orienting myself to how the labour of workers in charities was
+performed; how it was valued, and how it was represented in the various
+types of formal and informal accounts produced at the field site when
+accounting for activity or spending.
+
+In Marxist theory, the work and value of any organisation, charities
+included, is ultimately derived from the labour of its workers
+@marx_contribution_1970. Classic political economy (e.g.
 @smith_inquiry_1785) divides labour into the categories of *Productive
 Labour* and *Unproductive Labour*. *Productive Labour* is labour that
 directly goes into increasing the wealth of an organisation, whereas
@@ -35,11 +42,40 @@ necessary for the organisation or nation to function
 @smith_inquiry_1785. Marxism is famous for its critique of this
 classical and arbitrary divide of the productive and unproductive forms
 of labour; a critique that, in summary, attacks the notions of
-*Productive* and *Unproductive* as having no neutral definition
-@marx_capital_1974. Instead, what is seen as *Productive* or
-*Unproductive* is in constant flux and based on a multitude of different
-factors such as the mode of production[^1], social class, and what the
-‘product’ actually is @marx_capital_1974.
+*Productive* and *Unproductive* as having no neutral definition; as work
+is not naturally productive and it takes work to make it so
+@marx_capital_1974 [@marx_theories_1964]. Instead, what is seen as
+*Productive* or *Unproductive* is in constant flux and based on a
+multitude of different factors such as the mode of production[^1],
+social class, and what the ‘product’ actually is @marx_capital_1974.
+When studying charities, this makes sense — taking the classical
+approach, it would seem as if the only thing within a charity that could
+be called *Productive Labour* is the act of writing applications for
+grants!
+
+The Marxist stance on labour assisted in analysis of the fieldwork by
+providing a framework within which I could reason about the findings.
+Whilst ethnomethodology allowed for pragmatic insight into the
+interactional work of the field site itself, Marxian critiques of labour
+grounded these in what was needed to be captured to provide insight into
+design work. Namely, if the distinction between *Productive* and
+*Unproductive* Labour was based on an arbitrary dilineation, where was
+that line drawn in the field site? How did participants reason about
+what they classed as productive, and how was this accounted for to
+themselves and others? With Marxism being so closely related to my
+personal politics, I was initially apprehensive about taking this
+analytical stance. This anxiety was at least partially assuaged when I
+reflected upon findings of my previous study around charities and
+transparency. This study discussed that tensions around transparency in
+spending orbited around a focus on bottom line spending; leaving out the
+effort (labour) of volunteers and underplaying importance of the labour
+required of administrative tasks when discussing outcomes; therefore
+emphasising the importance of accounting for the nature of workers’
+labour in the field site and its relevance to design
+@marshall_accountable:_2016.
+
+Further to this, the relationship between Marxism and Ethnomethodology
+has been explored. Hello there
 
 Reflecting on the performance
 -----------------------------
