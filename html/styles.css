@@ -1,0 +1,20 @@
+@import url('https://unpkg.com/purecss@1.0.0/build/pure-min.css');
+
+h1 {
+  text-align: center;
+}
+
+.author {
+  text-align: center;
+}
+
+body {
+  color: #222;
+  background-color: #eee;
+  padding: 4em;
+}
+
+p {
+  font-size: 14pt;
+  text-align: justify;
+}
