@@ -23,3 +23,6 @@
 *.synctex.gz
 .DS_Store
 *.~lock*
+*.pdf
+*.fdb_latexmk
+*.fls
