@@ -1,4 +1,7 @@
 # Thesis
-Separate repo for the ol' PhD thesis so I can work on it w/o cloning all of the superfluous stuff that comes with the other stuff.
+Working draft of my PhD Thesis.
 
-LaTeX, etc
++ master branch used for LaTeX and current working version
++ markdown branch used for getting word-soup out.
++ Other branches may spring up based on use
++ Will try to get a jekyll branch working at some point.
