@@ -1,5 +1,3 @@
-% Chapter 01 - Introduction
-
 Chapter 1 - Introduction
 =========================
 
