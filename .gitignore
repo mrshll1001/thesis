@@ -26,5 +26,5 @@
 *.pdf
 *.fdb_latexmk
 *.fls
-*.html
 *.docx
+/html
