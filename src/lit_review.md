@@ -1,4 +1,4 @@
-Background and Literature {#sec:related}
+Background and Literature {#lit-review}
 =========================
 
 This chapter discusses the background and literature of the various

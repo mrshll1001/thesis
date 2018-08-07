@@ -1,4 +1,4 @@
-Chapter 6: Scaffolding Dialogues - deploying, evaluating, critiquing
+Chapter 6: Scaffolding Dialogues - deploying, evaluating, critiquing {#evaluation-casestudy}
 =========================================================================
 This chapter presents an empirical account of deploying and evaluating the novel accounting systems produced in the previous chapter, and the design requirements that arise as a result.
 
