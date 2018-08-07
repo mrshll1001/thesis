@@ -26,6 +26,4 @@
 *.pdf
 *.fdb_latexmk
 *.fls
-
-/html
-/word-processor
+/out

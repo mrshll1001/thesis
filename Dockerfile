@@ -1,3 +1,3 @@
 FROM library/nginx:alpine
 MAINTAINER Matt Marshall
-COPY html /usr/share/nginx/html
+COPY out/html /usr/share/nginx/html
