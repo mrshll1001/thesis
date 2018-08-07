@@ -12,4 +12,4 @@ pandoc src/index.md src/introduction.md src/lit_review.md src/methodoloy.md src/
 # Copy css into the html directory
 
 
-echo "HTML copy built under /html"
+echo "HTML copy built under /out/html"
