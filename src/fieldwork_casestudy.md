@@ -1,7 +1,1073 @@
 Chapter 4: Accounts and Accountability - a fieldwork case study of work practice. {#fieldwork-casestudy}
 ===================================================================================
 
-This chapter provides an empirical account of work practice developed through fieldwork techniques. Its focus is on how accountability requirements manifest in daily workplace practice, and what that means for technologies operating in this space.
+Introduction
+------------
+
+This paper discusses the role of data technologies in Charitable
+Organisations (charities) as they are required to adhere to transparent
+and accountable standards in their work and their financial practices.
+Charities play an important role in society, often addressing issues of
+importance to populations and communities where both the private and
+state sectors have not engaged or lacked resources @salamon_rise_1994.
+Due to the nature of much of their funding - through grants and public
+donations - charities across the world are often required to demonstrate
+to their stakeholders a commitment to their aims and a competency in
+their financial practices @macmillan_relationship_2005
+[@oliver_what_2004]. Modern technologies that enable large scale
+production and consumption of data play an increasingly important role
+in mediating transparency for organisations by supporting the online
+reporting and publishing of financial data @meijer_understanding_2009,
+while the production of open data is widely claimed to be synonymous
+with transparency in dialogues around government and business
+@coleman_lessons_2013 [@goldstein_open_2013; @gordon_making_2013].
+Recent work within HCI has examined the use of open data by charities
+for constructing narratives @erete_storytelling_2016, the use of data
+for metrics for reporting and understanding organisational finances
+@elsden_resviz:_2016, and has provided insight into how digital systems
+can provide more comprehensive forms of transparency in these
+organisations @marshall_accountable:_2016. However, thus far there is
+little understanding of how technologies like these, and more
+commonplace data technologies, and data work, integrate into the daily,
+lived, work of charities.
+
+Our research sets out to examine this gap in knowledge, aiming to
+understand how transparency and accountability are made manifest through
+the practices of charity workers. We report on a qualitative study of
+work practices in a charity that conducts youth work for economically
+deprived and migrant communities in the North of England. Over a period
+of seven months the first author engaged in ethnographic fieldwork at
+the charity’s main community hub and office, participating in both
+delivery of community-facing activities and administrative work. The
+fieldwork was oriented towards developing a praxeological account
+@crabtree_doing_2012 of how financial work is performed within the
+organisation and how they account for their spending and activities. The
+findings from our fieldwork provide insight into the tools and processes
+used by members of such a setting to organise and make sense of their
+activities and finances and, more crucially, the work that is required
+to make this *transparent* and *accountable* to others. We also discuss
+the tensions that exist between the everyday execution of charitable
+work and the legal or contractual obligations to account for it in
+particular ways. In doing so we highlight how organisations can navigate
+these issues in order to make themselves accountable not only ‘on paper’
+but to those who rely on their projects and services.
+
+This paper contributes to HCI by providing an in-depth understanding of
+the everyday work practices in charities and the ways in which social
+technologies are supporting, or could be designed to better support,
+transparency and accountability. We demonstrate that transparency and
+accountability are complex and multifaceted, and their manifestation in
+charity work practices presents a rich space which we explore in this
+paper. This is an important concern for the HCI community as it strives
+to better support the needs of communities and organisations that serve
+civic and social needs whilst facing barriers to their work. Through
+understanding the communication needs of charities, HCI may address the
+ways technologies may be designed to better facilitate and enhance the
+work and relationships that are key to sustaining an organisation’s
+efforts in producing value for civic society.
+
+Charities, Transparency, and HCI
+---------------------------------
+
+It is generally understood that charities play an important role in
+society. They perform work in areas and matters generally left
+unattended by state or private sectors. This includes driving
+grass-roots development and social care @salamon_rise_1994, the creation
+and sustenance of *Social Capital* @field_social_2003
+[@mendel_doing_2014] within communities and for particularly
+marginalised populations. It can be said that a charity’s very existence
+indicates a substantial need for its model of service delivery, due to
+the failure of the market to regulate for-profit entities which may
+engage in potentially harmful or exploitative
+practices@hansmann_role_1980.
+
+Accountability is a cornerstone in the public’s relationship with
+organisations, but this is more pronounced in the context of charities
+for at least two reasons. First, due to the impact a charity can have,
+making an organisation accountable for actions it takes ensures that it
+is true to its mission and does not abuse the trust of the public and
+other stakeholders who might support its cause
+@frumkin_accountability_2006 [@jacobson_lifting_2005]. Second, since
+charities are mostly financed through public funds via government grants
+or direct donations from citizens, it is often argued that they should
+be held accountable and act transparently in regards to their financial
+practices. This is to ensure that they are seen to be using funds both
+appropriately and efficaciously. Furthermore, due to the nature of
+charitable funding, this means having multiple and diverse stakeholders
+to which they must be accountable @krashinsky_stakeholder_1997
+[@macmillan_relationship_2005].
+
+Literature in Public and Voluntary Sector Administration discusses
+multiple ways in which an organisation can be said to be accountable.
+This can include: the extent to which its stakeholders can direct its
+activity @koppell_pathologies_2005; how it can be called upon to justify
+its actions @fox_uncertain_2007; and how it can be made to adhere to
+responsibilities through legal frameworks @koppell_pathologies_2005.
+These theories of accountability impact the way that charities conduct
+their everyday operations regarding work and spending. Accountability
+shares a complicated relationship with financial transparency; the
+latter often being cited as means to provide the former
+@hood_accountability_2010. Koppell describes transparency as the
+foundational element for accountability upon which all of the other
+forms are built @koppell_pathologies_2005. Fox conceptualises an
+intersection between the two called ‘answerability’ @fox_uncertain_2007.
+For organisations there are many ways to be transparent such as
+passively revealing information or actively engaging stakeholders
+@oliver_what_2004 [@schauer_transparency_2011], or choosing to focus on
+outcomes or spend @heald_varieties_2006. The position of this paper is
+that all forms of transparency share a concern over the dissemination
+and consumption of information. The purpose of being transparent,
+therefore, is ultimately to facilitate interactions between an
+organisation, its work, and stakeholders (such as funders or the wider
+public). The provision and interrogation of data through digital
+technology is an increasingly used mechanism to facilitate this
+interaction, and therefore to achieve accountability
+@meijer_understanding_2009 [@oliver_what_2004].
+
+Recent years have seen HCI researchers examining the role of data in
+everyday interactions, and the ways in which people interact with data
+itself. This includes data visualisations and interactions with data
+supporting personal goals, individual reflection, and shared awareness
+in social networks. At an organisational level, studies have
+demonstrated how charities have used open data to form narratives around
+local conditions @erete_storytelling_2016, while others have highlighted
+how visualisations around organisational metrics (including funding)
+support the use of data for reporting, understanding, and providing
+insight within highly politicised environments @elsden_resviz:_2016. In
+the personal sphere, concepts of data lockers allow external processors
+to interact with one’s data while maintaining personal control
+@mcauley_dataware_2011 and data itself is likened to a boundary object
+forming part of the infrastructure of everyday life
+@star_institutional_1989 [@crabtree_human_2015].
+
+Most nations have legislation that stipulates a degree of transparency
+by ensuring that charities and other Non-Profit Organisations (NPOs)
+submit documentation for auditing and, subsequently, public consumption.
+Examples include the Internal Revenue Service (IRS)
+@internal_revenue_service_annual_2016 and the Charity Commission
+@hm_government_charity_nodate. The focus of these systems is typically
+on *input transparencies* i.e. the money a charity spends. This is, in
+part, due to its ease of measurement; however such input transparencies
+have been shown to be ineffective when determining how appropriate a
+spend is @heald_varieties_2006. Previous work in HCI has critiqued such
+systems for lacking detail and context about the work of organisations,
+and failing to represent non-monetary elements such as the efforts of
+those who volunteer for a charity’s projects and cause. The
+recommendations from this prior work are for new digital systems and
+processes that provide a more comprehensive and value-driven alternative
+to simple financial accounting @marshall_accountable:_2016.
+Additionally, imposed or expected transparency measures are often seen
+to be in conflict with effective practice regarding to organisational
+independence, confidentiality, and privacy @cukierman_limits_2009
+[@schauer_mixed_2014]. In this way, the concerns of charities around
+transparency can often reflect privacy issues discussed as concerns
+around the use of personal informatics that are discussed by McAuley et
+al @mcauley_dataware_2011. This is because charities may wish to
+communicate an accurate view of their work and its value but may have
+concerns presenting data about activity or spend that can be
+misinterpreted by others who may not understand its context.
+Furthermore, on a pragmatic level, being transparent can create
+additional work for organisations due to the effort involved in audits,
+monitoring and reporting that they are legally or contractually obliged
+to perform. It also means charities have to expend further effort to
+communicate their practice and value (as opposed to values) in order to
+maintain a relationship with their stakeholders
+@macmillan_relationship_2005.
+
+The work reported in this paper builds upon previous research in HCI
+around the design of systems to facilitate transparency and
+accountability in charities @marshall_accountable:_2016, and work that
+discusses the use of data for interaction by and between individuals and
+organisations @crabtree_human_2015 [@elsden_resviz:_2016]. Where
+previous investigations focus on the design for interfaces to interact
+with data, or the ownership and processing of the same, it typically
+fails to account for the work needed in organisations to compile this
+data in the first place. As such, our research set out to ask: how is
+work performed and money spent; how is this accounted for in a charity;
+and what are the processes that make these accounts available to others?
+In asking and examining these questions through ethnographic fieldwork,
+this research seeks to provide insights around the ways in which digital
+systems can be designed to better facilitate the work of ‘being
+transparent’ as part of everyday practice in charities.
+
+Research Approach
+------------------
+
+Our fieldwork was conducted over seven months with a small charity, ‘’
+(a pseudonym), in Newcastle upon Tyne, UK. The organisation has three
+full-time and four part-time staff (pseudonymised for reporting): Martin
+(Manager, full-time); Andrea (Senior Youth Worker, full-time); Danny
+(Youth Worker, full-time); Lydia (Administrator, part-time replacing
+Charli who had the role when fieldwork began); Sofia (Youth Worker,
+part-time); and Ludoslav (Youth Worker, part-time). The charity has an
+annual financial turnover of approximately 130k, and operates across two
+buildings: ‘The Project’, a community hub and central offices; and ‘The
+Play Centre’, a building designed for young people’s play. We approached
+for this research on the recommendation of a collaborator who represents
+Charities across the local region; they were presented as an
+organisation who have a significant presence in their community, whose
+work is value-driven, and are exemplar of small charities with flexible
+funding. They were also presented as being enthusiastic about becoming
+involved in research of this subject and scope, which was confirmed upon
+initial discussions with the lead researcher.
+
+Fieldwork and data collection were primarily ethnographic in nature
+@crabtree_doing_2012, formed of participatory-observation activities at
+. This involved shadowing, assisting with accounts preparation, and
+interviewing staff, volunteers, and service users in-situ.
+
+Our fieldwork began in early 2016. Initially, this came in the form of
+weekly visits by the lead author to in order to participate in their
+daily administrative and planning sessions. These were targeted to
+coincide with the shifts of the part-time administrator so that the
+researcher could engage with their work as well as that of other staff
+members.
+
+After several visits, fieldwork expanded to include participating in the
+organisation’s work as a volunteer youth worker on a weekly basis. This
+further facilitated the lead author’s integration into the charity, and
+provided opportunities to participate in and observe performing their
+work in order to develop a deeper understanding of their practices.
+Through this participant-observation, the lead author was able to
+develop a vulgar competence @crabtree_doing_2012 of organisational
+processes from which to learn from and reflect upon. At this point,
+visits became more frequent and occurred several times a week with days
+being spent partly participating in administration and planning, and
+partly in the performance of a volunteer role in community sessions and
+projects.
+
+During this time the researcher was given a range of duties to perform
+such as: everyday purchasing of equipment for activities; attending
+meetings with stakeholders; being involved in strategy meetings with
+partners; creating monitoring materials such as questionnaires; and
+compiling financial accounts. They were also given copies of the yearly
+accounts spreadsheets to inspect, with instruction to ask any questions
+as required. Informal interviews often occurred in-situ, either when the
+researcher was seeking clarification of an activity as it occurred
+in-the-moment, or when reflection on fieldnotes lead to a question which
+could only be answered by the setting’s members. These informal
+interviews were not audio-recorded, but were integrated into the data
+corpus through fieldnotes and fieldwork diaries.
+
+At later stages of the project, the researcher engaged workers in focus
+groups that were centred around a structured discussion whilst
+performing an activity. Three of these events were held, approximately 3
+weeks apart and lasting an average of 105 minutes. The purpose of these
+activities were to provide a space during fieldwork to give participants
+an explicit opportunity to reflect on the researcher’s findings
+together, and to discuss their held notions of transparency and
+accountability as well as how potential future technologies may affect
+their working practices with regards to this. With the consent of
+participants, the sessions were audio-recorded and then transcribed.
+Further to this the researcher produced entries in their fieldwork diary
+which incorporated photography and reflections on the event.
+
+In total, the seven-month ethnography comprised 49 unique visits and
+engagement in 27 volunteering activities. After each field visit the
+lead author would transform relevant field notes into a fieldwork diary
+entry which was examined by themselves and other authors prior to and
+during analysis, and elaborated on using discussions with setting’s
+members as fieldwork continued. This resulted in 70 pages of fieldnotes
+and fieldwork diaries.
+
+Findings
+--------
+
+Our findings are compiled from field notes and diaries collected during
+the lead researcher’s immersion in the organisation, as well as
+transcripts from the audio recordings made during focus group events.
+These were used to develop praxeological accounts of interactional work
+@crabtree_doing_2012 regarding the organisation’s activities around
+reporting their work practices to others. These accounts focus on how
+members of the setting achieve their goals through interactional work
+and are grouped based on the activities they relate to: Accounts of
+Spending; Accounts of Activities; and Accounts of Hidden Work.
+
+### Accounting for Spending
+
+
+We describe here how the charity spends money, and what is involved in
+producing the accounts required by legal processes. Spending occurs in
+two ways: core organisational costs (salaries, building rental, etc.);
+and spending which is based in the activities of a given working day.
+These each have distinct mechanisms through which money is spent, and
+accounted for.
+
+#### Everyday Spending
+
+Everyday spending is made accountable internally by funnelling spend
+through two senior staff members. Charli, the charity’s part-time
+administrator, described this:
+
+**Charli:** <span>*“The staff get paid back through expenses, and only
+Martin and Andrea are allowed to make expenses claims which they’ll make
+generally when they notice their bank accounts are getting low”*</span>.
+
+Charli’s comment tells us two things. The first is that two senior
+workers, Martin and Andrea, are the only ones allowed to make expenses
+claims for purchases. This allows them to ensure that all claims are
+deemed appropriate since they may monitor purchases and remove the
+possibility of abuse by other staff members. Their personal practices
+are also indicated by Charli – they only make claims when they
+<span>*“notice their bank accounts are getting low”*</span>. That this
+is possible to do also indicates the practice of storing transaction
+records for compilation and reimbursement. While this may initially seem
+restrictive, we observed practices involving the devolution of
+purchasing work to other staff members, allowing multiple workers to
+make necessary purchases. We observe that this devolution of
+responsibility could occur in two ways. We describe both of these in a
+vignette below, which details events that occurred across two days of
+fieldwork:
+
+*Whilst helping prepare for a ‘Community Activity Day’, Sofia and I were
+tasked with producing a grocery list for the BBQ. While walking to the
+store we were approached on the side of the road by Martin in the
+minibus. He asks us if we’re “off to buy food?”. Sofia affirms and
+Martin replies “Here, take this” handing her his bank card, “Do you know
+the PIN?”. Sofia nods and Martin chuckles, saying “Aye. Half of
+\[district area\] know that PIN now” and driving off. When shopping, we
+explicitly choose the cheapest possible store-brand products. I ask
+about this and she tells me “We can’t be seen to be buying brands
+really”. We use Martin’s card to pay and later, Martin returns around an
+hour later and retrieves his card and the receipt of purchase from
+Sofia, checking over it briefly before putting it in his wallet. The
+next day, I was walking to the Play Centre when Martin pulled up in the
+minibus heading in the opposite direction at speed. He stops only to
+hand me 20 and tells me “We need toilet roll for the Play Centre. Go get
+some from \[convenience store\] across the road, the cheap pack at the
+back of the shop”. After making the purchase I head to the Play Centre
+which is already full of activity. I find Andrea and hand her the money,
+which she takes and asks me for a receipt. She stores the receipt
+together with Martin’s cash in her back pocket.*
+
+This illustrates how spending is funnelled through the senior staff
+whilst still allowing the organisation to distribute the labour of
+purchasing by devolving responsibility. Sofia is handed Martin’s debit
+card so that it is *his money* that is spent, and this acts as a buffer
+between the member of staff and the organisation’s finances. This buffer
+is also present when Martin hands cash to the researcher so that they
+can participate in spending. There is also both evidence of an immediate
+internal checking process and an awareness of wider notions of being
+responsible with spending. Martin checks the receipt that Sofia presents
+to ensure appropriateness, and Sofia does not wish to be <span>*“seen to
+be buying brands”*</span>. Sofia may have to justify purchases if called
+upon by Martin, and in context of the charity’s overall budget – this is
+due to the perceived appropriateness of a spend. This is also seen when
+Martin explicitly provides the researcher with instructions to purchase
+the <span>*“the big cheap pack”*</span> of toilet roll. Overall, these
+internal measures show that the organisation may attest to being
+responsible with money when able to present context but this is
+unaccounted for via formal means.
+
+#### Staff Salaries
+
+In meetings with Charli during fieldwork, the researcher discussed with
+her how staff are salaried at :
+
+**Charli:** <span>*“Danny and Andrea get paid full time, I get paid
+part-time. Martin works full-time but he’s only paid part-time.”*</span>
+
+Charli lists several of the staff and their pay-schemes, but noticeably
+says here that Martin is working full time but only paid for part of his
+work, indicating that his salary is variable even though his role is
+central to the organisation. During a subsequent fieldwork session,
+Martin elaborated on this:
+
+<span>*“It’s what’s best for …I don’t care how much I get paid, and it’s
+money that I have to end up looking for. I put salaries down for the
+last few years, and it took a while to put Danny up to 20k when he
+started because of money. With the \[Large Grant\] coming in now we can
+start thinking about putting the salaries back to normal.”*</span>
+
+Martin’s discussion of the staff accepting lower pay provides insight
+into the values of the organisation. The staff are dedicated to the
+organisation’s work, and are aware of their impact on its finances;
+accepting lower pay in order to <span>*“keep things going”*</span>.
+Where Martin discusses having to look for the money to pay staff, he
+also touches upon how raising pay creates an increase in labour as he is
+required to expend effort sourcing funds to make up the difference.
+Further into fieldwork, Martin provides additional insight into this
+during discussion about staff salaries and standard pay increases amid
+the adjustment:
+
+**Martin:** *“We’re putting salaries up which is a big relief for
+everyone. I’ll be on 30k, but not really because that means more tax so
+you have to judge it carefully. Because of the tax brackets, past a
+certain point it makes no sense to give me a pay increase because of how
+much it’ll cost. An extra hundred to me per week will be several
+thousand a year to the charity which I have to find and justify finding.
+This way everyone still sees their pay increase, including me, but I’m
+not too worried about finding the extra cash. It’s still the least
+you’ll ever see another project manager get paid round here though. Some
+larger organisations have six or seven heads on about 100k; nearly a
+million you need before you even get anything done.”*
+
+This emphasises Martin’s awareness of how staff salaries impact the
+organisation; he is willing to keep his salary lower than that of
+comparable positions in the area (<span>*“round here”*</span>) and
+demonstrates that he would need to justify to others a pay increase that
+required searching for a disproportionate amount of further funding.
+Martin also mentions how the staff will be relieved that the salaries
+are being brought in line with standard pay rises; illustrating that the
+salary cuts have tangible effects on staff and further defining their
+position as a value-driven cohort. When Martin discusses the salaries of
+larger organisations he also reveals his views on what money and people
+are supposed to do in an organisation; they are supposed to be put
+towards the organisation’s work and paying head staff large salaries
+creates pressure from extra work and financial requirements
+<span>*“before you even get anything done”*</span>.
+
+#### Compiling Accounts
+
+All income and spending must be accounted for formally through
+compilation of ‘the accounts’; records of financial transactions that
+must be produced, audited and presented to bodies such as the charity’s
+Board of Trustees (like a corporate executive board who act in a
+supervisory capacity for a charity) or the Charity Commission (UK
+governing body). Compiling accounts was an activity the researcher was
+involved in during fieldwork, generally performed alongside the
+administrator (Charli, and later Lydia). When initially instructed in
+the task by Martin, we were given insight into the role of financial
+accounts in the organisation and what is involved in the task:
+
+**Martin:** <span>*“We have this budgeting tool. It’s an Excel
+spreadsheet really \[...\] this lad who used to work for us set it up,
+we can add funders and add spending and stuff and we can use it to see
+how much we have left in each budget. At the end of each financial year
+this gets sent to the accountant so they can sign it off for
+us.”*</span>
+
+This encapsulates two things about how this work is performed. First, we
+see that it may be performed by several people, and that this role may
+be more transitory than others in the organisation. During the course of
+our involvement, the role of Administrator changes from Charli to Lydia,
+and was previously occupied by another prior to research beginning (the
+<span>*“lad”*</span>). This brings into question how well administration
+tasks fit with the value driven nature of the organisation’s other
+activities. It also reveals how the organisation views using the
+spreadsheet when doing budgeting; Martin refers to it as a tool, with
+which he can present an account of the budget to himself, and can be
+used to generate another account to others (one which is legally or
+contractually stipulated). Other features of the tool are brought to
+light when Martin details the process of ‘Costing’ to the researcher:
+
+**Martin:** <span>*“This lets us see how much money we have in each
+fund, and then in the other screen here I can assign it to a funding pot
+and then this updates.”*</span>
+
+At a later point in fieldwork, Martin elaborates on this practice, and
+how the organisation benefits from it:
+
+**Martin:** <span>*“I do this when someone tells me that a report \[to a
+funder\] is due. I’ll see what the fund says I can spend it on, and then
+I’ll cost things to it and move things around so that each fund is
+happy. Sometimes I do it when we need to spend money from a fund that’s
+due and I can go back and move things so it’s used up, then there’s
+loads to put in the report. Or sometimes if we need money for something,
+I’ll go and free something up from a fund by moving things to other
+funds.”*</span>
+
+As shown, costing work is related to the reports that funders stipulate
+as part of their funding arrangement with the charity. Martin shows that
+the organisation has some flexibility in the way that it costs things,
+and uses this to justify spending that may have been outside of the
+original proposed use for the funding.
+
+We did, however, witness that there is an inherent tension when
+presenting accounts for auditing; a legal requirement for charities.
+Auditing processes require accounts to be ‘ratified’ (checked and
+signed) by an accountant, and often experience conflict when engaging
+with commercial accountants. We describe this below:
+
+*During a meeting, Martin asks to speak to me about the accounts. “I’m
+not happy with the accountants at the moment, they’re being
+problematic”. I ask why and he responds “They just want us to use
+\[commercial accounting software\], do you know \[that brand\]? The
+accountants don’t like that we don’t use \[brand\], and I think that’s
+because they can just import it and have it do their job for them.” At a
+later meeting with trustees Martin speaks again on the issue, “We’re
+thinking of scrapping \[accountants\]. They’ve upped the price to 1300
+…, and they’re trying to force us to use \[a brand\] so we do their job
+for them. We’ve spoken to a woman we found on \[a listing\] who says
+she’ll do it for 20 an hour and she’s happy to do them in whatever
+format we want. She’s been in and looked already and she’s told us that
+we’ve already done the job, and all she’ll need to do is double-check a
+few things and sign it off. We have to make sure she’s got the right,
+y’know, qualifications, to do that but aye it looks much better.”*.
+
+Here Martin shows us that there is an explicit point of contention that
+arises when commercial accounting models are misapplied to charities.
+The accountants use expensive commercial software and apply it as a de
+facto standard, presenting a barrier to the charity engaging with the
+auditing processes required of them. These attempts to influence ’s
+toolkit and thus their accounting practices demonstrates a conflict
+that, in order to become transparent in a particular way, they must use
+methods imposed upon them that do not support their own practices of
+accounting for money.
+
+### Accounting for Activity
+
+
+As well as having to account for financial spending, are also required
+to account for their work activity. Accountability here is notably
+experienced through both formal procedures and more interpersonal
+interactions with the community. We outline below how the organisation
+navigates this, in order to explicate the work practices that support
+communicating the organisation’s activities to others.
+
+#### Curating qualitative records
+
+We observed the workers engaging in the production and curation of
+qualitative records that assisted them in presenting an account of their
+work. Some forms of record were stipulated as legal requirements,
+whereas others were produced at the prerogative of workers:
+
+*During a session, I observed Andrea taking photographs using her phone.
+She would often approach participants to take a photograph of them.
+Whenever possible, Andrea would call to another youth worker and ask
+them to get into the photograph as well. The next morning, I have been
+tagged in photographs by ’s Facebook account alongside the other workers
+and young people in the photographs.*
+
+Andrea’s behaviour shows her producing a qualitative record of the event
+and activity that occurred. She can be seen collecting photographic
+evidence of their attendance in-situ, and using this to elaborate on the
+context of their work. The practice of uploading these to a social media
+profile produces an account of their activity for others, and tagging
+people in photographs on the platform encourages those tagged to look at
+them and potentially allows others (such as parents) to glimpse the
+activity as well. As well as on social media, print out a selection of
+photographs in a poster format, which are displayed around their main
+community hub. The workers reflected on this practice in a group
+discussion:
+
+**Andrea:** <span>*“Part of it’s capturing that moment in time because
+it’s gonna be gone. Y’know, and it would be very easy for them to forget
+\[...\] So you’re capturing it for them, you’re capturing it for their
+parents to see what they’ve achieved, or for the \[Young People’s
+Award\] so they can prove whatever it is they’ve done. You’re putting on
+the wall as a celebration, you’re putting it in the annual report for
+funders to see and also for young’uns to see \[...\] Like loads of kids
+will be like ‘will this be going on the wall?’.”*</span>
+
+**Martin:** <span>*“We just take lots of pictures because it becomes a
+resource for us as well. The ones on the wall are of the *Young People’s
+Award* because they’re positive images. Sitting down two people and
+talking one to one and that — it’s not very entertaining.”*</span>
+
+We see here how the organisation use a resource bank of records built up
+by photographs for different types of accounts, to different people.
+This illustrates the elasticity a record may possess; Andrea relates how
+photographs may be used as evidence for participant’s involvement in an
+award, whereas Martin conceptualises them as <span>*“positive
+images”*</span> and a resource for the organisation’s future needs.
+Andrea also explicates how the photographs are shown to parents in order
+to provide an account of their child’s activity with . We also see how
+the photographs are repurposed to provide an account of value in the
+annual report, and to provide a personal record for the young people
+when it’s placed on the wall in <span>*“celebration”*</span>. The
+ability for these records to form a resource from which different
+accounts can be derived also sits in contrast to other forms of work
+that perform that, as Martin indicates here, are more difficult to
+account for (<span>*“Sitting down two people and talking one to one and
+that — it’s not very entertaining”*</span>). We observed this first-hand
+during fieldwork when Martin expressed frustration at the records that
+are required to keep of their meetings with service users, and how it is
+difficult to present these to others:
+
+*I followed Martin to a filing cabinet that was unlabelled. He took out
+a folder to show me an example, “Here. This is a monitoring form we have
+to fill out every time we have a chat with someone. You say who it was,
+what you chatted about and what the outcomes were. Standard ticky-box
+stuff. We’re meant to keep this, and we do by the way, but nobody ever
+asks to see it. I’ve got files here from ten year ago which haven’t seen
+the light of day. People complain at us that we’re not doing our job and
+ticking boxes but we are, but nobody ever comes in. Nobody ever asks.”*
+
+Martin’s frustration indicates that while he is fulfilling legal and
+stipulated obligations designed to make accountable for their work, they
+are not given the opportunity to demonstrate this properly. When Martin
+describes how photographs of these chats would be <span>*“not very
+entertaining”*</span> we also see that whilst could theoretically
+generate records of these, the effort required to do so would not result
+in a substantial gain for the charity when trying to demonstrate their
+value.
+
+#### Accountability of activity in the community
+
+In contrast to the perceived indifference of regulatory bodies, we found
+that the workers at saw themselves as being highly visible and thus
+accountable to their local community both in their roles as youth
+workers, but also as individuals within it due to an inherent visibility
+of their presence. This is characterised by Danny’s conception of
+accountability during a group discussion:
+
+**Danny:** <span>*“There’s the visibility in and out of work. It’s not a
+one-way thing, I’m not Danny the youth worker during the day and I’m not
+Darts-Danny at night I’m both and I’ve got to be very aware that young
+people and the families that I work with, \[...\], I live in the same
+area as them and they are watching me constantly. In and out. I’ve got
+to be visible. It’s... an awareness of your role within the community.
+And I think another one for me, being accountable is remaining humble
+and just thinking that I’m very much where I’ve come from and I’m very
+like the young people I work with and they know my family.”*</span>
+
+With this, Danny shows us how he sees his role in the community by
+living and working in the same area. Danny provides a view that
+accountability for his actions as a youth worker is lived in each
+moment. He is constantly watched by those around him, even when outside
+of work during his recreation activities and can therefore be seen as a
+whole, rather than only through a lens of his output at . The researcher
+saw this value in practice through the way that configures their Social
+Media presence:
+
+**Andrea:** <span>*“We didn’t like having a Facebook ’Page’ because it
+treats you like a business and wants you to pay so everyone sees your
+posts. We want to be seen in the community. So we made the account a
+person instead and everyone is our friend and the kids message us at
+stupid hours …When Facebook changed it so that you couldn’t have a
+company name as a person, we changed our name to ‘Martin ’ as Martin
+doesn’t use Facebook himself. \[The community\] know it’s all of us
+though, not just him.”*</span>
+
+Andrea emphasises the value-driven nature of the organisation’s work
+through how they’ve chosen to configure their Social Media presence. She
+notes that whilst there is a pragmatic benefit in how personal accounts
+are seen on the Facebook platform, this embodies their desire to be seen
+as part of the community. Later, the organisation takes steps to
+maintain this dynamic by capitalising the identity of a worker, Martin,
+for use as a profile name. When Andrea elaborates on her belief that the
+community understands they are interacting with all workers through the
+Facebook account, she belies her belief in the dynamic that the workers
+are visible and present as part of the community and are not abstracted
+by their involvement in the organisation – being visible and
+accountable.
+
+### Accounting for Hidden Work
+
+*Hidden Work* here refers to the effort required by the workers to make
+their work productive, and has been termed *Unproductive Labour* in
+Political Economy @marx_contribution_1970, and *Articulation Work* in
+CSCW texts @schmidt_taking_1992. We concern ourselves not only with how
+this is performed but how it is accounted for and communicated to
+others. In this context it refers to effort expended by workers at the
+charity in addition to what the task demands in-the-moment. An example
+would be the planning required to execute community sessions ahead of
+time. We found that accounting for this hidden work occurs only in
+conjunction with its performance, during meetings, or discussions about
+activities and planning – it is rare for those outside of the
+organisation and immediate community to be made aware of this work.
+Accounting for hidden work is thus more informal, and often complicated
+by the nature of ’s activity. We elaborate on these points below.
+
+#### Responding Work
+
+A lot of hidden work arises from ’s open-door policy, which requires an
+immediate response to community members coming through the door for
+their services or informal discussions – disrupting the processes by
+which workers are performing (and accounting for) hidden work. This came
+to the fore in one discussion during fieldwork:
+
+*We were discussing another youth project operating in the city, as have
+recently acquired a Play Centre and are finding ways to use it most
+effectively so have visited other charities to learn from them. It’s
+mentioned that the other project execute elaborately planned evenings of
+activities for their attendees and Danny exclaims “They’ve got the time
+they don’t start until half four! As soon as that shutter goes up we
+have work to do!” He gestures at street-facing window towards the front
+of the room. The group nod in agreement*
+
+Danny is discussing how ’s activity cannot be judged against that of
+another organisation with different working patterns. He also makes
+reference to the open door policy and its effect on their working day
+regarding planning and makes clear that these informal meetings are
+conceived of as ‘work’; there is effort expended when conversing that
+prevents them from performing other tasks. These conversations must be
+engaged in because they also form an important part of how organise
+their work. This was elaborated on during a group discussion with the
+researcher:
+
+**Andrea:** <span>*“So aye, \[anon\] is a good example. \[...\] I know
+he was doing football, I knew he was doing work experience so he’d have
+the time and you just think well it would be really good for him to do
+it for his future. Y’know, so having a conversation with him to say look
+are you interested in this?”*</span>
+
+Engaging in conversations that arise from the open-door policy can thus
+translate to outcomes, in this case a beneficiary getting a work
+experience placement based around a hobby. This qualifies Danny’s
+earlier utterance that the organisation has <span>*“work to do”*</span>
+as soon as they start: these conversations are work that must occur for
+to achieve its goals effectively, but it is difficult to provide an
+account of this to others.
+
+#### Understanding Hidden Work through Context
+
+We note that hidden work is rarely accounted for outside of the
+organisation and immediate community. During fieldwork, however, Martin
+related how outsiders may be introduced to the context of the
+organisation to understand the *labour* required to perform everyday
+tasks and achieve outcomes:
+
+<span>*“It’s like when this guy from \[a funder\] came in to check. Most
+funders don’t and they don’t understand us. He came in and he loved it.
+He said that he was amazed we could keep the place running, we had so
+much going on around here that we deal with on a daily basis.”*</span>
+
+From this we also see that Martin understands the difficulty of
+accounting for this labour to others — most funders do not visit and
+thus do not understand how the project functions. That the funder is
+amazed at the scale of everyday work and effort being expended shows
+that this is not captured or represented elsewhere; and can be accounted
+for only by being present and producing one’s own account *from the
+context of the activity*. We later saw that this problem is compounded;
+and we illustrate this with a vignette of activity leading up to a
+scheduled evening event in the organisation:
+
+*I was due to attend a session with a group referred to as the ‘Slovak
+Lasses’ group, comprised of young Slovak women aged between 15 and 24.
+The sessions run from 1600 approx until about 1830, and the plan is to
+run a BBQ event for the attendees. From 1545, two participants had
+turned up alongside a part-time worker and sat at computers visit
+Facebook. Danny is also on Facebook using the account and has several
+chat windows open. When prompted, Danny responded that he is “chasing
+up” the rest of the group to make sure that they were coming. Whilst
+passing, Andrea convinces the attendees to accept her taking a
+photograph of them. Danny signs off the computer at 1630 and at 1655,
+there is no sign of other attendees. Danny is visibly concerned, pacing
+back and forward. He mutters that “we should sack this group”. Sofia
+nods then says “this is ridiculous. We have two young people and four
+staff”. I am dismissed by Danny who says “You can go if you want. It’s a
+bit weird if we outnumber the girls and we have loads of staff in”.*
+
+This example shows two things. First, it reinforces the issue of hidden
+hork only being able to be accounted for in-the-moment. Danny performs
+the additional task of ‘chasing up’ participants; work which emerges as
+the evening progresses and is only visible to those in the room.
+Secondly, it raises the issue of how the ’s efforts would appear if
+mapped to outcomes in an accounting process. Sofia indicates that such a
+mapping would not appear favourable (<span>*“We have two young people
+and four staff”*</span>), and Danny hints that this is not an uncommon
+occurrence (<span>*“we should sack this group”*</span>). has to balance
+the goal of maintaining a relationship with the beneficiaries – which
+can lead to important outcomes – with the need to make and be seen
+making effective use of their time and labour resources. The slower and
+seemingly less productive execution of the event also directly contrasts
+with what Martin describes as the funder’s surprise at the high levels
+of activity during a visit. This likely results from an intersection of
+elements such as the specific beneficiaries, the time of day, etc. but
+when isolated from context these two incidents each paint seemingly
+irreconcilable views of the organisation’s daily life.
+
+#### Inferring Hidden Work
+
+We did see that hidden work may sometimes be inferred by other members
+of the organisation, in addition to those present as it occurs. This is
+often achieved through the records that are produced as a by-product of
+activity in conjunction with the worker’s implicit knowledge of each
+others’ work practices:
+
+*I was participating in a planning session for the evening’s activities;
+initiated when Danny and Andrea each took out large workbooks. Andrea
+asks “Where’s Martin?”, to which Danny responds that he is “down the
+allotment”. Andrea looks puzzled at this and Danny elaborates, “He’s
+seeing how \[the gardener\]’s getting on” and turns the notebook to show
+Andrea. There is a task list which shows ‘allotment’. Andrea looks at
+this, and nods.*
+
+This shows that workers may use records to infer the activity and thus
+the work of others in the charity. Danny shows Andrea a workbook entry
+which contains only a single word that allows both Danny and Andrea to
+construct a context around Martin’s current whereabouts. We see how
+Andrea and Danny understand that work is being performed at the
+allotment, and that Martin’s absence indicates that it is him performing
+it. We also see how the workers are able to infer the nature of this
+work, as Danny is able to ascertain that Martin is checking up on
+someone whilst there. Similarly, we saw that financial records such as
+receipts could be re-appropriated and used for this inferral:
+
+*Martin was having lunch and moving items on the table out of his way,
+to place his laptop there and write a report. Moving a pile of paper, he
+turns to inspect it and finds a receipt, saying aloud “What’s this? Ohh.
+It’s the pancake stuff for tonight; Sofia’s been shopping.”*
+
+The receipt makes Sofia’s work accountable internally, as Martin
+recognises that the items are a list of ingredients to make pancakes, an
+activity commonly run by the charity. He infers that there has been
+effort expended in acquiring these materials when he says
+<span>*“Sofia’s been shopping”*</span>, and can attribute this to Sofia
+through knowledge that shopping was a task to be completed and that
+Sofia was assigned to it. The receipt also pertains to the charity’s
+activity – running a session involving cooking. This shows how
+accounting for this hidden work hints at the organisation’s work towards
+goals. Notably, this we see how a record may exist within several
+contexts: evidencing expenditure, the inferral of activity, and the
+by-product of work related to activity (a cooking session) that may be
+accounted for.
+
+Discussion
+-----------
+
+Our findings demonstrate that those working in a charity may experience
+accountability in multiple ways, with reference to their values, work,
+and responsibilities both as an organisation and individuals. Our
+ethnography shows we see how legal and financial frameworks surrounding
+the organisation has a pronounced effect in the work required for a
+charity to account for the use of resources – both financial and labour
+– and also that members of the setting can experience this
+accountability as part of their everyday work in the organisation. We
+also saw evidence that the organisation and its workers view themselves
+as inseparable from their local community, thus accountable to it; this
+relationship requires a maintenance effort similar to the legal demands
+of government and funders.
+
+Our findings show how conflicts may emerge from the ways in which the
+charity views itself as accountable to various stakeholders such as its
+community, its funders, and governmental bodies. In one key instance, we
+see how must be accountable to funders by reporting their use of grant
+money whilst simultaneously tailoring activities and spending with
+regard to the emergent needs of their beneficiaries. This conflict is
+rooted in the accountability pathways that they must engage in:
+charities are controlled by their funders to ensure that their spending
+falls within a specific remit, and this conflicts with a need to be
+responsive as an organisation and act in accordance with the needs of
+beneficiaries. This is discussed by Koppel as *Multiple Accountability
+Disorder (MAD)* @koppell_pathologies_2005 and compounding this is the
+various ways in which the organisation is required to make itself
+transparent. As discussed, transparency is often seen as a foundational
+element of accountability but the relationship between the two is
+nuanced – where various forms of being transparent may generate
+different forms of accountability @koppell_pathologies_2005
+[@fox_uncertain_2007; @hood_accountability_2010].
+
+This raises questions around the role of technologies in charities and
+how they allow workers to navigate conflicts inherent in their
+accountability requirements. In the following sections we discuss design
+considerations for future systems that seek to assist charities in
+managing the tensions associated with becoming transparent and
+accountable.
+
+### Support the Accountability of Work Practice
+
+Our research began by examining accountability from the perspective of
+public and voluntary sector administration, where organisations may be
+accountable to others through a number of different pathways such as
+producing answers when questioned @fox_uncertain_2007
+[@koppell_pathologies_2005]. This is demonstrated in our findings as
+much of the work involved in ‘doing accountability’ involves workers
+producing answers for stakeholders in the form of reports on spending
+and how activities were delivered in relation to this expenditure. We
+posit this offers HCI an opportunity to affect change through a form of
+accountability with which it is intimately familiar: the accountable
+nature of work @garfinkel_studies_1967.
+
+While ‘work’ in Garfinkel’s terms refers explicitly to interactional
+work in the accomplishment of ordering social settings, these
+interactions are what form the basis of an organisation’s accomplishment
+of its goals. For example, our findings show that a receipt of purchase
+obviously means someone has been shopping, and is also incorporated as
+evidence in the financial accounting process. We show that an
+organisation can account for the work that it does towards its goals but
+that the emergent nature of outcomes means that this only provides a
+partial view. We see that visitors to comment upon activity there as the
+work and the context of that work is made obvious; yet the accountable
+nature of that interaction is not supported through systematic processes
+for reporting.
+
+Making accountability accountable here, then, *involves producing
+systems that allow the communication of organisation’s accomplishment of
+their work practice in relation to their goals*. This should be in such
+a way that the work of an organisation is made obvious at a glance. Our
+findings demonstrate that the charity appropriates social media as an
+‘organisational accounting device’ @dourish_process_2001, making their
+activities observable and reportable to those who care to look. As such,
+we propose that technologies be developed to support the communication
+of work practices in context with organisational goals. For instance,
+accounting software that appropriates social media features such as
+timelines, tagging, and events to contextualise financial records or
+work toward outcomes. This would provide a resource for both workers and
+stakeholders and in doing so may begin to address the current chasm
+between reporting processes and the emergent nature of outcomes; making
+it clearer to all parties how the work of a charity sits in its local
+context.
+
+It is imperative to ensure that these systems cannot be used to control
+or monitor the actions of workers, effectively ‘managing’ productive
+labour to make this accountable to funders @harper_looking_1992. Systems
+should instead provide workers with means to produce accounts of their
+work flexibly, and express these accounts in a diverse manner. This
+enables the different forms of transparency that predicate various
+accountabilities @koppell_pathologies_2005
+[@fox_uncertain_2007; @hood_accountability_2010]. Such systems will thus
+need to enable the configuration of transparency to support making work
+accountable for those who care to look. We discuss how this may be
+achieved below.
+
+### Enable configuration of Transparency
+
+Charities such as are shown to engage simultaneously in multiple forms
+of transparency to satisfy their accountability requirements. While
+regulatory bodies and funders are concerned with spending money and
+monitoring output this is widely accepted to be divorced from the true
+impact of an organisation’s work @heald_varieties_2006. Simultaneously,
+take efforts to make themselves transparent and accountable to their
+community through practices such as using social media and having
+open-door policies.
+
+These efforts are in line with calls to partake in more active forms of
+transparency which are seen as more communicative @oliver_what_2004
+[@schauer_transparency_2011]. We see here, however, that this often
+requires extra work on behalf of the workers to articulate their results
+and efforts to the community on top of compiling reports for other
+government entities and funders. Important here is the narrative form
+this transparency takes, and HCI has previously seen how charities can
+construct narratives surrounding their work through the use of Open Data
+@erete_storytelling_2016. engage in a process which involves them
+collecting data which they fashion into narratives. Digital tools also
+play a role in ‘Costing Work’ to satisfy requirements that spending
+appears to have been in accordance with funding conditions, but is
+actually spent as the charity responds more directly to beneficiaries.
+This is an example of how charities may feel compelled to frame their
+work by tailoring reports to meet expectations @lowe_playing_2015, and
+demonstrates how the values embedded in the design have negative impacts
+on how the organisation may achieve its goals @pine_institutional_2014.
+
+While previous HCI work calls for qualitative forms of accounting
+@marshall_accountable:_2016, we put forward that new systems must do
+more than simply incorporate additional metadata into the accounting
+process; *they must be designed with embedded values that better reflect
+the needs of an organisation and its beneficiaries*. As these may differ
+between organisations, systems should seek to support workers in easily
+matching their records to the required format per request without much
+additional labour. *Providing interfaces to retrieve, combine, and
+present data in a multitude of ways would go some way in supporting
+charities experiencing multiple accountability requirements*. Doing so
+acknowledges not only the conflict of multiple accountabilities and
+transparencies; but the problem that is the effort required to manage
+these conflicts separately. This would allow organisations a material
+means to configure transparency based on context. It also presents new
+opportunities for stakeholders to engage charities; if systems allowed
+the controlled retrieval of information @mcauley_dataware_2011, then
+stakeholders may actually assist in configuration work and create new
+ways to interpret the data that is more meaningful for them.
+
+This may be achieved practically through providing lightweight,
+interoperable, data collection tools and interfaces (e.g. mobile and web
+applications) that allow workers to easily collect, combine, and process
+information based on evolving needs but *operate independently without
+commitment to one platform*. Thus the design embodies values of
+organisational control and flexibility to support workers collaborating
+in curating an organisational account. This account would then take the
+form of an interrogable dataset that can be configured to meet the mode
+of transparency and accountability required for a given purpose.
+Providing this configurable form of transparency requires that systems
+consider the means by which the dataset is created, curated, and
+queried. We address this below.
+
+### Create Contexts through Linked Accounting
+
+We have seen the challenges of accounting for Hidden Work; the activity
+behind what is being accounted for. This challenge also manifests in
+terms of the increasing demand for charities to not just account for
+their activity, but for their outcomes - the effect of their activity on
+the lives of those with whom they work @lowe_playing_2015. Holding
+organisations accountable for delivering outcomes (e.g. improving the
+health of a community) has been critiqued as they are often the result
+of overwhelmingly complex systems, which any given organisation cannot
+control, and therefore cannot be held accountable for @lowe_new_2013.
+Our findings demonstrate that a disconnect exists in how organisations
+may perform work and how it is reported upon; such as being concerned
+about numbers attending a group.
+
+Historically, the ‘Linking Processes’ between input of work and money to
+work output and eventual outcomes has been problematic and poorly
+understood @heald_varieties_2006. People often seek to create ‘program
+logic models’ which connect activity to outcomes as a linear model of
+cause-and-effect @schalock_measuring_2003 but as discussed; outcomes are
+generally emergent and such models are not representative of how they
+come about.
+
+Since outcomes emerge from complex systems interacting @lowe_new_2013
+[@lowe_playing_2015], we have proposed that digital technologies support
+configuration of transparency. The role of Linked Data
+@bizer_emerging_2009 is central in this for two reasons. First, data is
+a boundary object @crabtree_human_2015 [@star_institutional_1989] that
+may be appropriated and adapted as a means of providing ‘alternative
+lenses’ on work and spending @elsden_designing_2017; as such, Linked
+Data supports the configuration of transparency by providing the
+material means to combine and show information in context based on need.
+This allows organisations to rapidly produce lenses on their work to
+satisfy reporting requirements while predicating only that an initial
+link be developed between income, work, and outcome to support traversal
+and presentation of the data. Second, Linked Data implies
+interoperability with other datasets which speaks to the complex nature
+of outcomes discussed above. These linking processes could support
+charities, or other actors, linking multiple datasets to better
+understand the complex nature of how outcomes are emergent; and from
+this produce a context that better situates the role of the charity in
+producing that outcome.
+
+Such a system also has grounds in the legal procedures necessary to
+audit a charity’s financial accounts. We note that these are somewhat
+federated in nature; there exists a standard and agreed upon mechanism
+for having one’s accounts verified and signed, yet multiple actors may
+perform the ratification. This ecosystem resembles that postulated by
+the Dataware Manifesto @mcauley_dataware_2011, and creating a Linked
+Data set within a charity would support this process through the
+controlled sharing of data. This federation may be achieved through
+making digital tools independent and interoperable, as described above.
+Furthermore, linking data could see this form of federated system used
+to produce other forms of transparency; processes acting on Linked Data
+could be used to create new interfaces around work and spending that
+support the more active forms of transparency discussed at the start of
+this paper @schauer_mixed_2014.
+
+In doing this, systems would support the creation of ‘Linked
+Accounting’. That is to say these systems may engender accounting and
+reporting process built upon the premise that organisations are being
+asked to account for outcomes that have no control over, but *their work
+(and spending) is accountable and may be linked to outcomes as having
+taken place*. This shifts the focus of ‘accounting’ in charities towards
+the accountable performance of work, and contributes Linked Data for the
+wider community to use in mapping and understanding the complex systems
+contributing to outcomes.
+
+Conclusion
+-----------
+
+In this paper we set out to explore how an understanding of the everyday
+work practices of charities could be used to inform the design of
+systems that seek to support them in becoming transparent and
+accountable. We explicate that the complex nature of transparency and
+accountability manifests as a variety of interconnected work practices
+that are experienced by the charity workers, and how socio-technical
+systems that are used by organisations also affect these same practices.
+We then present implications for the design of future systems that embed
+values of worker control and flexibility in order to support charities
+navigating their obligations in everyday practice. We discuss this by
+drawing upon our understanding of the accountable nature of work
+practices, and how this may be captured and represented through
+interoperable digital systems that allow charities to configure
+transparency and accountability in accordance with their needs; leading
+to the concept of ‘Linked Accounting’.
+
+Charity organisations and the HCI community share important civic and
+social concerns, and the reduction of barriers to a charity’s efforts
+through digital technologies has far-reaching implications for society.
+Future work should seek to further engage with charities to
+collaboratively develop and deploy these systems to discover how they
+may be appropriated into work practice to achieve organisational goals.
+Care should be taken to ensure that these novel accounting technologies
+are developed so that they are not used to control the actions of
+workers, but used to provide the workers a flexible means to deliver
+work, and to have this interpreted in a diverse number of ways. In doing
+so HCI may affect civic change through engagement with this rich design
+space.
+
+
+
+
+<!-- This chapter provides an empirical account of work practice developed through fieldwork techniques. Its focus is on how accountability requirements manifest in daily workplace practice, and what that means for technologies operating in this space.
 
 Introduction
 -----------------
@@ -41,4 +1107,4 @@ This section discusses the design requirement that a Configurable transaprency m
 This section proposes linked data solutions as a means to producing the characteristics outlines above.
 
 Summary / Conclusions
-----------------------------------
+---------------------------------- -->
