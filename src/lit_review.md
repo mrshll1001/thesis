@@ -367,7 +367,7 @@ although on-the-ground Trust plays a key role in accessing resources in
 the social network, since a transaction between two trusting actors is
 less expensive (both in terms of emotional labour and financial capital)
 to faciliate than a similar transaction between two actors lacking trust
-@schneier_liars_2012. Trust, therefore, is an important factor for
+@schneier_liars_2012-1. Trust, therefore, is an important factor for
 charities and TSSEs in the performance of their work as lack of Trust
 will impede an organisation as much as high Trust will aid them.
 
@@ -406,7 +406,7 @@ Government is @correa_really_2014, and Steele goes as far to say
 @steele_open-source_2012. Non-Profit Organisations (NPOs) in the UK are
 held to stringent Transparency standards by an organisation known as the
 Charity Commission, which is responsible for registering and regulating
-charities in England and Wales @hm_government_charity_????. The
+charities in England and Wales @hm_government_charity_nodate. The
 development of trust is foundational in the relationship between an
 organisation and those invested in its activities or performance, known
 as stakeholders, which is compounded by the notion that a stakeholder in
@@ -851,7 +851,7 @@ interpretations were available, and Elsden et al explicitly note its
 implications for organisational transparency; with the caveat that a
 major design question raised by the research is whether
 contextualisation should occur merely through the data, or in
-conversation around it @elsden_resviz:_2016.
+conversation around it @elsden_resviz_2016.
 
 As discussed, the presentation of information is not enough to engage in
 more modern forms of transparent practice; and the use of data (however
@@ -900,7 +900,7 @@ with the application of information to solve issues or answer questions,
 so it stands to reason that an adequate data infrastructure would allow
 for (or even promote) engagement of stakeholders in OSINT for asking
 questions of charitable organisations (the ‘Habit of Engagement alluded
-to earlier @gordon_making_2013-1). At the very least, such an
+to earlier @gordon_making_2013). At the very least, such an
 infrastructure would enable the organisations to produce effective and
 interactive responses to queries around the performance of their work
 and their spending.
@@ -1010,7 +1010,7 @@ offer options wherein donators to a particular fund may have their
 donation returned if, for example, the total requested amount of
 donations has not been met. Beltran et al extend this concept further
 with their deployment of ‘Codo‘ which they describe as “Fundraising with
-Conditional Donations” @beltran_codo:_2015. In this deployment, Beltran
+Conditional Donations” @beltran_codo_2015-1. In this deployment, Beltran
 et al describe how they developed a logical grammar which allows a donor
 on the system to more richly prescribe (or describe) the conditions of
 their donation, such as matching funds from other individuals or those
@@ -1026,7 +1026,7 @@ that conditions that they set out are not adequately met.
 
 It is also important to note that my previous work has explicitly
 explored how Transparency and Accountability are, as of writing, poorly
-supported by digital technologies @marshall_accountable:_2016. This
+supported by digital technologies @marshall_accountable_2016. This
 findings of this initial, exploratory, work highlights similarities
 between how individuals semantically divide money into ’pots’ and how
 charities’ finances are often restricted to particular use-cases due to

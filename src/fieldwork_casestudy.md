@@ -24,9 +24,9 @@ with transparency in dialogues around government and business
 Recent work within HCI has examined the use of open data by charities
 for constructing narratives @erete_storytelling_2016, the use of data
 for metrics for reporting and understanding organisational finances
-@elsden_resviz:_2016, and has provided insight into how digital systems
+@elsden_resviz_2016, and has provided insight into how digital systems
 can provide more comprehensive forms of transparency in these
-organisations @marshall_accountable:_2016. However, thus far there is
+organisations @marshall_accountable_2016. However, thus far there is
 little understanding of how technologies like these, and more
 commonplace data technologies, and data work, integrate into the daily,
 lived, work of charities.
@@ -133,7 +133,7 @@ demonstrated how charities have used open data to form narratives around
 local conditions @erete_storytelling_2016, while others have highlighted
 how visualisations around organisational metrics (including funding)
 support the use of data for reporting, understanding, and providing
-insight within highly politicised environments @elsden_resviz:_2016. In
+insight within highly politicised environments @elsden_resviz_2016. In
 the personal sphere, concepts of data lockers allow external processors
 to interact with one’s data while maintaining personal control
 @mcauley_dataware_2011 and data itself is likened to a boundary object
@@ -155,7 +155,7 @@ and failing to represent non-monetary elements such as the efforts of
 those who volunteer for a charity’s projects and cause. The
 recommendations from this prior work are for new digital systems and
 processes that provide a more comprehensive and value-driven alternative
-to simple financial accounting @marshall_accountable:_2016.
+to simple financial accounting @marshall_accountable_2016.
 Additionally, imposed or expected transparency measures are often seen
 to be in conflict with effective practice regarding to organisational
 independence, confidentiality, and privacy @cukierman_limits_2009
@@ -176,9 +176,9 @@ maintain a relationship with their stakeholders
 
 The work reported in this paper builds upon previous research in HCI
 around the design of systems to facilitate transparency and
-accountability in charities @marshall_accountable:_2016, and work that
+accountability in charities @marshall_accountable_2016, and work that
 discusses the use of data for interaction by and between individuals and
-organisations @crabtree_human_2015 [@elsden_resviz:_2016]. Where
+organisations @crabtree_human_2015 [@elsden_resviz_2016]. Where
 previous investigations focus on the design for interfaces to interact
 with data, or the ownership and processing of the same, it typically
 fails to account for the work needed in organisations to compile this
@@ -933,7 +933,7 @@ demonstrates how the values embedded in the design have negative impacts
 on how the organisation may achieve its goals @pine_institutional_2014.
 
 While previous HCI work calls for qualitative forms of accounting
-@marshall_accountable:_2016, we put forward that new systems must do
+@marshall_accountable_2016, we put forward that new systems must do
 more than simply incorporate additional metadata into the accounting
 process; *they must be designed with embedded values that better reflect
 the needs of an organisation and its beneficiaries*. As these may differ
