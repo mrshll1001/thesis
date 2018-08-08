@@ -398,31 +398,9 @@ and Accountability may play in this, we situate the research as
 operating within these spaces in order to provide a foundational
 understanding from which to begin working.
 
-Transparency and Accountability are seen increasingly desirable in
-governments and organisations @hood_accountability_2010
-[@oliver_what_2004; @heald_fiscal_2003]. Oliver states that Transparency
-has @oliver_what_2004. Corrêa et al. say Transparency and Open
-Government is @correa_really_2014, and Steele goes as far to say
-@steele_open-source_2012. Non-Profit Organisations (NPOs) in the UK are
-held to stringent Transparency standards by an organisation known as the
-Charity Commission, which is responsible for registering and regulating
-charities in England and Wales @hm_government_charity_nodate. The
-development of trust is foundational in the relationship between an
-organisation and those invested in its activities or performance, known
-as stakeholders, which is compounded by the notion that a stakeholder in
-an NPO might not be in direct receipt of its services
-@macmillan_relationship_2005 [@krashinsky_stakeholder_1997]. Beyond
-this, accountability is seen as a way of building legitimacy as an
-organisation @anheier_accountability_2009. Watchdog organisations such
-as the Charity Commission and others therefore play an important role in
-developing stakeholder relationships with NPOs through Transparency
-measures, making them accountable to those invested in them. Oliver
-writes that NPO expenditure is often the , and a person’s decision to
-invest in a charity will be down to how comfortable and confident they
-are in its operation @oliver_what_2004.
+Transparency and Accountability are seen increasingly desirable in governments and organisations @hood_accountability_2010 [@oliver_what_2004; @heald_fiscal_2003]. Oliver states that Transparency has *"moved over the last several hundred years from an intellectual ideal to center stage in a drama being played out across the globe in many forms and functions"* @oliver_what_2004. Corrêa et al. say Transparency and Open Government is *"synonymous with efficient and collaborative government"* @correa_really_2014, and Steele goes as far to say *"Transparency is the new `app' that launches civilization 2.0"* @steele_open-source_2012. Non-Profit Organisations (NPOs) in the UK are held to stringent Transparency standards by an organisation known as the Charity Commission, which is responsible for registering and regulating charities in England and Wales *"to ensure that the public can support charities with confidence"* @hm_government_charity_nodate. The development of trust is foundational in the relationship between an organisation and those invested in its activities or performance, known as stakeholders, which is compounded by the notion that a stakeholder in an NPO might not be in direct receipt of its services @macmillan_relationship_2005 [@krashinsky_stakeholder_1997]. Beyond this, accountability is seen as a way of building legitimacy as an organisation @anheier_accountability_2009. Watchdog organisations such as the Charity Commission and others therefore play an important role in developing stakeholder relationships with NPOs through Transparency measures, making them accountable to those invested in them. Oliver writes that NPO expenditure is often the most *"emotional"*, and a person’s decision to invest in a charity will be down to how comfortable and confident they are in its operation @oliver_what_2004.
 
-Hood writes that @hood_transparency_2006-1. This section considers
-various definitions of Transparency in relation to the UK Charity
+Hood writes that *"Transparency is more often preached than practised [and] more often invoked than defined"* @hood_transparency_2006-1. This section considers various definitions of Transparency in relation to the UK Charity
 Commission, NPOs, and the measures that are taken to make them
 accountable to stakeholders. It also inspects Transparency’s synonymity
 with Accountability.
@@ -615,12 +593,7 @@ difficult or impossible task @heald_varieties_2006.
 
 ### Transparency and Accountability
 
-The imposition of transparency measures is generally seen as tantamount
-to ensuring accountability of institutions, organisations, or
-individuals in power; and often the terms are used interchangeably
-@fox_uncertain_2007 [@hood_accountability_2010]. The two terms, however,
-are separate and have their own (if somewhat malleable) definitions
-@fox_uncertain_2007. Fox discusses accountability in terms of or the ,
+The imposition of transparency measures is generally seen as tantamount to ensuring accountability of institutions, organisations, or individuals in power; and often the terms are used interchangeably @fox_uncertain_2007 [@hood_accountability_2010]. The two terms, however, are separate and have their own (if somewhat malleable) definitions @fox_uncertain_2007. Fox discusses accountability in terms of *"the capacity or right to demand answers"* or the *"capacity to sanction"*,
 whereas transparency concerns itself with the public’s right and ability
 to access information; and whilst common wisdom dictates that
 transparency generates accountability, this assumption is challenged
@@ -635,8 +608,7 @@ increasingly desirable term, opponents will express their dissent
 through provision of *fuzzy transparency*. This is data which lacks
 information that can reveal organisational behaviour and thus cannot be
 used to generate accountability @fox_uncertain_2007. The *Clear
-Transparency* alluded to by Fox is defined as . Importantly, though
-*Clear Transparency* is concerned with organisational behaviour, it is
+Transparency* alluded to by Fox is defined as *"information-access policies [and] programmes that reveal reliable information about institutional performance, specifying officials' responsibilities [and] where public funds go"*. Importantly, though *Clear Transparency* is concerned with organisational behaviour, it is
 not sufficient to generate accountability – which requires the
 intervention of other actors @fox_uncertain_2007. Accountability is also
 explained by Fox as either *Soft Accountability* (the ability to demand
@@ -646,10 +618,9 @@ public the ability to perceive problems, and to demand answers – which
 is a form of *Soft Accountability* known as *answerability*
 @fox_uncertain_2007. Further forms of accountability are founded on the
 ability to not only reveal existing data, but to investigate and produce
-information about organisational behaviour @fox_uncertain_2007. Anheir
-and Hawkes reflect Fox’s sentiment in their discussion of
-Accountability, where they describe Accountability as a , and note that
-in the case of trans-national organisations; Accountability itself is a
+information about organisational behaviour @fox_uncertain_2007.
+
+Anheir and Hawkes reflect Fox’s sentiment in their discussion of Accountability, where they describe Accountability as a *"multi-dimensional concept that needs unpacking before becoming a useful policy concept and management tool"*, and note that in the case of trans-national organisations; Accountability itself is a
 problem, and not simply a solution @anheier_accountability_2009. This
 discussion, whilst focusing on the difficulty of regulating
 accountability across national borders, has insight into the ways that
@@ -663,23 +634,13 @@ to alleged misuse of funds @elgot_kids_2015
 ‘Five Dimensions of Accountability’ framework – which imbues
 Accountability with a five-part typology: *transparency*; *liability*;
 *controllability*; *responsibility*; and *responsiveness*
-@anheier_accountability_2009 [@koppell_pathologies_2005]. Koppel avoids
-trying to produce a definitive definition of Accountability, stating ,
-and the five-dimensional typology is instead designed to facilitate
-discussion of the term @koppell_pathologies_2005. Transparency features
-prominently in the typology, with Koppell referring to it as one of the
-alongside liability @koppell_pathologies_2005. Liability, according to
-Koppell, is the attachment of consequences to performance and
-culpability to Transparency – punishing organisations or individuals for
-failure, and rewarding them for successes @koppell_pathologies_2005. In
-this, the ‘foundational’ dimensions of Koppell’s typology are aligned
-with Fox’s definitions of Accountability which covers the capacity of
-demanding answers and to sanction, with Transparency as the ability to
-access the information in the first place @koppell_pathologies_2005
-[@fox_uncertain_2007]. The remaining three dimensions of Koppell’s
+@anheier_accountability_2009 [@koppell_pathologies_2005].
+
+Koppel avoids trying to produce a definitive definition of Accountability, stating *"[to layer] every imagined meaning of accountability into a single definition would render the concept meaningless"*, and the five-dimensional typology is instead designed to facilitate discussion of the term @koppell_pathologies_2005. Transparency features prominently in the typology, with Koppell referring to it as one of *"foundations, supporting notions that underpin accountability in all of its manifestations"* the alongside liability @koppell_pathologies_2005. Liability, according to Koppell, is the attachment of consequences to performance and culpability to Transparency – punishing organisations or individuals for failure, and rewarding them for successes @koppell_pathologies_2005. In this, the ‘foundational’ dimensions of Koppell’s typology are aligned with Fox’s definitions of Accountability which covers the capacity of demanding answers and to sanction, with Transparency as the ability to
+access the information in the first place @koppell_pathologies_2005 [@fox_uncertain_2007]. The remaining three dimensions of Koppell’s
 typology: *controllability*; *responsibility*; and *responsiveness* are
 all built upon the foundations of Transparency and Liability.
-*Controllability* is a form of accountability where if
+*Controllability* is a form of accountability where if *"X can induce the behaviour of Y [then] X controls Y [and] Y is accountable to X*
 @koppell_pathologies_2005. Koppell notes that *Controllability* can be
 difficult in organisations that have multiple stakeholders to whom the
 organisation is supposed to be controlled by
@@ -705,20 +666,12 @@ Koppell’s typology under *Responsiveness*
 the needs of its clients, as opposed to the following of hierarchical
 orders @koppell_pathologies_2005.
 
-In the context of this typology, Koppell also puts forward a state
-resultant from an organisation’s engagement with the various forms of
-Accountability. *Multiple Accountability Disorder (MAD)* is framed as a
-condition afflicting organisations which attempt to engage in multiple,
-conflicting, forms of Accountability simultaneously; negatively
-affecting their ability to operate and perform their work as an
-organisation and dissatisfying the actors whom they are expected to be
-accountable to @koppell_pathologies_2005. This is because the various
-forms of Accountability are rarely ever differentiated in practice, and
-@koppell_pathologies_2005. An organisation may experience *MAD* as a
+In the context of this typology, Koppell also puts forward a state resultant from an organisation’s engagement with the various forms of Accountability. *Multiple Accountability Disorder (MAD)* is framed as a condition afflicting organisations which attempt to engage in multiple, conflicting, forms of Accountability simultaneously; negatively affecting their ability to operate and perform their work as an organisation and dissatisfying the actors whom they are expected to be accountable to @koppell_pathologies_2005. This is because the various forms of Accountability are rarely ever differentiated in practice, and *"Organizations are often expected to be accountable -- explicitly or implicity -- in every sense"* @koppell_pathologies_2005. An organisation may experience *MAD* as a
 conflict between adhering to expected professional standards and
 responding directly to the orders of a stakeholder and in some cases,
 multiple stakeholders may issue contradictory directives to an
 organisation that are expected to be obeyed @koppell_pathologies_2005.
+
 
 How can digital technologies support NPO Transparency and Accountability?
 -------------------------------------------------------------------------
@@ -726,15 +679,14 @@ How can digital technologies support NPO Transparency and Accountability?
 Transparency and Accountability can be said to be ultimately concerned
 with the sharing of information and the creation of pathways or
 mechanisms that allows stakeholders to act in accordance to it. Meijer
-argues that @meijer_understanding_2009, and Oliver goes as far to posit
+argues that *"modern transparencies are computer-mediated"* @meijer_understanding_2009, and Oliver goes as far to posit
 that digital technologies have sparked a self-sustaining *Information -
-Transparency Cycle* which is and that information is now a commodity
-which is cheap to collect, organise, analyse, and distribute; the result
-of which is a reaction to missing information and a return to the
+Transparency Cycle* which is *"unstoppable"* and that information is now a commodity
+which is cheap to collect, organise, analyse, and distribute; the result of which is a reaction to missing information and a return to the
 collection phase @oliver_what_2004. Similarly, Steele, in his *Open
 Source Everything Manfiesto* reflects on the ways in which the Internet
 has enabled the public to overcome previous restrictions on access to
-information and states, in no unclear terms, @steele_open-source_2012.
+information and states, in no unclear terms, *"This bodes well for humanity"* @steele_open-source_2012.
 
 Models which support openness and public access to information has use
 cases that support its effectiveness as a tool for certain forms of
@@ -765,7 +717,7 @@ that derivative software, or new software including Free-licensed code
 as a component, is also released holistically as under the same license
 and thus under the same terms – enforcing access to the source.
 Stallman’s original GNU manifesto outlines the reasons why his GNU
-system employs a form of viral licensing: @stallman_gnu_1985. In this,
+system employs a form of viral licensing: *"Control over the use of one's ideas' really constitutes control over people's lives; and it usually used to make their lives more difficult"* @stallman_gnu_1985. In this,
 Stallman declares a unique form of accountability that can almost be
 seen as paradoxical – one that explicitly controls the actions of a
 particular group (programmers) in order to dictate that they relinquish
@@ -787,7 +739,7 @@ with finances
 
 ### Interacting with Data
 
-Open Data is @open_data_institute_what_nodate. It consists of organised
+Open Data is *"data that anyone can access, use, or share"* @open_data_institute_what_nodate. It consists of organised
 data that is, generally, structured and placed online so that it can be
 consumed for use. Open Data can be produced, shared, and used by many
 people in many different contexts (e.g. scientific data sets, or
@@ -808,7 +760,7 @@ interact with this data in a more explicit fashion
 A ‘Boundary Object’ is anything which may be recognised across different
 social ‘worlds’, yet may be appropriated and adapted by the needs of
 individuals and groups in a manner that pertains to their specific needs
-and context. Star and Griesemer describe Boundary Objects as
+and context. Star and Griesemer describe Boundary Objects as *"both plastic enough to adapt to local needs ... yet robust enough to maintain a common identity across sites"*
 @star_institutional_1989 A good example of this is a receipt of
 purchase; it is inarguably a receipt, yet may be used by the bank to
 verify a purchase, by a store to prove that you own the items you’ve
