@@ -1,138 +1,27 @@
 Background and Literature {#lit-review}
 =========================
 
-This chapter discusses the background and literature of the various
-fields that inform this research. Given the interdisciplinary history of
-HCI research, and the socio-economic domain of non-profit enterprise, it
-should come of no surprise that this results in a rich and diverse nexus
-of perspectives which needs to be accounted for.
+This chapter discusses the background and literature of the various fields that inform this research. Given the interdisciplinary history of HCI research, and the socio-economic domain of non-profit enterprise, it should come of no surprise that this results in a rich and diverse nexus of perspectives which needs to be accounted for.
 
 Charities, what are they good for?
 ----------------------------------
 
-This section explores Charities and Non-Profit Organisations (NPOs); how
-they are defined, and what role they play in society. This is done for
-two reasons: firstly, to explore the ecosystems, landscapes, and
-settings within which these organisations operate so that the research
-is effective; and secondly, to ground the work’s relevance as playing a
-part in the everyday activities of the world.
+This section explores Charities and Non-Profit Organisations (NPOs); how they are defined, and what role they play in society. This is done for two reasons: firstly, to explore the ecosystems, landscapes, and settings within which these organisations operate so that the research is effective; and secondly, to ground the work’s relevance as playing a part in the everyday activities of the world.
 
 ### What is a Charity?
 
-Defining what constitutes a charity can be problematic because it is a
-specific form of organisation that belongs to an entire sector or family
-of organisations which have historically resisted definition
-@salamon_search_1992-1 [@morris_defining_2000]. This is largely due to
-the sheer diversity of both the organisations themselves as well as the
-legal and social frameworks in which they operate
-@salamon_search_1992-1. Even choosing which term to use is problematic
-not only because any given term can emphasise particular traits of
-organisations or exclude some organisations entirely, but choosing what
-term to use will give any discussion a particular national flavour. For
-example, the term ’Charity Sector’ is often used in the UK whereas
-framing this discussion using the term of ’Non-Profit Organisations’
-(NPOs) makes it feel distinctly relevant to the USA @frumkin_being_2009.
-However, as noted, these organisations all share a genealogy, which
-means utilising literature that in turn uses a variety of terms to
-describe this group of organisations. A working definition of ’a
-charity’ will be outlined at the end of this section.
+Defining what constitutes a charity can be problematic because it is a specific form of organisation that belongs to an entire sector or family of organisations which have historically resisted definition @salamon_search_1992-1 [@morris_defining_2000]. This is largely due to the sheer diversity of both the organisations themselves as well as the legal and social frameworks in which they operate @salamon_search_1992-1. Even choosing which term to use is problematic not only because any given term can emphasise particular traits of organisations or exclude some organisations entirely, but choosing what term to use will give any discussion a particular national flavour. For example, the term ’Charity Sector’ is often used in the UK whereas framing this discussion using the term of ’Non-Profit Organisations’ (NPOs) makes it feel distinctly relevant to the USA @frumkin_being_2009. However, as noted, these organisations all share a genealogy, which means utilising literature that in turn uses a variety of terms to describe this group of organisations. A working definition of ’a charity’ will be outlined at the end of this section.
 
-Charities are a form of Non-Profit Organisation (NPO) which operate
-within what is often known as the “Third Sector” of the economy;
-emphasising their separation for public or state-owned operations as
-well as private for-profit enterprise @salamon_search_1992-1. The term
-’Third Sector’, however, is often used interchangeably with others such
-as “Voluntary Sector”, “Independent Sector”, “Charitable Sector”, or
-many others. Salamon and Anheier claim that this abundance of
-definitions often poses a problem, as each term emphasises a particular
-characteristic of these organisations whilst downplaying others – which
-can be misleading when attempting to describe them
-@salamon_search_1992-1. An example of this would be how the term
-“Voluntary Sector” emphasises the contributions of volunteers in the
-operation of the organisations, at the expense of organisations or
-activities that are performed by paid employees. Frumkin prefers the
-term “Non-Profit and Voluntary Sector” for this reason
+Charities are a form of Non-Profit Organisation (NPO) which operate within what is often known as the “Third Sector” of the economy; emphasising their separation for public or state-owned operations as well as private for-profit enterprise @salamon_search_1992-1. The term ’Third Sector’, however, is often used interchangeably with others such as “Voluntary Sector”, “Independent Sector”, “Charitable Sector”, or many others. Salamon and Anheier claim that this abundance of definitions often poses a problem, as each term emphasises a particular characteristic of these organisations whilst downplaying others – which can be misleading when attempting to describe them @salamon_search_1992-1. An example of this would be how the term “Voluntary Sector” emphasises the contributions of volunteers in the operation of the organisations, at the expense of organisations or activities that are performed by paid employees. Frumkin prefers the term “Non-Profit and Voluntary Sector” for this reason
 @frumkin_being_2009.
 
-This diversity of organisations within the “Third Sector” means that a
-general definition is difficult to generate, however Salamon and Anheier
-go some way to provide one based off of the structural or operational
-characteristics of the organisations; which would therefore allow their
-definition to cater for the sector’s diversity of legal structures,
-funding mechanisms, and function. Their definition identifies five base
-characteristics common to the organisations (they use the term NPOs).
-These organisations are: “Formal”, having been constituted or
-institutionalised legally to some extent; “Private”, meaning they are
-institutionally separate from government; “Non-Profit distributing”,
-where any profits generated by activities are reinvested directly into
-the ’basic mission of the agency’ instead of being distributed to owners
-or directors; “Self-governing”, with their own internal protocols or
-procedures as opposed to being controlled directly by external entities;
-and “Voluntary”, where the organisation’s activities or management
-involves a meaningful degree of voluntary participation
-@salamon_search_1992-1.
+This diversity of organisations within the “Third Sector” means that a general definition is difficult to generate, however Salamon and Anheier go some way to provide one based off of the structural or operational characteristics of the organisations; which would therefore allow their definition to cater for the sector’s diversity of legal structures, funding mechanisms, and function. Their definition identifies five base characteristics common to the organisations (they use the term NPOs). These organisations are: “Formal”, having been constituted or institutionalised legally to some extent; “Private”, meaning they are institutionally separate from government; “Non-Profit distributing”, where any profits generated by activities are reinvested directly into the ’basic mission of the agency’ instead of being distributed to owners or directors; “Self-governing”, with their own internal protocols or procedures as opposed to being controlled directly by external entities; and “Voluntary”, where the organisation’s activities or management involves a meaningful degree of voluntary participation @salamon_search_1992-1.
 
-Frumkin gives three characteristics of these organisations which align
-with Salamon and Anheier’s framework. The organisations: do not coerce
-participation (ie they do not have a monopoly and interacting with them
-is optional); their profits are not given to stakeholders; and they lack
-clear lines of ownership and accountability @frumkin_being_2009. These
-definitions are not without issue, as they notably exclude various
-quasi-commercial entities such as those found in the UK – ie Building
-Societies and Cooperatives.
+Frumkin gives three characteristics of these organisations which align with Salamon and Anheier’s framework. The organisations: do not coerce participation (ie they do not have a monopoly and interacting with them is optional); their profits are not given to stakeholders; and they lack clear lines of ownership and accountability @frumkin_being_2009. These definitions are not without issue, as they notably exclude various quasi-commercial entities such as those found in the UK – ie Building Societies and Cooperatives.
 
-It is the exclusion of such entities that presents an issue for
-achieving a working definition. Lohmann calls for a more expansive view
-of the “Nonprofit Organisation” since definitions often account only for
-those legally bound by particular legislation and that if academics work
-only within these confines then they are limited in their attention
-@lohmann_charity_2007. Lohmann also takes issue with the term “Third
-Sector” as it often is not presented in context of what it is a sector
-of. Lohmann argues that the organisations generally included in
-definitions of the “Third Sector” are actually simply a part of a
-broader grouping termed the “Social Economy” which would include NPOs
-and Charities but also others such as cooperatives and member
-organisations @lohmann_charity_2007. Moualert and Ailenei elaborate that
-the term “Social Economy” is tied with notions of economic
-redistribution and reciprocity, and argue that a “one-for-all”
-definition is not useful to produce, as the organisations within the
-Social Economy are driven by local contexts @moulaert_social_2005. They
-put forward that the Social Economy as a practice, as well as the
-institutions that make it up, are linked to periods of crisis – and that
-the Social Economy is a method to respond to the alienation and
-dissatisfaction of people’s needs by the For-Profit and State sectors at
-any given time @moulaert_social_2005. Monzon and Chaves go into detail
-about defining the characteristics of organisations that make up the
-Social Economy, largely echoing the definitions for the US-centric
-“NPOs” discussed earlier @monzon_european_2008. In addition to this is
-their elaboration that “\[the organisations\] pursue an activity in its
-own right, to meet the needs of persons, households, or families …
-\[They\] are said to be organisations of people, not of capital … They
-work with capital and other non-monetary resources but not for capital.”
-This indicates that the unifying characteristic of these organisations
-is their concern for people, and begins to define them based on what
-they are rather than the via negativa of “Third Sector”
-@monzon_european_2008.
+It is the exclusion of such entities that presents an issue for achieving a working definition. Lohmann calls for a more expansive view of the “Nonprofit Organisation” since definitions often account only for those legally bound by particular legislation and that if academics work only within these confines then they are limited in their attention @lohmann_charity_2007. Lohmann also takes issue with the term “Third Sector” as it often is not presented in context of what it is a sector of. Lohmann argues that the organisations generally included in definitions of the “Third Sector” are actually simply a part of a broader grouping termed the “Social Economy” which would include NPOs and Charities but also others such as cooperatives and member organisations @lohmann_charity_2007. Moualert and Ailenei elaborate that the term “Social Economy” is tied with notions of economic redistribution and reciprocity, and argue that a “one-for-all” definition is not useful to produce, as the organisations within the Social Economy are driven by local contexts @moulaert_social_2005. They put forward that the Social Economy as a practice, as well as the institutions that make it up, are linked to periods of crisis – and that the Social Economy is a method to respond to the alienation and dissatisfaction of people’s needs by the For-Profit and State sectors at any given time @moulaert_social_2005. Monzon and Chaves go into detail about defining the characteristics of organisations that make up the Social Economy, largely echoing the definitions for the US-centric “NPOs” discussed earlier @monzon_european_2008. In addition to this is their elaboration that “\[the organisations\] pursue an activity in its own right, to meet the needs of persons, households, or families … \[They\] are said to be organisations of people, not of capital … They work with capital and other non-monetary resources but not for capital.” This indicates that the unifying characteristic of these organisations is their concern for people, and begins to define them based on what they are rather than the *via negativa* of “Third Sector” @monzon_european_2008.
 
-In the UK, the term ’Charity’ is protected and has a specific definition
-enshrined in law. According to the Charities Act 2011, a Charity is an
-organisation that is “established for charitable purposes only”, where
-the Act then later defines a list of charitable purposes to ensure that
-the organisation is acting for the public benefit
-@noauthor_charities_2011. These cover a wide variety of purposes and
-such as “the prevention or relief of poverty” and “the advancement of
-citizenship or community development”. Whilst this mirrors the Monzon
-and Chaves assertion that organisations pursue activity to ”meet the
-needs of persons…“, it is the opinion of this thesis that enshrinement
-in law is not necessary treat an organisation as a charity for the
-purposes of research. This is so that any outcomes of the research can
-be applied to intenational contexts – where different legal definitions
-of the word ”Charity" may exist. To that end, our definition of a
-charity going forward takes the common threads discussed in this section
-that Charities are: non-for-profit organisations that are legally
-distinct from government; are set up towards a charitable purpose
-(regardless of whether that purpose is enshrined in law); and that a
-citizen’s interactions with the organisation are voluntary.
+In the UK, the term ’Charity’ is protected and has a specific definition enshrined in law. According to the Charities Act 2011, a Charity is an organisation that is “established for charitable purposes only”, where the Act then later defines a list of charitable purposes to ensure that the organisation is acting for the public benefit @noauthor_charities_2011. These cover a wide variety of purposes and such as “the prevention or relief of poverty” and “the advancement of citizenship or community development”. Whilst this mirrors the Monzon and Chaves assertion that organisations pursue activity to ”meet the needs of persons…“, it is the opinion of this thesis that enshrinement in law is not necessary treat an organisation as a charity for the purposes of research. This is so that any outcomes of the research can be applied to intenational contexts – where different legal definitions of the word ”Charity" may exist. To that end, our definition of a charity going forward takes the common threads discussed in this section that Charities are: non-for-profit organisations that are legally distinct from government; are set up towards a charitable purpose (regardless of whether that purpose is enshrined in law); and that a citizen’s interactions with the organisation are voluntary.
 
 ### Why are Charities Important?
 
