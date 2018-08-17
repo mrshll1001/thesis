@@ -805,7 +805,7 @@ contexts: evidencing expenditure, the inferral of activity, and the
 by-product of work related to activity (a cooking session) that may be
 accounted for.
 
-Discussion
+Discussion {#fieldwork-discussion}
 -----------
 
 Our findings demonstrate that those working in a charity may experience

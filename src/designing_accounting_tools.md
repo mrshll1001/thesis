@@ -26,7 +26,20 @@ This section outlines the systems and design rationale of the software that was 
 
 ### Overview
 
-#### Federated Architecture
+### Federated Architecture
+As discussed in the [previous chapter](#fieldwork-discussion), one of the design requirements for this space was to support a *Configurable Transparency* which did not impose a specific presentation or collection process onto the worker; thus allowing them to present their work in a manner that makes sense in that moment for whichever purpose they wish. I also noted that this would be achieveable through interoperable, federated, tools; allowing data to be exchanged between systems whilst supporting collection and presentation in various formats. This mirrors the work performed by organisations already since organisations already engage in collecting a wide variety of information to be used for accountability, and recombine it in order to present it to a variety of audiences.
+
+**(note: this gets a little fluffy for this paragraph, check this with a supervisor)**
+Producing a federated toolset also challenges the de-facto solution of producing a catch-all *"platform"*. One can produce a system which serves a need at a given time, but you force workers to engage with the metaphors and interactions that the platform allows (more on this later). Similar to the failings of the Charity Commission to support qualitative data @marshall_accountable_2016 a magic platform to do the accounting we need it to inevitably becomes obsolete when society and technology progress, it thus risks causing more harm than good in the long-run when concerning interactions that support Accountability or Transparency. There is also always the risk of a platform acting as a *"silo"*, a [term coined on the Indieweb](https://indieweb.org/silo) to describe a site which retains user data and centralises control over it @indieweb.org_silo_. Other than the interactional risks of silos discussed here, and privacy concerns for sensitive data, there is also the obvious question of what happens to data when a silo goes down, and the political economy of whom owns the "means of production" when concerning producing accountability if it is achieved through the web [@kleiner_telekommunist_2010]. We have previously seen what happens when private capital attempts to own the production of Third Sector financial accounts (ie Sage Accounts, [discussed here](#compiling-accounts)).
+
+To that end, an attempt at a federated approach was present in the design of these systems. As noted by others [@pine_institutional_2014], values are embedded in the design of systems and a (somewhat) federated approach allowed us to embed our own values into the applications and systems designed. Most prominent were the values of *Flexibility* and *Worker Control* (discussed earlier). These are embodied in a federated approach by decoupling components of what would normally be tightly bound. In this way, a worker may use a data collection tool without requiring an account on a platform, whilst an organisation may maintain an account on a hosted service but receive (and retrieve) data from other platforms of services.
+
+This additionally has the benefit of being able to add applications, services, and services to the federation very simply. Creating a potentially very large set of interfaces targeted at a wide variety of potential stakeholders. In this thesis, I concern myself with charity workers and thus the systems developed are targeted at their work; however the federated approach means that other interfaces, views, and interactions for working with the data may be developed *and deployed easily* with other stakeholder groups.
+
+
+#### Data and API Standards
+
+
 
 ### Rosemary Accounts
 
@@ -62,7 +75,7 @@ The app provides several interfaces for adding an entry to the system, each tail
 ##### Adding Images
 Adding an entry with images is done by selecting the *Add Images* button on the main menu, taking you to the Add Image screen (**Figure**). At the top of the screen there is a single button labelled *"Choose Images"*. Selecting this button brings up the phone's gallery interface, allowing you to select one or more images that exist on the device already. When this action is complete, the gallery closes and the first of the selected images is placed on the UI to affirm its selection.
 
-When  
+When
 
 ##### Adding Spend Data
 
