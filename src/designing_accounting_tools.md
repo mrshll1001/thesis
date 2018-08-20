@@ -34,11 +34,17 @@ Producing a federated toolset also challenges the de-facto solution of producing
 
 To that end, an attempt at a federated approach was present in the design of these systems. As noted by others [@pine_institutional_2014], values are embedded in the design of systems and a (somewhat) federated approach allowed us to embed our own values into the applications and systems designed. Most prominent were the values of *Flexibility* and *Worker Control* (discussed earlier). These are embodied in a federated approach by decoupling components of what would normally be tightly bound. In this way, a worker may use a data collection tool without requiring an account on a platform, whilst an organisation may maintain an account on a hosted service but receive (and retrieve) data from other platforms of services.
 
-This additionally has the benefit of being able to add applications, services, and services to the federation very simply. Creating a potentially very large set of interfaces targeted at a wide variety of potential stakeholders. In this thesis, I concern myself with charity workers and thus the systems developed are targeted at their work; however the federated approach means that other interfaces, views, and interactions for working with the data may be developed *and deployed easily* with other stakeholder groups.
+This additionally has the benefit of being able to add applications, services, and services to the federation very simply. Creating a potentially very large set of interfaces targeted at a wide variety of potential stakeholders. In this thesis, I concern myself with charity workers and thus the systems developed are targeted at their work; however the federated approach means that other interfaces, views, and interactions for working with the data may be developed *and deployed easily* with other stakeholder groups. In this way I hope the values embedded in the tools developed provide an alternative vision for accounting work where we stop interacting with systems and begin contributing to ecosystems.
 
+This section continues by providing an overview of how an attempt at federation was achieved technically.
 
 #### Data and API Standards
+In order to achieve interoperability and move towards a federated ecosystem, applications and services need a common language with which to communicate; allowing them to share and process data amongst themselves.
 
+##### Data
+A data standard is a way of defining rules that [dictate how data is described and recorded](https://www2.usgs.gov/datamanagement/plan/datastandards.php) in a particular use case
+
+##### API
 
 
 ### Rosemary Accounts
