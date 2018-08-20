@@ -45,6 +45,8 @@ This standard was tentatively named *"Qualitative Accounting"* (hereafter *QA*) 
 
 The standard contains two main components: a data schema for collecting and annotating data representing money and work; and a Web URI schema which defined expected URI endpoints and behaviour so that systems implementing the standard could communicate with arbitrary domains using Web technologies.
 
+The following sections were also presented as a [public-facing website](https://openlab.ncl.ac.uk/qualitative-accounting/about/) using language more geared towards prospective implementers.
+
 
 ##### Data Schema
 The QA data schema is a JSON schema designed to represent an *individual item or context*, and to be as simple and flexible as possible. Not all fields will be required for each item, but having separate schemas for various categories begins to complicate matters and produces the arbitrary distinctions in accounting that the standard was developed to avoid. This way, it is left to the application developers themselves to determine how to interpret various combinations of fields and values that make sense for their application.
@@ -124,11 +126,15 @@ Any additional notes or text that the producer of the data feels are important. 
 
 
 ##### URI Schema
+Where the data schema describes what constitutes an item representing under QA, the URI Schema defines API end points that an application must implement in order to receive QA information.
+
+This is done so that applications sending information can construct a full URI given only a domain name. From the sending application's point-of-view, this means it send the QA data anywhere.
+
 
 
 ### Rosemary Accounts
 
-#### Type Inferrence
+#### Type Inference
 
 ### Accounting Scrapbook
 Accounting Scrapbook is a lightweight mobile application that was designed to allow the charity workers to collaborate in collecting and curating information about their work and spending. Within the application, workers may create entries to reflect their everyday work and expenditure such as Images, Quotes, Activities, and Spends. These can then be organised by placing them into one or more *"Scrapbooks"*, allowing them to be grouped thematically and associated with other content.
