@@ -128,11 +128,47 @@ Any additional notes or text that the producer of the data feels are important. 
 ##### URI Schema
 Where the data schema describes what constitutes an item representing under QA, the URI Schema defines API end points that an application must implement in order to receive QA information.
 
-This is done so that applications sending information can construct a full URI given only a domain name. From the sending application's point-of-view, this means it send the QA data anywhere.
+This is done so that applications sending information can construct a full URI given only a domain name. From the sending application's point-of-view, this means it can send the QA data anywhere given only a valid domain name.
+
+Under the URI schema, three endpoints are defined to support the sending of data, shown in (Table XYZ). The schema decouples the sending of media and the sending of a data entry that may be associated with that media. This is so that use-cases such as mobile applications may send data entries and media asynchronously, and that upon failing to send a file the rest of the data is not lost and workers may recover the media another way.
+
+| Endpoint                    | HTTP Method | Description                                                                                            |
+|--------------               | -------     | ------------------------------------------                                                             |
+| `/qa-data`                  | POST        | Accepts a JSON payload to store a single QA data entry                                                 |  
+| `/qa-media`                 | POST        | Accepts a form-encoded POST request with form label `media` to support uploading files                 |
+| `/qa-media/[sha-1FileHash]` | GET         | Using the `[sha-1FileHash]` as a key, retrieves the media associated with that key to the requester    |
+
+###### Sending Data Entries
+Sending Entries involves the sending application performing the following steps:
+
+1. Determining the full URL to send data to, based off of the URI Schema and the domain name
+2. Translating its data entries into the QA standard based off of the JSON Schema outlines above, including URIs to any media.
+3. Sending the data entry with a HTTP POST request containing the JSON-encoded entry.
+4. (optional) If the data entry contains media that is stored locally (e.g. on a phone), send the media separately.
 
 
+
+###### Sending Media and Entries with Media
+Given the decoupling of JSON data entries with the media item, a problem emerges with sending data entries that have media affiliated with them; since the URI for the media will not be known ahead of time. One solution to this is for the sender to await a response from the recipient so that it may wait and send the entry with an appropriate URI. Another is to agree on a way that URIs pointing to media are constructed, so that applications can independently calculate a canonical reference to the media for transmitting data. We went with the second [for several reasons](#LINK ME) **remember to link me**.
+
+To generate the canonical URI for a file, the application or service makes a cryptographic hash of the file using SHA-1 [@burrows_secure_1995], giving a unique identifier for the file. While SHA-1 is not perfect @biham_collisions_2005 [@de_canniere_finding_2006] it was deemed appropriate for the research as it was lightweight, many programming platforms support it as a hash function natively (e.g. [android](https://stackoverflow.com/questions/5564643/android-calculating-sha-1-hash-from-file-fastest-algorithm#9989835) and [PHP](https://secure.php.net/manual/en/function.sha1-file.php), used in this research), and the use-case in the research would not be working with a large dataset where there were risks of collisions or exposing data to malicious attacks.
+
+After the hash is generated, it acts as a unique key to form part of a URI slug. This slug is then appended to the path `/qa-media/` on a given domain e.g.
+
+```
+https://rosemary-accounts.co.uk/qa-media/629095bf6f1d232fe9d21f05be7bea2cf8f8d10f
+```
+
+Of course, if the sending application also hosted the media in a manner that was available over the internet (e.g. two hosted web services communicating), it would mean that a URI already existed and the generation step could be skipped.For other cases, such as in local applications (desktop / mobile), means that a URI can be generated and sent as part of the associated data entry seamlessly.
+
+
+###### Receiving Media and Entries with Media
+Receiving media (ie files) is straightforward as well. The receiver must make available a URI endpoint `/qa-media`, which accepts a POST request. This request is expected to have form-encoded data with a single field; `media`, which contains the file being sent.
+
+Upon receiving the file, the service must perform the SHA-1 hash to generate the unique key and then store it as they wish, as long as they provide an endpoint under their domain (`/qa-media/sha-1Filehash`) which points to the file. This means that, if they choose to, a web service can decouple the access and storage of the media further by hosting externally and using their endpoint to redirect to another service whilst keeping the URI canonical. This could be done for redundancy, or to control access to the media where appropriate.
 
 ### Rosemary Accounts
+
 
 #### Type Inference
 
