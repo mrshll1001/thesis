@@ -54,14 +54,14 @@ The QA data schema is a JSON schema designed to represent an *individual item or
 (TABLE NO) details the schema's fields.
 
 | Field           | Type                        | Description     
-| ---             | ---                         | ---     
+| ---             | ---                         | :---------------------------------     
 | id              | `string`                    | Unique identifier for the transaction created by your system
 | date_created    | `date-time`                 | Date the record was created on the system ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
 | date_given      | `date-time`                 | Date given for the record, to allow for retroactive creation of accounts ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
 | tags            | `array[string]`             | Qualitative tag descriptors for the item. *No hashtags* (see below)
 | quote           | `Quote` (see below)         | Snippet of text to capture sentiment. E.g. "It was a good day - Anon"
 | financial_data  | `FinancialData` (see below) | Financial data associated with the item, such as spend or income.
-| media           |  `string`                   | URI to a media item, such as an image, document, or video. See below for details.
+| media           |  `array`                    | Array of URIs to media items, such as images, documents, or videos. See below for details.
 | location        |  `Location` (see below)     | Geographic location of item, such as an address or lat/long
 | description     | `string`                    | Any additional information or notes that the producer would like associated with the item
 
@@ -94,7 +94,7 @@ Tags allow an item to be given multiple, qualitative, short descriptors. It is r
 A quote represents a verbal or written extract expressing sentiment. Quote objects have two fields, allowing separation of content from attributation
 
 | Field         | Type     | Description
-| ---           | ---      | ---
+| ----------    | ---      | :--------------------------------
 | text          | `string` | Content or body of the quote
 | attribution   | `string` | The name of who or what the quote is attributed to
 
@@ -102,14 +102,26 @@ A quote represents a verbal or written extract expressing sentiment. Quote objec
 An increase or decrease of funds associated with the item. A positive number is associated with income, whilst a negative number is associated with spend.
 
 | Field         | Type     | Description
-| ---           | ---      | ---
-| currency      | `string` |  Three letter currency code as designated by [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217) (e.g. 'GBP' for Pound Sterling)
+| ---           | ---      | :---------------------
+| currency      | `string` | Three letter currency code as designated by [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217) (e.g. 'GBP' for Pound Sterling)
 | value         | `float`  | Financial value associated with the item. *Positive* for income, and *Negative* for expenditure
 
 ###### media
-A single media item such as an image, document or video file. This should be a URI provided by your system to allow other software to access the media. For software that operates independantly on devices, URIs can be acquired through a service that consumes media data and follows a strict format.
+Media items such as images, documents or video files. This should be an array of URIs provided by systems to allow other software to access the media. For software that operates independently on devices, URIs can be acquired through a service that provides the appropriate URI endpoints.
 
-SEE PAGE FOR MORE DETAILS
+example entry:
+
+``` json
+{
+  …
+  "media": [
+    "https://rosemary-accounts.co.uk/qa-media/ebc6df075e0200c451757ba3d051f79b47b2c976",
+    "https://rosemary-accounts.co.uk/qa-media/28cf4ef03ac7023ce0dc816b4aab6558d7e6079f",
+    "https://rosemary-accounts.co.uk/qa-media/f659164d121f53c10af8b626ec110e2e48ff21bc"
+  ],
+  …
+}
+```
 
 ###### Location
 Any geographic location data associated with the item. To allow for flexibility and the potential for protecting some sensitive contexts, this can be as broad or as specific as the user/producing application would like (or can reasonably produce).
@@ -143,10 +155,11 @@ Sending Entries involves the sending application performing the following steps:
 
 1. Determining the full URL to send data to, based off of the URI Schema and the domain name
 2. Translating its data entries into the QA standard based off of the JSON Schema outlines above, including URIs to any media.
-3. Sending the data entry with a HTTP POST request containing the JSON-encoded entry.
-4. (optional) If the data entry contains media that is stored locally (e.g. on a phone), send the media separately.
+3. Sending the data entry with a HTTP POST request containing a *single* JSON-encoded entry.
+4. Repeating step 3 for all data entries.
+5. (conditional) If the data entry contains media that is stored locally (e.g. on a phone), send the media separately.
 
-
+It is simple to determine the target URL for the data based off the URI schema outlined above. Given the URL `https://rosemary-accounts.co.uk`, the application knows from the schema to append the endpoint `/qa-data` to the domain; giving the endpoint as `https://rosemary-accounts.co.uk/qa-data`.
 
 ###### Sending Media and Entries with Media
 Given the decoupling of JSON data entries with the media item, a problem emerges with sending data entries that have media affiliated with them; since the URI for the media will not be known ahead of time. One solution to this is for the sender to await a response from the recipient so that it may wait and send the entry with an appropriate URI. Another is to agree on a way that URIs pointing to media are constructed, so that applications can independently calculate a canonical reference to the media for transmitting data. We went with the second [for several reasons](#LINK ME) **remember to link me**.
