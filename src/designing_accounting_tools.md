@@ -205,13 +205,28 @@ Rosemary provides interfaces to produce data about income
 #### Customers and Funders
 Part of the work in entering income is making sense of where that income is from, and whether it constitutes a funding pot. To assist with this, Rosemary provides an interface for adding *"Customers and Funders"* to the system, which can be mapped to income. Semantically, a Funder would be an entity giving the organisation money in the form of a charitable grant, whereas a Customer would be someone acquiring services from the charity. This was grounded in the fieldwork as Patchwork were noted to be hiring out the Play Centre building, and as such the design needed to accommodate this. This also had the benefit of the system being able to infer a particular level of unrestricted funds; as all income derived from "Customers" would be unrestricted.
 
-Internally, a single `Customer` entity provides the representation of a Customer or Funder in the system. To differentiate between a Customer and a Funder, a boolean `isFunder` is set when creating (see fig).
+Internally, a single `Customer` entity provides the representation of a Customer or Funder in the system. To differentiate between a Customer and a Funder, a boolean `isFunder` is set when creating (see fig). This makes it simple for other interfaces to retrieve an entire list of `Customer` entities, or just those marked as a "Funder".
 
 ##### Costing
+Costing work was observed to play a significant role in the production of reporting to charitable funders. During "costing", an expense is set against a particular income stream; usually retrofitted and presented in a way that matches the funding restrictions. This can be done for several reasons: to use up money from a particular fund so that the charity does not have to give any back; or to free up money for piece an expense that otherwise cannot be costed elsewhere in the current funding environment.
+
+An interface was implemented to support costing work; in this interface a worker may look over their funders and grants associated with each funder. They then may take any expense that is "uncosted" and associate it with the fund. Conversely, they may "Uncost" an item to remove it from the fund (FIG).
+
+Internally, this is achieved by establishing a one-to-many relationship between `Post` entities. A single Post may have many children, which are the expenses costed to it.
 
 ##### Budget Codes
+Many organisations use Budget Codes to help label expenses. While Patchwork do not, it was decided to implement Budget Codes to accommodate other organisations. Budget Codes are used in many ways by organisations: some have only a few, some many; some organisations may give them a numeric code, and some choose not to; some allow multiple budget codes to be applied to an expense, whereas some are strict and allow only one. When considered like this Budget Codes effectively take the same form as Tags in that they are short qualitative descriptors that can be applied to mark up information.
+
+Because of this, Rosemary stores Budget Codes internally as `Tag` entities, with additional optional properties `isBudgetCode` and `budgetCodeNumber`. An interface is provided to then add Budget Codes explicitly to the system (Fig). This differs from how other Tags are added; as there is no explicit interface for that and tags are added in-line, extracted in bulk from Posts.
 
 ##### Reconciling
+An important part of Patchwork's production of their budget is the "reconciliation" of entries (discussed [here](#linkme)). In short; this requires three components to be matched.
+
+1. An entry in the budget tool
+2. A bank statement mirroring the transaction
+3. A receipt or invoice for the transaction
+
+The actual matching work is performed entirely offline, by the administrator. Once all components are matched, Patchwork mark up the entry in the budget tool as being "reconciled". To mirror this practice, Rosemary provided a checkbox on entries to allow reconciliation and `Post` entities were given the property `isReconciled` to support this.
 
 #### Public-Facing Profile Page
 
