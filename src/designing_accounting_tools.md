@@ -29,7 +29,7 @@ This section outlines the systems and design rationale of the software that was 
 ### Federated Architecture
 As discussed in the [previous chapter](#fieldwork-discussion), one of the design requirements for this space was to support a *Configurable Transparency* which did not impose a specific presentation or collection process onto the worker; thus allowing them to present their work in a manner that makes sense in that moment for whichever purpose they wish. I also noted that this would be achieveable through interoperable, federated, tools; allowing data to be exchanged between systems whilst supporting collection and presentation in various formats. This mirrors the work performed by organisations already since organisations already engage in collecting a wide variety of information to be used for accountability, and recombine it in order to present it to a variety of audiences.
 
-**(note: this gets a little fluffy for this paragraph, check this with a supervisor)**  
+**(note: this gets a little fluffy for this paragraph, check this with a supervisor)**
 Producing a federated toolset also challenges the de-facto solution of producing a catch-all *"platform"*. One can produce a system which serves a need at a given time, but you force workers to engage with the metaphors and interactions that the platform allows (more on this later). Similar to the failings of the Charity Commission to support qualitative data @marshall_accountable_2016 a magic platform to do the accounting we need it to inevitably becomes obsolete when society and technology progress, it thus risks causing more harm than good in the long-run when concerning interactions that support Accountability or Transparency. There is also always the risk of a platform acting as a *"silo"*, a [term coined on the Indieweb](https://indieweb.org/silo) to describe a site which retains user data and centralises control over it [@indieweb.org_silo_nodate]. Other than the interactional risks of silos discussed here, and privacy concerns for sensitive data, there is also the obvious question of what happens to data when a silo goes down, and the political economy of whom owns the "means of production" when concerning producing accountability if it is achieved through the web [@kleiner_telekommunist_2010]. We have previously seen what happens when private capital attempts to own the production of Third Sector financial accounts (ie Sage Accounts, [discussed here](#compiling-accounts)).
 
 To that end, an attempt at a federated approach was present in the design of these systems. As noted by others [@pine_institutional_2014], values are embedded in the design of systems and a (somewhat) federated approach allowed us to embed our own values into the applications and systems designed. Most prominent were the values of *Flexibility* and *Worker Control* (discussed earlier). These are embodied in a federated approach by decoupling components of what would normally be tightly bound. In this way, a worker may use a data collection tool without requiring an account on a platform, whilst an organisation may maintain an account on a hosted service but receive (and retrieve) data from other platforms or services.
@@ -53,15 +53,15 @@ The QA data schema is a JSON schema designed to represent an *individual item or
 
 (TABLE NO) details the schema's fields.
 
-| Field           | Type                        | Description     
-| ---             | ---                         | :---------------------------------     
+| Field           | Type                        | Description
+| ---             | ---                         | :---------------------------------
 | id              | `string`                    | Unique identifier for the transaction created by your system
 | date_created    | `date-time`                 | Date the record was created on the system ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
 | date_given      | `date-time`                 | Date given for the record, to allow for retroactive creation of accounts ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
 | tags            | `array[string]`             | Qualitative tag descriptors for the item. *No hashtags* (see below)
 | quote           | `Quote` (see below)         | Snippet of text to capture sentiment. E.g. "It was a good day - Anon"
 | financial_data  | `FinancialData` (see below) | Financial data associated with the item, such as spend or income.
-| media           |  `array`                    | Array of URIs to media items, such as images, documents, or videos. See below for details.
+| media           |  `array[string]`            | Array of URIs to media items, such as images, documents, or videos. See below for details.
 | location        |  `Location` (see below)     | Geographic location of item, such as an address or lat/long
 | description     | `string`                    | Any additional information or notes that the producer would like associated with the item
 
@@ -69,6 +69,7 @@ The QA data schema is a JSON schema designed to represent an *individual item or
 This is the unique identifier for the transaction or item generated by your application or system. We recommend that this takes the form of a string in the format of `applicationName_deviceid_transactionid`. The `deviceid` portion is included to help prevent collisions as some software may be designed to run independantly om devices without a centralised service to manage transaction ids (e.g. a smartphone application). How you determine the `deviceid` is up to you. Transaction ID doesn't need to be numerical or incremental at all, but must be alphanumeric and contain no special characters other `-`.
 
 A possible id string for a decentralised set of systems:
+
 ```
 cool-application_a164-motog_01-01-1970-0000
 ```
@@ -107,7 +108,7 @@ An increase or decrease of funds associated with the item. A positive number is 
 | value         | `float`  | Financial value associated with the item. *Positive* for income, and *Negative* for expenditure
 
 ###### media
-Media items such as images, documents or video files. This should be an array of URIs provided by systems to allow other software to access the media. For software that operates independently on devices, URIs can be acquired through a service that provides the appropriate URI endpoints.
+Media items such as images, documents or video files. This should be an array of URIs provided by systems to allow other software to access the media. For software that operates independently on devices, URIs can be derived through a service that provides the appropriate URI endpoints.
 
 example entry:
 
@@ -146,7 +147,7 @@ Under the URI schema, three endpoints are defined to support the sending of data
 
 | Endpoint                    | HTTP Method | Description                                                                                            |
 |--------------               | -------     | ------------------------------------------                                                             |
-| `/qa-data`                  | POST        | Accepts a JSON payload to store a single QA data entry                                                 |  
+| `/qa-data`                  | POST        | Accepts a JSON payload to store a single QA data entry                                                 |
 | `/qa-media`                 | POST        | Accepts a form-encoded POST request with form label `media` to support uploading files                 |
 | `/qa-media/[sha-1FileHash]` | GET         | Using the `[sha-1FileHash]` as a key, retrieves the media associated with that key to the requester    |
 
@@ -181,9 +182,40 @@ Receiving media (ie files) is straightforward as well. The receiver must make av
 Upon receiving the file, the service must perform the SHA-1 hash to generate the unique key and then store it as they wish, as long as they provide an endpoint under their domain (`/qa-media/sha-1Filehash`) which points to the file. This means that, if they choose to, a web service can decouple the access and storage of the media further by hosting externally and using their endpoint to redirect to another service whilst keeping the URI canonical. This could be done for redundancy, or to control access to the media where appropriate.
 
 ### Rosemary Accounts
+Rosemary Accounts is a web application that was designed to support the administration work of budgeting and accounting in small charities, as well as supporting the presentation of this information for consumption by workers and stakeholders. It seeks to make information traversable through explicitly presenting links between information in the form of *tags*.
 
+Rosemary was initially designed using the metaphors of commercial accounting software, before extending these to account for curating accounts of work as well as budgeting. Its name reflects this extension -- since [Sage Accounts](https://www.sage.com/en-gb/) was presented as de-facto standard in financial budgeting, so *Rosemary* takes this a step further since Rosemary comes after Sage in the lyrics of popular folk song *"Scarborough Fair"* @_ScarboroughFairBallad_2018.
 
-#### Type Inference
+The following sections detail the behaviour and design rationale for each feature of the design. At one point, an entire side of the application was discarded (a public-facing API) by participant request. This is discussed in this section as a discarded feature.
+
+#### Supported QA Data Types and their interfaces
+Rosemary supports all of the data types outlined in the *QA* JSON schema. It achieves this by mapping entries onto a `Post` object (Fig XYZ), named in reference to a piece of social media content (since in original designs all entries would form a social-media style timeline).
+
+Rosemary provides several interfaces to generate data in the *QA* format; each attending to different matters of work. For example, the *Add Income* interface operates only on the `financial_data` portion of the schema and produces an entry with a positive value for this field. *Add Expenses* also operates on `financial_data`, but produces a negative value. *Add Events* and *Add Images* work on `location` and `media` respectively, without attention to matters of `financial_data`.
+
+When retrieving data Rosemary provides several visual lenses in different formats. For example when looking at income, all that is shown is a table of income values (FIG). When looking at these same entries as a "Post" on a social feed they are displayed in a manner that makes sense using this metaphor (FIG). The more social-oriented interface also provided an interesting design challenge; while Rosemary provides interfaces that operate on the data schema piecemeal, the federated nature of the system meant that other applications could be developed which operated on the schema in a more holistic manner -- and then send this data to Rosemary. In order to account for these variations, the template used to display a "Post" displays UI elements dynamically, building up the item as it finds data in the entry. As such there is no way in Rosemary to produce a single entry containing all of the QA components -- although it is equipped to present such an entry.
+
+#### Financial Features
+
+##### Costing
+
+##### Budget Codes
+
+##### Reconciling
+
+#### Public-Facing Profile Page
+
+#### (Discarded) Public-Facing API
+
+#### Reports
+
+#### Importing from elsewhere
+
+##### Via QA endpoint
+
+##### Via File Upload
+
+##### In-Tray
 
 ### Accounting Scrapbook
 Accounting Scrapbook is a lightweight mobile application that was designed to allow the charity workers to collaborate in collecting and curating information about their work and spending. Within the application, workers may create entries to reflect their everyday work and expenditure such as Images, Quotes, Activities, and Spends. These can then be organised by placing them into one or more *"Scrapbooks"*, allowing them to be grouped thematically and associated with other content.
