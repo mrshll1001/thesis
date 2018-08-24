@@ -188,14 +188,24 @@ Rosemary was initially designed using the metaphors of commercial accounting sof
 
 The following sections detail the behaviour and design rationale for each feature of the design. At one point, an entire side of the application was discarded (a public-facing API) by participant request. This is discussed in this section as a discarded feature.
 
-#### Supported QA Data Types and their interfaces
+#### Producing and Viewing Data
 Rosemary supports all of the data types outlined in the *QA* JSON schema. It achieves this by mapping entries onto a `Post` object (Fig XYZ), named in reference to a piece of social media content (since in original designs all entries would form a social-media style timeline).
 
 Rosemary provides several interfaces to generate data in the *QA* format; each attending to different matters of work. For example, the *Add Income* interface operates only on the `financial_data` portion of the schema and produces an entry with a positive value for this field. *Add Expenses* also operates on `financial_data`, but produces a negative value. *Add Events* and *Add Images* work on `location` and `media` respectively, without attention to matters of `financial_data`.
 
-When retrieving data Rosemary provides several visual lenses in different formats. For example when looking at income, all that is shown is a table of income values (FIG). When looking at these same entries as a "Post" on a social feed they are displayed in a manner that makes sense using this metaphor (FIG). The more social-oriented interface also provided an interesting design challenge; while Rosemary provides interfaces that operate on the data schema piecemeal, the federated nature of the system meant that other applications could be developed which operated on the schema in a more holistic manner -- and then send this data to Rosemary. In order to account for these variations, the template used to display a "Post" displays UI elements dynamically, building up the item as it finds data in the entry. As such there is no way in Rosemary to produce a single entry containing all of the QA components -- although it is equipped to present such an entry.
+When retrieving data Rosemary provides several visual lenses in different formats. For example when looking at income, all that is shown is a table of income values (FIG). When looking at these same entries as a "Post" on a social feed they are displayed in a manner that makes sense using this metaphor (FIG). The more social-oriented interface also provided an interesting design challenge; while Rosemary provides interfaces that operate on the data schema piecemeal, the federated nature of the system meant that other applications could be developed which operated on the schema in a more holistic manner -- and then send this data to Rosemary. In order to account for these variations, the template used to display a "Post" displays UI elements dynamically, building up the item as it finds data in the entry. As such there is no way in Rosemary to produce a single entry containing all of the QA components -- although it is equipped to present such an entry to someone viewing it.
 
 #### Financial Features
+The financial features in Rosemary seek to support an organisation with its administrative work of budgeting. This section outlines the interfaces and features that were implemented in attempt to achieve this.
+
+
+##### Income and Expenditure
+Rosemary provides interfaces to produce data about income
+
+#### Customers and Funders
+Part of the work in entering income is making sense of where that income is from, and whether it constitutes a funding pot. To assist with this, Rosemary provides an interface for adding *"Customers and Funders"* to the system, which can be mapped to income. Semantically, a Funder would be an entity giving the organisation money in the form of a charitable grant, whereas a Customer would be someone acquiring services from the charity. This was grounded in the fieldwork as Patchwork were noted to be hiring out the Play Centre building, and as such the design needed to accommodate this. This also had the benefit of the system being able to infer a particular level of unrestricted funds; as all income derived from "Customers" would be unrestricted.
+
+Internally, a single `Customer` entity provides the representation of a Customer or Funder in the system. To differentiate between a Customer and a Funder, a boolean `isFunder` is set when creating (see fig).
 
 ##### Costing
 
