@@ -1,6 +1,16 @@
 Chapter 4: Accounts and Accountability -A Fieldwork Case Study of Work Practice. {#fieldwork-casestudy}
 ===================================================================================
 
+**Note: Currently just a copy of the CHI 2018 paper. Expand this with details of:**
+
++ financial reconciliation Processes
++ reporting to funders processes
++ trustee meetings
++ use of social media
++ Others' use of media produced by Patchwork
++ production of the annual reports
++ production of "financial accounts" (the end-of-year one)
+
 Introduction
 ------------
 
