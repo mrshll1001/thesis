@@ -226,13 +226,38 @@ An important part of Patchwork's production of their budget is the "reconciliati
 2. A bank statement mirroring the transaction
 3. A receipt or invoice for the transaction
 
-The actual matching work is performed entirely offline, by the administrator. Once all components are matched, Patchwork mark up the entry in the budget tool as being "reconciled". To mirror this practice, Rosemary provided a checkbox on entries to allow reconciliation and `Post` entities were given the property `isReconciled` to support this.
+The actual matching work is performed entirely offline, by the administrator. Once all components are matched, Patchwork mark up the entry in the budget tool as being "reconciled". To mirror this practice, Rosemary provided a checkbox on entries to allow reconciliation and `Post` entities were given the property `isReconciled` to support this. Reconciled expenses and unreconciled expenses are thus able to be looked up at ease.
 
 #### Public-Facing Profile Page
+The heavy use of social media by Patchwork influenced the inclusion of a public-facing profile page. The purpose of this page was to act as an alternative form of summary page suitable for a variety of stakeholders, contrasting the reporting style present on the Charity Commission. The design was heavily influenced by Social Media profile pages; with original designs prominently featuring a "Live" timeline of entries which had been entered into the system. There were also several pages branching off of the main profile page:
+
++ `/gallery`; a portal collecting all Post objects with image data.
++ `/where`; a portal collecting all Post objects with location data, displaying interactive maps.
++  `/tags` or `/what`; a search interface for a visitor to search for posts based on combinations of one or more tags.
+
+Later, discussions with both Patchwork and \[EH\] lead to the adjustment of the profile page's core interaction; it was determined that it was inappropriate to display a "Live" timeline by default due to an organisation's budget being an inaccurate reflection of their finances until finalised for the year (since spends are moved around) and additional concerns were raised over images posted to the site being made public by default -- as both organisations worked with vulnerable people.
+
+The redesign was implemented alongside the addition of the 'Reports' feature (see below). With the redesign, the Live Timeline is turned off by default for every organisation. The public facing profile page will then display a list of Reports that the organisation has chosen to make public. To support the public-facing reports, each Post contained in the Report is made public. The reflection stage during Report generation means that the organisation has the opportunity to adjust the settings of the Report before releasing it, so that they could remove any sensitive information and keep those Posts private. A setting was also introduced onto a user's account, which allowed them to 'opt-in' to display a Live Timeline (which nobody did despite Michael saying it would be a good idea…).
 
 #### (Discarded) Public-Facing API
+The original plans envisioned for Rosemary included a public-facing API which provided endpoints to programmatically retrieve information from the service about an organisation. In this way, other applications could be developed to engage with the data in the system in ways not considered by Rosemary. This would have also supported an envisioned 'final stage' of the deployment which included building some lightweight alternative views on the data.
+
+This was discarded due to a mix of concern and apathy on the part of Patchwork when discussing it. As their work didn't necessitate a familiarity with the term API it was discussed in terms of what an API allowed -- namely that it could support other applications retrieving the data they entered (provided entries were public). At first they didn't quite buy the idea that this was necessary, and later expressed somewhat mild concern that the data in the system could be used to present an inaccurate view of the organisation. In order to ensure their continued support, the feature was dropped in case this became off-putting to other organisations in the future as well. Instead, I made sure to discuss with workers how they felt about the *possibility* of data being made available to other applications to make sense of.
 
 #### Reports
+Reports in Rosemary were designed to be a flexible way to produce summaries of work and spending, mirroring the way information is recombined by the organisation for various audiences offline already. To create a report, a worker gives the report a title e.g. *"January Manager's Report"*, *"Trustee Report"*, or *"Public Report 2018"* and then sets a number of parameters for the report:
+
++ **Start Date** and **End Date** can be used to bound the report, and include information only within a given window. These are mandatory.
++ **Expenses Summary** shows the total outgoing money during the time period.
++ **Income Summary** shows the total and sources of all incoming money during the time period.
++ **Images** displays a gallery of images collected during the time period (without tags or description)
++ **Events and Locations** displays a total for, and details of, Posts marked with Location information during the time period
++ **Quotes** displays a gallery of quotes collected during the time period
++ **Tags Summary** displays the most used tags *that are not budget codes* as areas of work and displays most used budget codes as main costs.
++ **Summary of Work by Grant** takes the most used tags attached to Posts that have been costed against a grant during the time period.
++ **Summary of Costs to Grants** presents a table of total costs against various funding sources during the time period.
+
+Choosing to enable or disable individual parameters was designed to allow the organisation to configure the presentation of
 
 #### Importing from elsewhere
 
