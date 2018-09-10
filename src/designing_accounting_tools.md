@@ -257,7 +257,7 @@ Reports in Rosemary were designed to be a flexible way to produce summaries of w
 + **Summary of Work by Grant** takes the most used tags attached to Posts that have been costed against a grant during the time period.
 + **Summary of Costs to Grants** presents a table of total costs against various funding sources during the time period.
 
-Choosing to enable or disable individual parameters was designed to allow the organisation to configure the presentation of
+Choosing to enable or disable individual parameters was designed to allow the organisation to configure the presentation of the report 
 
 #### Importing from elsewhere
 

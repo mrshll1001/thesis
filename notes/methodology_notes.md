@@ -12,9 +12,19 @@ A Work Place study
 -----------------------
 This section situates the thesis within the tradition of a workplace study.
 
++ Purpose of a workplace study (heath et al); where technological innovations have failed to take hold it is because they have failed to grasp the intricacies of the work in this area. Therefore any research in this space needs to have an understanding of how these systems will interweave with lived and daily charity work.
 
 ### Timeline
 A timeline for the research
+
+
+### Implementing
+
++ While workplace studies can be important for "their own sake" (Plowman), also notes that there are far fewer studies of the procurement,implementation and use  ofCSCW systems in places of actual work
++ This work seeks to address that as well, because I implemented Stuff
++ Describe implementation techniques
++ Insights from developing these systems are described in chap x and insight from deploying are in chap y
++ Lots of papers describing non-adoption of systems (plowman + others) which may often be attributed to a lack of understanding in the work practices, hence the analytical approach to fieldwork. Star and Ruhleder (1994) point out the development of new skills required by the workers. I reflect on this later.
 
 ### Research Landscape: The Patchwork Project
 The main setting for the research is elaborated upon here, as main research partners. Attention is paid to how I intergrated into the organisation, and how this environment affected study.
@@ -23,10 +33,16 @@ The main setting for the research is elaborated upon here, as main research part
 This section explains the research's specific methods for orienting to, collecting, and analysing data.
 
 #### Fieldwork methods
++ schmidt; mutual projection of order is accomplished through a myriad of cooperative activities and articulated and through explicitly "escamotating" the detailed accomplishment of these activities through ordered practices in the telling. The same is true of transparency and reporting??
++ Similarly, the notion of ‘shared knowledge,’ which spontaneously crops up in CSCW contexts, ignores the work required to make knowledge ‘shared’ << QUOTE from schmidt
+
 
 #### Design methods
 
 #### Interactions, Work, and Labour: Analytical frameworks
++ if social order is produced in the setting then understanding and  supporting worker control of the "means of production of social order" is appropriate from a work studies
++ Schmidt also makes note of the value of Marxian analysis of "thought "forms in determining the validity of uncovering social practices
+
 
 
 Personal Reflections and Reflexivity
