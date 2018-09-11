@@ -1,11 +1,19 @@
 Chapter 4: Accounts and Accountability -A Fieldwork Case Study of Work Practice. {#fieldwork-casestudy}
 ===================================================================================
 
+
+Introduction
+-------------
 **Note: Very much a chapter in flux. Expand this with details of:**
 
+(Chapter outline, should outline the various sections)
+
++ Explicate the timeline of this initial piece of framework; how was it delineated?
+
++ General details of Patchwork; staff, organisation, history
 + financial reconciliation Processes
 + outline of patchwork
-+ General details of Patchwork; staff, organisation, history
++ grant getting
 + reporting to funders processes
 + trustee meetings
 + use of social media
@@ -13,15 +21,36 @@ Chapter 4: Accounts and Accountability -A Fieldwork Case Study of Work Practice.
 + production of the annual reports
 + production of "financial accounts" (the end-of-year one)
 
-Introduction to Participants and Setting: The Patchwork Project
+Participants and Setting: The Patchwork Project
 ----------------------------------------------------------------
 
+This research began in earnest with my reaching out to a Youth Work charity known as *The Patchwork Project* (hereafter Patchwork or sometimes "Patchy"). I had briefly met two of the workers during my MRes project, and their contribution left a substantial impression on me. I was keen to work with them again and, thankfully, after a brief chat with them over lunch they agreed to let me engage with them through fieldwork. Patchwork's work is similar to any small charity's in that it is inherently tailored to the needs of their community, and thus are shaped by them. Any good fieldworker must treat such work as inseparable, and I therefore wish to elaborate briefly on the community of Benwell.
 
-Charities, Transparency, and HCI
----------------------------------
++ VERY brief history of Benwell (census information? Poverty index?)
++ Social indexes
 
-Research Approach
-------------------
+In 1994, *The Independent* included Benwell, Scotswood, and Elswick together in its list entitled *"No-Go Britain: Where, what, why"*. The reasons they cited were *"Crime, arson used to intimidate witnesses, feuds between rival families involved in drug dealing"* as well as citing unemployment statistics of 24%, 28%, and 26% for the three areas respectively @_NoGoBritainWhere_1994.
+
++ Conroys and Sayers
++ My encounters with them
++ 
+
+It is in this context which the charity *The Patchwork Project* and its workers operate.
+
+### The history of Patchwork
++ Formation of the project
++ Evolution to a stand-alone project
+
+
+### The People
++ Individuals and job roles
++ Members of the community
++ how does the timeframe of this piece of fieldwork translate across to who is discussed
+
+
+
+Research Activities
+-------------------
 
 Our fieldwork was conducted over seven months with a small charity, Patchwork, in Newcastle upon Tyne, UK. The organisation has three full-time and four part-time staff (pseudonymised for reporting): Martin (Manager, full-time); Andrea (Senior Youth Worker, full-time); Danny (Youth Worker, full-time); Lydia (Administrator, part-time replacing Charli who had the role when fieldwork began); Sofia (Youth Worker, part-time); and Ludoslav (Youth Worker, part-time). The charity has an annual financial turnover of approximately 130k, and operates across two buildings: ‘The Project’, a community hub and central offices; and ‘The Play Centre’, a building designed for young people’s play. We approached for this research on the recommendation of a collaborator who represents Charities across the local region; they were presented as an organisation who have a significant presence in their community, whose work is value-driven, and are exemplar of small charities with flexible funding. They were also presented as being enthusiastic about becoming involved in research of this subject and scope, which was confirmed upon initial discussions with the lead researcher.
 
