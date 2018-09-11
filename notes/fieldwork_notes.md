@@ -1,7 +1,50 @@
+<!-- This chapter provides an empirical account of work practice developed through fieldwork techniques. Its focus is on how accountability requirements manifest in daily workplace practice, and what that means for technologies operating in this space.
+
+Introduction
+-----------------
+
+Background (Recap of relevant literature)
+---------------------------------------------------
+
+Study scope and method details
+----------------------------------
+Outlines the fieldwork, as well as giving some relevant details of the setting, discussing specific methods such as data collection, nature of field visits, activities engaged in, details of fieldwork diaries, interview details.
+
+Findings
+-----------------
+
+### Money and Spending
+Outlines how money is acquired, organised, and spent within the organisation. Attention is paid to money's flow around a system, as well as how that system is embodied in the actions of the workers in the charity. Contains detials of accounting, and producing accounts.
+
+### Reporting on Activity and Outcomes
+Outlines how "productive work" is performed in the organisation, as well as how this is accounted for. Social Media is discussed as a technology, as well as the use of pictures and other contextual information that is designed to produce narratives.
+
+### Accountability In-The-Moment
+Discusses aspects of producing accountability that happen on-the-fly without any formal reporting mechanism, such as how trustees can understand what's happening within the organisation at a glance.
+
+### Hidden Work (Reproductive Labour)
+Discusses aspects of the organisation's work that is otherwise hidden from view. Differs from the previous section in scope as this specifically pertains to work practices of the organisation that are required to reproduce the organisation itself, and not necessarily related to an embodied in-the-moment accountability.
+
+Discussion
+-----------------
+
+### Matching Accountability with Accountability of Work Practice
+This section discusses the notion of accountability in the context with the work practice accountability definition understood by HCI and CSCW fields
+
+### Solve et Coagula: Supporting a Configurable Transparency
+This section discusses the design requirement that a Configurable transaprency must be supported to better produce accountability for the organisation
+
+### Proposing Linked Data to create Contexts
+This section proposes linked data solutions as a means to producing the characteristics outlines above.
+
+Summary / Conclusions
+---------------------------------- -->
+
+
 Chapter 4: Accounts and Accountability -A Fieldwork Case Study of Work Practice. {#fieldwork-casestudy}
 ===================================================================================
 
-**Note: Very much a chapter in flux. Expand this with details of:**
+**Note: Currently just a copy of the CHI 2018 paper. Expand this with details of:**
 
 + financial reconciliation Processes
 + outline of patchwork
@@ -16,9 +59,27 @@ Chapter 4: Accounts and Accountability -A Fieldwork Case Study of Work Practice.
 Introduction to Participants and Setting: The Patchwork Project
 ----------------------------------------------------------------
 
+This paper discusses the role of data technologies in Charitable Organisations (charities) as they are required to adhere to transparent and accountable standards in their work and their financial practices. Charities play an important role in society, often addressing issues of importance to populations and communities where both the private and state sectors have not engaged or lacked resources @salamon_rise_1994. Due to the nature of much of their funding - through grants and public donations - charities across the world are often required to demonstrate to their stakeholders a commitment to their aims and a competency in their financial practices @macmillan_relationship_2005 [@oliver_what_2004]. Modern technologies that enable large scale production and consumption of data play an increasingly important role in mediating transparency for organisations by supporting the online reporting and publishing of financial data @meijer_understanding_2009, while the production of open data is widely claimed to be synonymous with transparency in dialogues around government and business @coleman_lessons_2013 [@goldstein_open_2013; @gordon_making_2013]. Recent work within HCI has examined the use of open data by charities for constructing narratives @erete_storytelling_2016, the use of data for metrics for reporting and understanding organisational finances @elsden_resviz_2016, and has provided insight into how digital systems can provide more comprehensive forms of transparency in these organisations @marshall_accountable_2016. However, thus far there is little understanding of how technologies like these, and more commonplace data technologies, and data work, integrate into the daily, lived, work of charities.
+
+Our research sets out to examine this gap in knowledge, aiming to understand how transparency and accountability are made manifest through the practices of charity workers. We report on a qualitative study of work practices in a charity that conducts youth work for economically deprived and migrant communities in the North of England. Over a period of seven months the first author engaged in ethnographic fieldwork at the charity’s main community hub and office, participating in both delivery of community-facing activities and administrative work. The fieldwork was oriented towards developing a praxeological account @crabtree_doing_2012 of how financial work is performed within the organisation and how they account for their spending and activities. The findings from our fieldwork provide insight into the tools and processes used by members of such a setting to organise and make sense of their activities and finances and, more crucially, the work that is required to make this *transparent* and *accountable* to others. We also discuss the tensions that exist between the everyday execution of charitable work and the legal or contractual obligations to account for it in particular ways. In doing so we highlight how organisations can navigate these issues in order to make themselves accountable not only ‘on paper’ but to those who rely on their projects and services.
+
+This paper contributes to HCI by providing an in-depth understanding of the everyday work practices in charities and the ways in which social technologies are supporting, or could be designed to better support, transparency and accountability. We demonstrate that transparency and accountability are complex and multifaceted, and their manifestation in charity work practices presents a rich space which we explore in this paper. This is an important concern for the HCI community as it strives to better support the needs of communities and organisations that serve civic and social needs whilst facing barriers to their work. Through understanding the communication needs of charities, HCI may address the ways technologies may be designed to better facilitate and enhance the work and relationships that are key to sustaining an organisation’s efforts in producing value for civic society.
 
 Charities, Transparency, and HCI
 ---------------------------------
+
+It is generally understood that charities play an important role in society. They perform work in areas and matters generally left unattended by state or private sectors. This includes driving grass-roots development and social care @salamon_rise_1994, the creation and sustenance of *Social Capital* @field_social_2003 [@mendel_doing_2014] within communities and for particularly marginalised populations. It can be said that a charity’s very existence indicates a substantial need for its model of service delivery, due to the failure of the market to regulate for-profit entities which may engage in potentially harmful or exploitative
+practices @hansmann_role_1980.
+
+Accountability is a cornerstone in the public’s relationship with organisations, but this is more pronounced in the context of charities for at least two reasons. First, due to the impact a charity can have, making an organisation accountable for actions it takes ensures that it is true to its mission and does not abuse the trust of the public and other stakeholders who might support its cause @frumkin_accountability_2006 [@jacobson_lifting_2005]. Second, since charities are mostly financed through public funds via government grants or direct donations from citizens, it is often argued that they should be held accountable and act transparently in regards to their financial practices. This is to ensure that they are seen to be using funds both appropriately and efficaciously. Furthermore, due to the nature of charitable funding, this means having multiple and diverse stakeholders to which they must be accountable @krashinsky_stakeholder_1997 [@macmillan_relationship_2005].
+
+Literature in Public and Voluntary Sector Administration discusses multiple ways in which an organisation can be said to be accountable. This can include: the extent to which its stakeholders can direct its activity @koppell_pathologies_2005; how it can be called upon to justify its actions @fox_uncertain_2007; and how it can be made to adhere to responsibilities through legal frameworks @koppell_pathologies_2005. These theories of accountability impact the way that charities conduct their everyday operations regarding work and spending. Accountability shares a complicated relationship with financial transparency; the latter often being cited as means to provide the former @hood_accountability_2010. Koppell describes transparency as the foundational element for accountability upon which all of the other forms are built @koppell_pathologies_2005. Fox conceptualises an intersection between the two called ‘answerability’ @fox_uncertain_2007. For organisations there are many ways to be transparent such as passively revealing information or actively engaging stakeholders @oliver_what_2004 [@schauer_transparency_2011], or choosing to focus on outcomes or spend @heald_varieties_2006. The position of this paper is that all forms of transparency share a concern over the dissemination and consumption of information. The purpose of being transparent, therefore, is ultimately to facilitate interactions between an organisation, its work, and stakeholders (such as funders or the wider public). The provision and interrogation of data through digital technology is an increasingly used mechanism to facilitate this interaction, and therefore to achieve accountability @meijer_understanding_2009 [@oliver_what_2004].
+
+Recent years have seen HCI researchers examining the role of data in everyday interactions, and the ways in which people interact with data itself. This includes data visualisations and interactions with data supporting personal goals, individual reflection, and shared awareness in social networks. At an organisational level, studies have demonstrated how charities have used open data to form narratives around local conditions @erete_storytelling_2016, while others have highlighted how visualisations around organisational metrics (including funding) support the use of data for reporting, understanding, and providing insight within highly politicised environments @elsden_resviz_2016. In the personal sphere, concepts of data lockers allow external processors to interact with one’s data while maintaining personal control @mcauley_dataware_2011 and data itself is likened to a boundary object forming part of the infrastructure of everyday life @star_institutional_1989 [@crabtree_human_2015].
+
+Most nations have legislation that stipulates a degree of transparency by ensuring that charities and other Non-Profit Organisations (NPOs) submit documentation for auditing and, subsequently, public consumption. Examples include the Internal Revenue Service (IRS) @internal_revenue_service_annual_2016 and the Charity Commission @hm_government_charity_nodate. The focus of these systems is typically on *input transparencies* i.e. the money a charity spends. This is, in part, due to its ease of measurement; however such input transparencies have been shown to be ineffective when determining how appropriate a spend is @heald_varieties_2006. Previous work in HCI has critiqued such systems for lacking detail and context about the work of organisations, and failing to represent non-monetary elements such as the efforts of those who volunteer for a charity’s projects and cause. The recommendations from this prior work are for new digital systems and processes that provide a more comprehensive and value-driven alternative to simple financial accounting @marshall_accountable_2016. Additionally, imposed or expected transparency measures are often seen to be in conflict with effective practice regarding to organisational independence, confidentiality, and privacy @cukierman_limits_2009 [@schauer_mixed_2014]. In this way, the concerns of charities around transparency can often reflect privacy issues discussed as concerns around the use of personal informatics that are discussed by McAuley et al @mcauley_dataware_2011. This is because charities may wish to communicate an accurate view of their work and its value but may have concerns presenting data about activity or spend that can be misinterpreted by others who may not understand its context. Furthermore, on a pragmatic level, being transparent can create additional work for organisations due to the effort involved in audits, monitoring and reporting that they are legally or contractually obliged to perform. It also means charities have to expend further effort to communicate their practice and value (as opposed to values) in order to maintain a relationship with their stakeholders @macmillan_relationship_2005.
+
+The work reported in this paper builds upon previous research in HCI around the design of systems to facilitate transparency and accountability in charities @marshall_accountable_2016, and work that discusses the use of data for interaction by and between individuals and organisations @crabtree_human_2015 [@elsden_resviz_2016]. Where previous investigations focus on the design for interfaces to interact with data, or the ownership and processing of the same, it typically fails to account for the work needed in organisations to compile this data in the first place. As such, our research set out to ask: how is work performed and money spent; how is this accounted for in a charity; and what are the processes that make these accounts available to others? In asking and examining these questions through ethnographic fieldwork, this research seeks to provide insights around the ways in which digital systems can be designed to better facilitate the work of ‘being transparent’ as part of everyday practice in charities.
 
 Research Approach
 ------------------
