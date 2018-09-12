@@ -29,11 +29,41 @@ This research began in earnest with my reaching out to a Youth Work charity know
 + VERY brief history of Benwell (census information? Poverty index?)
 + Social indexes
 
-In 1994, *The Independent* included Benwell, Scotswood, and Elswick together in its list entitled *"No-Go Britain: Where, what, why"*. The reasons they cited were *"Crime, arson used to intimidate witnesses, feuds between rival families involved in drug dealing"* as well as citing unemployment statistics of 24%, 28%, and 26% for the three areas respectively @_NoGoBritainWhere_1994.
+In 1994, *The Independent* included Benwell, Scotswood, and Elswick together in its list entitled *"No-Go Britain: Where, what, why"*. The reasons they cited were *"Crime, arson used to intimidate witnesses, feuds between rival families involved in drug dealing"* as well as citing unemployment statistics of 24%, 28%, and 26% for the three areas respectively @_NoGoBritainWhere_1994. Colloquially, the area is seen as abandoned by the city council, and owes its reputation to the conditions that arise from lack of adequate services and funding.
 
 + Conroys and Sayers
 + My encounters with them
-+ 
+
+I recount one encounter with a member of the Conroy clan below (young person pseudonymised):
+
+> *It was one of the first Monday night sessions down at The Play Centre, also called "Patchy 2" by the staff. The session catered to ages between 8 and 12 and it was busy. One young person in particular, a young boy who looked to be around 8 or 9, was consistently acting aggressive towards the others; and there were multiple cries of "Matt! Terry punched me" or "Matt! Terry stole the football" every few minutes. Since I was still growing into my role of session worker I didn't have a lot of confidence with my authority, and I asked Dean whether I should give Terry a warning before chucking him out. Dean affirmed that this was appropriate, so I made my way over to Terry. Using my best authoritative  (and accented) voice I issued the warning.*
+>
+> **Me:** *"Terry, this is your first warning man. Stop it or I'll chuck you out."*
+>
+> **Terry:** *"Nah, you won't."*
+>
+> *He then proceeded to smirk at me before running to another group of young people across the room gathered by the pool table. When he arrived there, he paused for a second before orienting to a member of the group who was holding a pool cue. He then forcibly retrieved the cue by grappling with the person, and took their place at the pool table. In response to this I walked up to Terry, grabbed the cue back from him, and turned to orient him towards the door.*
+>
+> **Me:** *"Get out. Come back next week. See you."*
+>
+> *To his credit Terry calmly walked/jogged out the door. I looked around for other members of staff who had witnessed it, searching for approval. Dean raised his eyebrows and nodded slightly, which I took to mean that my response was appropriate. Unknown to me at the time, Michael had witnessed the encounter and apparently had his own take on it. Coming up behind me, he placed a hand on my shoulder:*
+>
+> **Michael (grinning):** *"Shouldn't have done that bonny lad. That's little Terry Conroy, related to Paddy Conroy. Ye kna of Paddy. He's just been released \[from prison\]."*
+>
+> *I did know of Paddy Conroy.*
+>
+> **Me (shitting myself):** *"Oh, right. What should I do?"*
+>
+> *At this point I heard Dean burst out laughing. I briefly wondered if he was a sociopath, and then noticed Michael was also laughing as well. I looked Mike, with the dawning realisation that they might be having me on.*
+>
+> **Mike (still laughing)**: *"Nah you'll be fine man. I mean that is Terry Conroy and he is related to Paddy. But he gets kicked out of everything all the time. Nout will happen and I doubt he'll even remember he was here in twenty minutes."*
+>
+> **Me: (still shitting myself):** *Pfffft. Thanks for that Mick.*
+>
+> *Michael then walked off smiling to himself, and the rest of the session passed uneventfully.*  
+
+
+
 
 It is in this context which the charity *The Patchwork Project* and its workers operate.
 
