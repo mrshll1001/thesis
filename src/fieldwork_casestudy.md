@@ -31,48 +31,55 @@ This research began in earnest with my reaching out to a Youth Work charity know
 
 In 1994, *The Independent* included Benwell, Scotswood, and Elswick together in its list entitled *"No-Go Britain: Where, what, why"*. The reasons they cited were *"Crime, arson used to intimidate witnesses, feuds between rival families involved in drug dealing"* as well as citing unemployment statistics of 24%, 28%, and 26% for the three areas respectively @_NoGoBritainWhere_1994. Colloquially, the area is seen as abandoned by the city council, and owes its reputation to the conditions that arise from lack of adequate services and funding.
 
-+ Conroys and Sayers
-+ My encounters with them
+The rival crime families alluded to in the article are the infamous Sayers and Conroy families; often held up as Newcastle's equivalent to the Kray twins. Aside from a history of (alleged) violence, drug trafficking, and extortion Paddy Conroy rose to notoriety after escaping from a vehicle taking him to court and going on the run. Eventually being apprehended in Spain. **CITE ME HEAVILY**. Growing up near and around Newcastle, my peers and I had always held up the Sayers and the Conroys as being symbolic of the West End; rugged, violent, and unpredictable. Benwell was held up as a 'no-go' zone patrolled by boogeymen called Sayers and Conroy. The truth is much more mundane. I recount one encounter with a member of the Conroy clan below (young person pseudonymised):
 
-I recount one encounter with a member of the Conroy clan below (young person pseudonymised):
-
-> *It was one of the first Monday night sessions down at The Play Centre, also called "Patchy 2" by the staff. The session catered to ages between 8 and 12 and it was busy. One young person in particular, a young boy who looked to be around 8 or 9, was consistently acting aggressive towards the others; and there were multiple cries of "Matt! Terry punched me" or "Matt! Terry stole the football" every few minutes. Since I was still growing into my role of session worker I didn't have a lot of confidence with my authority, and I asked Dean whether I should give Terry a warning before chucking him out. Dean affirmed that this was appropriate, so I made my way over to Terry. Using my best authoritative  (and accented) voice I issued the warning.*
+> It was one of the first Monday night sessions down at The Play Centre, also called "Patchy 2" by the staff. The session catered to ages between 8 and 12 and it was busy. One young person in particular, a young boy who looked to be around 8 or 9, was consistently acting aggressive towards the others; and there were multiple cries of "Matt! Terry punched me" or "Matt! Terry stole the football" every few minutes. Since I was still growing into my role of session worker I didn't have a lot of confidence with my authority, and I asked Dean whether I should give Terry a warning before chucking him out. Dean affirmed that this was appropriate, so I made my way over to Terry. Using my best authoritative  (and accented) voice I issued the warning.
 >
 > **Me:** *"Terry, this is your first warning man. Stop it or I'll chuck you out."*
 >
 > **Terry:** *"Nah, you won't."*
 >
-> *He then proceeded to smirk at me before running to another group of young people across the room gathered by the pool table. When he arrived there, he paused for a second before orienting to a member of the group who was holding a pool cue. He then forcibly retrieved the cue by grappling with the person, and took their place at the pool table. In response to this I walked up to Terry, grabbed the cue back from him, and turned to orient him towards the door.*
+> He then proceeded to smirk at me before running to another group of young people across the room gathered by the pool table. When he arrived there, he paused for a second before orienting to a member of the group who was holding a pool cue. He then forcibly retrieved the cue by grappling with the person, and took their place at the pool table. In response to this I walked up to Terry, grabbed the cue back from him, and turned to orient him towards the door.
 >
 > **Me:** *"Get out. Come back next week. See you."*
 >
-> *To his credit Terry calmly walked/jogged out the door. I looked around for other members of staff who had witnessed it, searching for approval. Dean raised his eyebrows and nodded slightly, which I took to mean that my response was appropriate. Unknown to me at the time, Michael had witnessed the encounter and apparently had his own take on it. Coming up behind me, he placed a hand on my shoulder:*
+> To his credit Terry calmly walked/jogged out the door. I looked around for other members of staff who had witnessed it, searching for approval. Dean raised his eyebrows and nodded slightly, which I took to mean that my response was appropriate. Unknown to me at the time, Michael had witnessed the encounter and apparently had his own take on it. Coming up behind me, he placed a hand on my shoulder:
 >
-> **Michael (grinning):** *"Shouldn't have done that bonny lad. That's little Terry Conroy, related to Paddy Conroy. Ye kna of Paddy. He's just been released \[from prison\]."*
+> **Michael (grinning):** *"Shouldn't have done that bonny lad. That's little Terry Conroy, related to Paddy Conroy. Ye knaa of Paddy. He's just been released \[from prison\]."*
 >
-> *I did know of Paddy Conroy.*
+> I did know of Paddy Conroy.
 >
 > **Me (shitting myself):** *"Oh, right. What should I do?"*
 >
-> *At this point I heard Dean burst out laughing. I briefly wondered if he was a sociopath, and then noticed Michael was also laughing as well. I looked Mike, with the dawning realisation that they might be having me on.*
+> At this point I heard Dean burst out laughing. I briefly wondered if he was a sociopath, and then noticed Michael was also laughing as well. I looked Mike, with the dawning realisation that they might be having me on.
 >
 > **Mike (still laughing)**: *"Nah you'll be fine man. I mean that is Terry Conroy and he is related to Paddy. But he gets kicked out of everything all the time. Nout will happen and I doubt he'll even remember he was here in twenty minutes."*
 >
-> **Me: (still shitting myself):** *Pfffft. Thanks for that Mick.*
+> **Me: (still shitting myself):** *"Pfffft. Thanks for that Mick."*
 >
-> *Michael then walked off smiling to himself, and the rest of the session passed uneventfully.*  
+> Michael then walked off smiling to himself, and the rest of the session passed uneventfully.
 
-
-
-
-It is in this context which the charity *The Patchwork Project* and its workers operate.
+This vignette serves to illustrate how Patchwork have woven themselves into the fabric of the West End. Terry's respect for the workers of Patchwork was indicated by his obeyal of my command. Mike's humourous treatment of me: first threatening the possibility of violent retribtution from a notorious family; then dismissing it out of hand, shows an understanding of his environment and Patchwork's position within it.
 
 ### The history of Patchwork
-+ Formation of the project
++ Formation of the project through
 + Evolution to a stand-alone project
 
 
 ### The People
+Michael
+
+Andi
+
+Dean
+
+Sonia
+
+Chelsea
+
+Lynne
+
+
 + Individuals and job roles
 + Members of the community
 + how does the timeframe of this piece of fieldwork translate across to who is discussed
@@ -88,7 +95,7 @@ Fieldwork and data collection were primarily ethnographic in nature @crabtree_do
 
 Our fieldwork began in early 2016. Initially, this came in the form ofweekly visits by the lead author to in order to participate in theirdaily administrative and planning sessions. These were targeted tocoincide with the shifts of the part-time administrator so that theresearcher could engage with their work as well as that of other staff members.
 
-After several visits, fieldwork expanded to include participating in theorganisation’s work as a volunteer youth worker on a weekly basis. Thisfurther facilitated the lead author’s integration into the charity, andprovided opportunities to participate in and observe performing theirwork in order to develop a deeper understanding of their practices.Through this participant-observation, the lead author was able todevelop a vulgar competence @crabtree_doing_2012 of organisationalprocesses from which to learn from and reflect upon. At this point,visits became more frequent and occurred several times a week with daysbeing spent partly participating in administration and planning, andpartly in the performance of a volunteer role in community sessions and projects.
+After several visits, fieldwork expanded to include participating in theorganisation’s work as a volunteer youth worker on a weekly basis. Thisfurther facilitated the lead author’s integration into the charity, andprovided opportunities to participate in and observe performing theirwork in order to develop a deeper understanding of their practices.Through this participant-observation, the lead author was able todevelop a vulgar competence @crabtree_doing_2012 of organisational processes from which to learn from and reflect upon. At this point,visits became more frequent and occurred several times a week with daysbeing spent partly participating in administration and planning, andpartly in the performance of a volunteer role in community sessions and projects.
 
 During this time the researcher was given a range of duties to perform such as: everyday purchasing of equipment for activities; attending meetings with stakeholders; being involved in strategy meetings with partners; creating monitoring materials such as questionnaires; and compiling financial accounts. They were also given copies of the yearly accounts spreadsheets to inspect, with instruction to ask any questions as required. Informal interviews often occurred in-situ, either when the researcher was seeking clarification of an activity as it occurred in-the-moment, or when reflection on fieldnotes lead to a question which could only be answered by the setting’s members. These informal interviews were not audio-recorded, but were integrated into the data corpus through fieldnotes and fieldwork diaries.
 
