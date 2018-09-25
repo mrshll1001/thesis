@@ -85,7 +85,7 @@ Chelsea performed administration duties when I first arrived at Patchwork, altho
 
 Lynne, as of writing, is the project's current administrator; having taken over from Chelsea in (date -- May 2016ish? Check fieldnotes). She works two days a week at Patchwork (Monday and Tuesday), and works the rest of the week at another project in the same area (*West End Women and Girls*). When she came aboard Mike mentioned to the group in a meeting that *"It's quite exciting because the Project hasn't had a proper Administrator before"*.
 
-Sidney (Sid) is Andi's dog but is often conceptualised as a worker in conversation EXPAND THIS.
+Sydney (Syd) is Andi's dog but is often conceptualised as a worker in conversation EXPAND THIS.
 
 
 ### Gaining Access / Integrating / Research Activities
