@@ -43,16 +43,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4450921"
-     inkscape:cx="373.23971"
-     inkscape:cy="310.62619"
+     inkscape:cx="426.47595"
+     inkscape:cy="377.03973"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:measure-start="242.456,528.492"
+     inkscape:measure-end="251.661,527.146" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -85,40 +87,22 @@
        transform="matrix(1,0,0,-1,29.855874,258.83246)"
        id="g298"
        style="fill:#91aa9d;fill-opacity:1;stroke:#99cc33">
-      <flowRoot
+      <g
          transform="translate(-4.1428762,0.12946488)"
          style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#91aa9d;fill-opacity:1;stroke:#99cc33"
-         id="flowRoot270"
-         xml:space="preserve"><flowRegion
-           style="font-size:10.66666698px;fill:#91aa9d;fill-opacity:1;stroke:#99cc33"
-           id="flowRegion266"><rect
-             style="font-size:10.66666698px;fill:#91aa9d;fill-opacity:1;stroke:#99cc33"
-             y="208.23396"
-             x="147.85715"
-             height="58.92857"
-             width="125.71429"
-             id="rect264" /></flowRegion><flowPara
-           id="flowPara268" /></flowRoot>      <g
+         id="flowRoot270" />
+      <g
          transform="translate(-15.047513,0.42282937)"
          id="g296"
          style="fill:#91aa9d;fill-opacity:1;stroke:#99cc33">
         <path
-           inkscape:transform-center-y="8.4809845"
            transform="scale(-1)"
-           d="m -18.743833,-49.866634 -58.757939,0 29.378969,-50.885866 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="true"
-           sodipodi:arg2="1.5707963"
-           sodipodi:arg1="0.52359878"
-           sodipodi:r2="16.961954"
-           sodipodi:r1="33.923912"
-           sodipodi:cy="-66.82859"
-           sodipodi:cx="-48.122803"
-           sodipodi:sides="3"
-           id="path272"
            style="fill:#91aa9d;fill-opacity:1;stroke:#91aa9d;stroke-width:0.24811682;stroke-opacity:1"
-           sodipodi:type="star" />
+           inkscape:transform-center-y="8.4809845"
+           d="M -18.743833,-49.866634 H -77.501772 L -48.122803,-100.7525 Z"
+           id="path272"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
       </g>
     </g>
     <flowRoot
@@ -206,7 +190,7 @@
        id="path427"
        sodipodi:sides="3"
        sodipodi:cx="-95.739517"
-       sodipodi:cy="-174.23608"
+       sodipodi:cy="-174.55706"
        sodipodi:r1="33.923912"
        sodipodi:r2="16.961954"
        sodipodi:arg1="0.52359878"
@@ -214,7 +198,7 @@
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m -66.360548,-157.27413 -58.757942,0 29.378973,-50.88587 z"
+       d="m -66.360548,-157.5951 -58.757942,0 29.378973,-50.88586 z"
        transform="scale(-1)"
        inkscape:transform-center-y="8.4809845" />
     <flowRoot
@@ -238,7 +222,7 @@
     <path
        style="fill:#286d8d;fill-opacity:1;stroke:#286d8d;stroke-width:0.24811682;stroke-opacity:1"
        inkscape:transform-center-y="8.4809845"
-       d="m 131.97726,157.27413 h 50.33576 l 25.23369,23.31207 -25.23369,27.5738 h -20.95679 z"
+       d="m 131.97726,157.65713 h 50.33576 l 25.23369,22.92907 -25.23369,27.9568 h -20.95679 z"
        id="path145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -272,7 +256,7 @@
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
            id="path14"
-           d="m -18.743833,-49.866634 h -58.757939 l 29.378969,-50.885866 h 29.37897 z"
+           d="m -18.743833,-50.24963 h -58.757939 l 29.378969,-50.88587 h 29.37897 z"
            inkscape:transform-center-y="8.4809845"
            style="fill:#d1dbbd;fill-opacity:1;stroke:#d1dbbd;stroke-width:0.24811682;stroke-opacity:1"
            transform="scale(-1)" />
@@ -340,7 +324,7 @@
          style="fill:#ffffff;stroke-width:1.8451823" />
     </g>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-0.0736333,-18.73705)"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.0736333,-17.678716)"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4537"
        xml:space="preserve"><flowRegion
@@ -352,7 +336,7 @@
            height="61.114231"
            width="331.33005"
            id="rect4541" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666685px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara4543">Initial Fieldwork</flowPara></flowRoot>    <g
        id="g365"
        transform="matrix(0.88584858,0,0,0.88584858,8.954694,23.086885)">
@@ -371,7 +355,7 @@
        xml:space="preserve"
        id="flowRoot306"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,34.989026,25.89534)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,34.701017,25.89534)"><flowRegion
          id="flowRegion302"
          style="font-size:13.33333397px;fill:#000000"><rect
            id="rect300"
@@ -381,7 +365,7 @@
            y="106.8113"
            style="font-size:13.33333397px;fill:#000000" /></flowRegion><flowPara
          id="flowPara304"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Participatory Design</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">User-Centred Design</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,97.160995,25.89534)"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9900;fill-opacity:1;stroke:none"
        id="flowRoot681"
@@ -418,7 +402,7 @@
        xml:space="preserve"
        id="flowRoot461"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,69.582285,-18.73705)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,69.582285,-18.069993)"><flowRegion
          id="flowRegion457"
          style="font-size:13.33333397px;fill:#000000"><rect
            id="rect455"
@@ -434,7 +418,7 @@
        d="m 175.60612,35.918914 h -0.77138 l -0.2734,-0.263638 c 0.95691,-1.113132 1.533,-2.558242 1.533,-4.130297 0,-3.505384 -2.84141,-6.346786 -6.3468,-6.346786 -3.50538,0 -6.34678,2.841402 -6.34678,6.346786 0,3.505385 2.8414,6.346786 6.34678,6.346786 1.57206,0 3.01717,-0.576081 4.1303,-1.532984 l 0.26364,0.273399 v 0.771379 l 4.88215,4.87238 1.45487,-1.454884 z m -5.85858,0 c -2.43131,0 -4.39393,-1.962625 -4.39393,-4.393935 0,-2.431309 1.96262,-4.393935 4.39393,-4.393935 2.43131,0 4.39394,1.962626 4.39394,4.393935 0,2.43131 -1.96263,4.393935 -4.39394,4.393935 z"
        id="path219" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,131.38992,-18.73704)"
+       transform="matrix(0.26458333,0,0,0.26458333,131.38992,-17.678716)"
        style="font-style:normal;font-weight:normal;font-size:13.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot163"
        xml:space="preserve"><flowRegion
@@ -476,47 +460,292 @@
          x="208.0829"
          y="74.626274" />
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.21517511px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4.570278,59.251824 c 0,13.52908 0,13.52908 0,13.52908"
-       id="path931"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1.8125082"
-       y="76.017525"
-       id="text935"><tspan
-         sodipodi:role="line"
-         x="1.8125082"
-         y="76.017525"
-         style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
-         id="tspan937">February 2018</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot941"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion943"
-         style="font-size:10.66666667px;"><rect
+         style="font-size:10.66666698px"><rect
            id="rect945"
            width="101.72363"
            height="98.955635"
            x="6.9199743"
            y="295.71906"
-           style="font-size:10.66666667px;" /></flowRegion><flowPara
-         id="flowPara947"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot973"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"><flowRegion
-         id="flowRegion975"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-           id="rect977"
-           width="99.647636"
-           height="25.949892"
-           x="7.2659731"
-           y="295.02707"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara981">Fieldwork begins</flowPara><flowPara
-         id="flowPara983">@ Patchwork</flowPara></flowRoot>  </g>
+           style="font-size:10.66666698px" /></flowRegion><flowPara
+         id="flowPara947" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Timeline Items">
+    <g
+       id="g938"
+       transform="translate(0.5291667,-2.1166667)">
+      <text
+         id="text935"
+         y="76.017525"
+         x="1.8125082"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan937"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           y="76.017525"
+           x="1.8125082"
+           sodipodi:role="line">Feb 2016</tspan></text>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot973"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowRegion975"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="295.02707"
+             x="7.2659731"
+             height="25.949892"
+             width="99.647636"
+             id="rect977" /></flowRegion><flowPara
+           id="flowPara981">Fieldwork begins</flowPara><flowPara
+           id="flowPara983">at Patchwork</flowPara></flowRoot>    </g>
+    <g
+       id="g956"
+       transform="translate(38.818988,-2.1724772)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1.8125082"
+         y="76.017525"
+         id="text944"><tspan
+           sodipodi:role="line"
+           x="1.8125082"
+           y="76.017525"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           id="tspan942">Jun-Aug 2016</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"><flowRegion
+           id="flowRegion948"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+             id="rect946"
+             width="100.33964"
+             height="44.63382"
+             x="7.2659731"
+             y="295.02707"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+           id="flowPara952">Initial Design Workshops with Patchwork</flowPara></flowRoot>    </g>
+    <g
+       id="g996"
+       transform="translate(44.097924,19.503026)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1.8125082"
+         y="76.017525"
+         id="text986"><tspan
+           sodipodi:role="line"
+           x="1.8125082"
+           y="76.017525"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           id="tspan984">Oct 2016 - Apr 2017</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot994"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"><flowRegion
+           id="flowRegion990"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+             id="rect988"
+             width="114.87159"
+             height="52.937782"
+             x="7.2659731"
+             y="295.02707"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+           id="flowPara992">Iterative Design on digital tools with Patchwork</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(76.296115,-2.1724772)"
+       id="g1066">
+      <text
+         id="text1056"
+         y="76.017525"
+         x="1.8125082"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1054"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           y="76.017525"
+           x="1.8125082"
+           sodipodi:role="line">May 2017</tspan></text>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1064"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowRegion1060"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="295.02707"
+             x="7.2659731"
+             height="52.937782"
+             width="114.87159"
+             id="rect1058" /></flowRegion><flowPara
+           id="flowPara1062">Edbert's House and GOPA join. Iterate on tools.</flowPara></flowRoot>    </g>
+    <g
+       id="g1080"
+       transform="translate(91.895518,19.148638)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1.8125082"
+         y="76.017525"
+         id="text1070"><tspan
+           sodipodi:role="line"
+           x="1.8125082"
+           y="76.017525"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           id="tspan1068">Jun - Sep 2017</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1078"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"><flowRegion
+           id="flowRegion1074"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+             id="rect1072"
+             width="118.33158"
+             height="72.313705"
+             x="7.2659731"
+             y="295.02707"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+           id="flowPara1076">Unshepherded deployments w/ regular checkups at Patchwork, Edbert's House and GOPA</flowPara></flowRoot>    </g>
+    <g
+       id="g1094"
+       transform="translate(114.15581,-2.1724772)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1.8125082"
+         y="76.017525"
+         id="text1084"><tspan
+           sodipodi:role="line"
+           x="1.8125082"
+           y="76.017525"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           id="tspan1082">Oct 2017 - Apr 2018</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"><flowRegion
+           id="flowRegion1088"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+             id="rect1086"
+             width="114.87159"
+             height="52.937782"
+             x="7.2659731"
+             y="295.02707"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+           id="flowPara1090">Shepherded evaluations of digital tools with Patchwork and GOPA.</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(145.01246,19.148638)"
+       id="g1108">
+      <text
+         id="text1098"
+         y="76.017525"
+         x="1.8125082"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1096"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           y="76.017525"
+           x="1.8125082"
+           sodipodi:role="line">Jun-Jul 2018</tspan></text>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1106"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowRegion1102"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="295.02707"
+             x="7.2659731"
+             height="72.313705"
+             width="118.33158"
+             id="rect1100" /></flowRegion><flowPara
+           id="flowPara1104">Evaluations of systems with additional stakeholders (funders and accountants)</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(160.79557,-2.1166667)"
+       id="g1122">
+      <text
+         id="text1112"
+         y="76.017525"
+         x="1.8125082"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1110"
+           style="font-weight:bold;font-size:3.17499995px;stroke-width:0.26458332"
+           y="76.017525"
+           x="1.8125082"
+           sodipodi:role="line">Jul-Aug 2018</tspan></text>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-0.00443512,0)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1120"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowRegion1116"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="295.02707"
+             x="7.2659731"
+             height="52.937782"
+             width="157.77544"
+             id="rect1114" /></flowRegion><flowPara
+           id="flowPara1118">FInal evaluation &quot;Week in the Life&quot; events of systems with Patchwork and GOPA workers and trustees</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.287102,59.681485 c 0,11.511846 0,11.534732 0,11.534732"
+       id="path1126"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1128"
+       d="m 52.438527,59.681485 c 0,11.511846 0,11.534732 0,11.534732"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 67.437138,59.681485 c 0,32.895771 0,32.961169 0,32.961169"
+       id="path1130"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.957983,59.681485 c 0,11.511846 0,11.534732 0,11.534732"
+       id="path1132"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 95.790252,86.681322 c 0,5.949505 0,5.961332 0,5.961332"
+       id="path1136"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1138"
+       d="m 95.790252,59.681485 c 0,10.348974 0,10.369548 0,10.369548"
+       style="fill:none;stroke:#000000;stroke-width:0.25125921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1140"
+       d="m 133.8494,59.681485 c 0,11.511846 0,11.534732 0,11.534732"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1142"
+       d="m 156.86668,59.681485 c 0,32.895771 0,32.961169 0,32.961169"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.47876,59.681485 c 0,11.511846 0,11.534732 0,11.534732"
+       id="path1144"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
