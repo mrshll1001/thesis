@@ -12,7 +12,6 @@ Introduction
 
 + General details of Patchwork; staff, organisation, history
 + financial reconciliation Processes
-+ outline of patchwork
 + grant getting
 + reporting to funders processes
 + trustee meetings
@@ -69,23 +68,21 @@ This vignette serves to illustrate how Patchwork have woven themselves into the 
 ### People and Organisation Structure
 The organisation has three full-time and four part-time staff (pseudonymised for reporting): Mike (Manager, full-time); Andi (Senior Youth Worker, full-time); Dean (Youth Worker, full-time); Lynne (Administrator, part-time replacing Chelsea who had the role when fieldwork began); Sonia (Youth Worker, part-time); and Ladislav (Youth Worker, part-time). The charity has an annual financial turnover of approximately 130k, and operates across two buildings: ‘The Project’, a community hub and central offices; and ‘The Play Centre’, a building designed for young people’s play.
 
-+ Individuals and job roles
-+ Members of the community
 + how does the timeframe of this piece of fieldwork translate across to who is discussed
 
-Michael (Mike) is the full-time Manager at Patchwork. Hailing from Sunderland he has been involved in delivering Youth Work for many years, and came to Patchwork as a manager in YEAR. As a manager and a youth worker himself Mike is involved in front-end service delivery as well as administration and management duties. He writes the majority of the funding applications, and is one of two people who work on the budgeting and accounting (alongside Chelsea/Lynne), and also is one of two people who may claim expenses alongside Andi.
+**Michael (Mike)** is the full-time Manager at Patchwork. Hailing from Sunderland he has been involved in delivering Youth Work for many years, and came to Patchwork as a manager in YEAR. As a manager and a youth worker himself Mike is involved in front-end service delivery as well as administration and management duties. He writes the majority of the funding applications, and is one of two people who work on the budgeting and accounting (alongside Chelsea/Lynne), and also is one of two people who may claim expenses alongside Andi.
 
-Andi is the full-time Senior Youth Worker at the project. Moving to the North East in (YEAR), she became involved in Patchwork through XYZ. Her duties at the project involve designing front-end service delivery but also searching for funding via grant applications. She is one of two people whose money is used for purchasing and thus may claim expenses, alongside Mike.
+**Andi** is the full-time Senior Youth Worker at the project. Moving to the North East in (YEAR), she became involved in Patchwork through XYZ. Her duties at the project involve designing front-end service delivery but also searching for funding via grant applications. She is one of two people whose money is used for purchasing and thus may claim expenses, alongside Mike.
 
-Dean is a full-time Youth Worker at the project. Hailing from Benwell himself, Dean first attended Patchwork as a service user before being hired by the project as a worker. As all workers are involved in planning and delivering activities to young people, Dean performs these duties alongside Andi and Mike; but takes a special interest in XYZ. Throughout my fieldwork, Dean also took part in submitting funding applications.
+**Dean** is a full-time Youth Worker at the project. Hailing from Benwell himself, Dean first attended Patchwork as a service user before being hired by the project as a worker. As all workers are involved in planning and delivering activities to young people, Dean performs these duties alongside Andi and Mike; but takes a special interest in XYZ. Throughout my fieldwork, Dean also took part in submitting funding applications.
 
-Sonia is a part-time Youth Worker at the project. She originally interacted with the project through as a young woman and, similar to Dean, was hired to deliver services. She is the volunteer coordinator for the project, and
+**Sonia** is a part-time Youth Worker at the project. She originally interacted with the project through as a young woman and, similar to Dean, was hired to deliver services. She is the volunteer coordinator for the project, and
 
-Chelsea performed administration duties when I first arrived at Patchwork, although she was never explicitly referred to as an "Administrator". Her duties included producing the budget and working on the spreadsheets alongside Michael, as well as ensuring all members of staff were paid and expenses claimed properly.
+**Chelsea** performed administration duties when I first arrived at Patchwork, although she was never explicitly referred to as an "Administrator". Her duties included producing the budget and working on the spreadsheets alongside Michael, as well as ensuring all members of staff were paid and expenses claimed properly.
 
-Lynne, as of writing, is the project's current administrator; having taken over from Chelsea in (date -- May 2016ish? Check fieldnotes). She works two days a week at Patchwork (Monday and Tuesday), and works the rest of the week at another project in the same area (*West End Women and Girls*). When she came aboard Mike mentioned to the group in a meeting that *"It's quite exciting because the Project hasn't had a proper Administrator before"*.
+**Lynne**, as of writing, is the project's current administrator; having taken over from Chelsea in **(date -- May 2016ish? Check fieldnotes)**. She works two days a week at Patchwork (Monday and Tuesday), and works the rest of the week at another project in the same area (*West End Women and Girls*). When she came aboard Mike mentioned to the group in a meeting that *"It's quite exciting because the Project hasn't had a proper Administrator before"*.
 
-Sydney (Syd) is Andi's dog but is often conceptualised as a worker in conversation EXPAND THIS.
+**Sydney (Syd)** is Andi's dog but is often conceptualised as a worker in conversation, and is often positioned in the front of The Project and as such interacts with service users and community members often.
 
 
 ### Gaining Access / Integrating / Research Activities
@@ -156,7 +153,7 @@ We did, however, witness that there is an inherent tension when presenting accou
 
 Here Mike shows us that there is an explicit point of contention that arises when commercial accounting models are misapplied to charities. The accountants use expensive commercial software and apply it as a de facto standard, presenting a barrier to the charity engaging with the auditing processes required of them. These attempts to influence ’s toolkit and thus their accounting practices demonstrates a conflict that, in order to become transparent in a particular way, they must use methods imposed upon them that do not support their own practices of accounting for money. It is also worth noting that the actual work of constructing accounts is performed within the organisation itself, and that the accountant is responsible only for performing an audit of these. I spent some time constructing the accounts, and outline the process in **FIGURE XYZ**
 
-![Slicing diagram of the accounting workflow as related to expenses](./src/figs/fielworl_verifying_accounts.svg)
+![Slicing diagram of the accounting workflow as related to expenses](./src/figs/fieldwork_verifying_accounts.svg)
 
 ### Accounting for Activity
 
