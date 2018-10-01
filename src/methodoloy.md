@@ -14,6 +14,8 @@ This section situates the thesis within the tradition of a workplace study.
 ### Timeline
 A timeline for the research
 
+![Timeline of Research](./src/figs/methodology_timeline.svg)
+
 ### Research Landscape: The Patchwork Project
 The main setting for the research is elaborated upon here, as main research partners. Attention is paid to how I intergrated into the organisation, and how this environment affected study.
 
