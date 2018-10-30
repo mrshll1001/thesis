@@ -1,4 +1,4 @@
-glassman_IntelligenceInternetAge_2012Background and Literature {#lit-review}
+Background and Literature {#lit-review}
 =========================
 
 This chapter discusses the background and literature of the various fields that inform this research. Given the interdisciplinary history of HCI research, and the socio-economic domain of non-profit enterprise, it should come of no surprise that this results in a rich and diverse nexus of perspectives which needs to be accounted for.
