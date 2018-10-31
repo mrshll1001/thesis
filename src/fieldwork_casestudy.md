@@ -132,7 +132,15 @@ This emphasises Mike’s awareness of how staff salaries impact the organisation
 
 All income and spending must be accounted for formally through compilation of ‘the accounts’; records of financial transactions that must be produced, audited and presented to bodies such as the charity’s Board of Trustees (like a corporate executive board who act in a supervisory capacity for a charity) or the Charity Commission (UK governing body). Compiling accounts was an activity I was involved in during fieldwork, generally performed alongside the administrator (Chelsea, and later Lynne).
 
-+ outline of financial reconciliation.
+A major component of producing a canonical set of accounts is the act of *Reconciling* expenditure. Reconciling is the process of mapping transactions in the bank statements to transactions in the budgeting spreadsheet. The process is required as a component of having the financial accounts 'signed off' by an independent accountant. It should be noted, though, that the accountant's role in this process is that of proof-checker. I outline the process of reconciling accounts below with an extract from my fieldwork diary
+
+> Lynne taught me how to reconcile accounts today. She first took a large wallet labelled receipts from behind her and inside there were two separate folders for Mike and Andi; being the only two workers who may claim for expenses. She also fetched a small box of printed bank statements. She handed me the wallet and we started going through them one by one starting with Mike's. As I read the value and items from each, Lynne would note them in the spreadsheet along with the worker and adding a budget code. Occasionally when she knew which project an expense was for she would "cost" this to a fund in a dropdown menu in a column in the spreadsheet. She would then search through her stack of printed bank statement and find the transaction that matched the expenses claim for the worker. Where an expenses claim was comprised of several receipts, she would group these together in the spreadsheet and adjust the value column for the total, rather than the individual expenses. She would then physically tick the transaction in the statement, tick the receipt that I handed to her, and list an "r" in the spreadsheet which stood for "reconciled"
+
+I note from this extract that three components are required for reconciliation: an entry in the logbook (ie the spreadsheet); the transaction in the bank statement; and the receipt of purchase.
+
++ analyse Labour
++ analyse appropriation and development of internal processes that map to a standard
+
 + Mike's reflections on it
 When initially instructed in the task by Mike, we were given insight into the role of financial accounts in the organisation and what is involved in the task:
 
