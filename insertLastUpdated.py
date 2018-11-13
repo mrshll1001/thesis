@@ -9,7 +9,9 @@ soup = BeautifulSoup(html, 'html.parser')
 
 # Insert the Last Modified Date
 date = soup.find(id="last_updated_date")
-date.string = str(datetime.datetime.now())
+date.string = str(datetime.datetime.now().strftime("%d %b %Y at %H:%M"))
+
+# TODO look at the git logs, write a table, insert it into the template.
 
 # Write output
 output = open("./out/website/index.html", "w")

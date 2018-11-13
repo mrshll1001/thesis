@@ -9,7 +9,6 @@ echo "Setting up file structure"
 
 mkdir -p ./out/website
 
-cp ./templates/index.html ./out/website
 cp ./templates/web.css ./out/website
 
 cp ./out/html/thesis.html ./out/website
