@@ -3,6 +3,15 @@ body {
   font-size: 16pt;
 }
 
+.centre {
+  text-align: center;
+}
+
+.margins {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
 #header {
   text-align: center;
 }
