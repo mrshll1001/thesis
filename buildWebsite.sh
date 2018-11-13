@@ -14,4 +14,6 @@ cp ./templates/web.css ./out/website
 cp ./out/html/thesis.html ./out/website
 cp ./out/word-processor/thesis.docx ./out/website
 
-# Modify index.html to include the last updated with the git log
+# Generate the cover sheet
+echo "Generating cover sheet"
+./generateFrontpage.py
