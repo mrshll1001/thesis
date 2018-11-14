@@ -3,6 +3,23 @@
 Introduction
 -----------------
 
+**Note: Very much a chapter in flux. Expand this with details of:**
+
+(Chapter outline, should outline the various sections)
+
++ Explicate the timeline of this initial piece of framework; how was it delineated?
+
++ General details of Patchwork; staff, organisation, history
++ financial reconciliation Processes
++ grant getting
++ reporting to funders processes
++ trustee meetings
++ use of social media
++ Others' use of media produced by Patchwork
++ production of the annual reports
++ production of "financial accounts" (the end-of-year one)
++ producing the plaque as accountability to the west end
+
 Background (Recap of relevant literature)
 ---------------------------------------------------
 

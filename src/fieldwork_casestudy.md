@@ -1,25 +1,14 @@
-Chapter 4: Accounts and Accountability -A Fieldwork Case Study of Work Practice. {#fieldwork-casestudy}
+Chapter 4: Accounts and Accountability - A Fieldwork Case Study of Work Practice. {#fieldwork-casestudy}
 ===================================================================================
 
 
 Introduction
 -------------
-**Note: Very much a chapter in flux. Expand this with details of:**
+This chapter concerns the first phase of the research, which consisted primarily of a long period of ethnogaphic fieldwork with an orientation to work practice @crabtree_doing_2012 and the labour required to produce accountability as part of everyday work in a small charity.
 
-(Chapter outline, should outline the various sections)
+This first phase of research benefitted the overall process in a number of ways. First, the ethnographic method and orientation to work practice allowed me as the researcher to develop a degree of *Vulgar Competence* in the processes and on-the-ground work that any technological intervention would need to be based around, and support. As such, the design requirements discussed at the end of this chapter are the result of analysing actual work practices of the organisation. Additionally, the length of the initial fieldwork period discussed in this chapter illustrated to me wider, much more complete, picture of the charity ecosystem; who the various actors are, and the various forms of accountable practice that a charity and its workers must employ to navigate this. Finally, I believe the initial period of fieldwork with my frequent visits and the work I performed as part of it lead to buy-in from the charity when it came to discussing, designing, and implementing technologies together at later stages of the research.
 
-+ Explicate the timeline of this initial piece of framework; how was it delineated?
-
-+ General details of Patchwork; staff, organisation, history
-+ financial reconciliation Processes
-+ grant getting
-+ reporting to funders processes
-+ trustee meetings
-+ use of social media
-+ Others' use of media produced by Patchwork
-+ production of the annual reports
-+ production of "financial accounts" (the end-of-year one)
-+ producing the plaque as accountability to the west end
+As such this chapter discusses the work practices of a small charity as they intersect with producing Transparency and Accountability. Attention is paid to different forms of work that the charity undertake and in what forms these are accounted for to others. These are then analysed to produce high-level design requirements which influenced the later design of technologies which were deployed into this space.
 
 Participants and Setting: The Patchwork Project
 ----------------------------------------------------------------
@@ -77,7 +66,7 @@ The organisation has three full-time and four part-time staff (pseudonymised for
 
 **Chelsea** performed administration duties when I first arrived at Patchwork, although she was never explicitly referred to as an "Administrator". Her duties included producing the budget and working on the spreadsheets alongside Michael, as well as ensuring all members of staff were paid and expenses claimed properly.
 
-**Lynne**, as of writing, is the project's current administrator; having taken over from Chelsea in **(date -- May 2016ish? Check fieldnotes)**. She works two days a week at Patchwork (Monday and Tuesday), and works the rest of the week at another project in the same area (*West End Women and Girls*). When she came aboard Mike mentioned to the group in a meeting that *"It's quite exciting because the Project hasn't had a proper Administrator before"*.
+**Lynne**, as of writing, is the project's current administrator; having taken over from Chelsea around May 2016. She works two days a week at Patchwork (Monday and Tuesday), and works the rest of the week at another project in the same area (*West End Women and Girls*). When she came aboard Mike mentioned to the group in a meeting that *"It's quite exciting because the Project hasn't had a proper Administrator before"*.
 
 **Sydney (Syd)** is Andi's dog but is often conceptualised as a worker in conversation, and is often positioned in the front of The Project and as such interacts with service users and community members often.
 
