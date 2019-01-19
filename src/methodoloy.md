@@ -25,7 +25,47 @@ As such the phase of research as discussed here denotes the dominant focus of th
 
 ![Timeline of Research](./src/figs/methodology_timeline.svg)
 
+**Initial Fieldwork**
 
++ Began early 2016
++ focus on working practices around transaprency and Accountability
++ weekly visits at first, followed by visits at more regular intervals
++ fieldwork methods such as interviews (formal and informal), volunteering, performing accounting work
++ visits out to see other aspects of the charity's work.
++ fieldwork focused on specific phenomena later on
++ integration into daily life at the charity
+
+**User-Centred Design**
+
++ Design workshops at the end of fieldwork with patchwork to start discussing technology
++ Early development on prototypes consisting of app
++ User-Centred design involving weekly updates, captured through field notes
++ After February focus moved onto developing the other components
++ characterised by no push or drive to use tools at this phase, simply develop them
++ Additional partners came through late (May), and tools were adapted to their needs
+
+**Early Deployments**
+
++ Began in the summer and was largely unshepherded.
++ Check-ins were performed during regular field visits to Patchwork.
++ Check-ins with GOPA and Edbert's House were performed less often, around bi-weekly or monthly depending on schedules
++ No major tool use during this time.
++ link to section where this is reflected on
+
+**Expanded Deployments**
+
++ performed due to poor uptake and use of tools in the early deployments
++ Characterised by renewed focus on iterative developments
++ This was followed by a more structured deployment with co-operative evaluations
++ Weekly challenges
++ Edbert's House were unable to commit to this phase
++ Other actors were involved in evaluating through lightweight interviews
+
+**Additional Evaluation**
+
++ Consisted of further field trials with workers at Patchwork and at GOPA
++ to encourage a dedicated use of tools throughout the working day
++ Exit interviews on the research itself
 
 ##### Description of methods
 + fieldwork methods
