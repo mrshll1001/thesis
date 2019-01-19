@@ -49,3 +49,12 @@ img {
   margin-right: auto;
   width: 80%;
 }
+
+p.caption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
+
+}
