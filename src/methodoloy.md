@@ -25,15 +25,7 @@ As such the phase of research as discussed here denotes the dominant focus of th
 
 ![Timeline of Research](./src/figs/methodology_timeline.svg)
 
-**Initial Fieldwork**
-
-+ Began early 2016
-+ focus on working practices around transaprency and Accountability
-+ weekly visits at first, followed by visits at more regular intervals
-+ fieldwork methods such as interviews (formal and informal), volunteering, performing accounting work
-+ visits out to see other aspects of the charity's work.
-+ fieldwork focused on specific phenomena later on
-+ integration into daily life at the charity
+**Initial Fieldwork** ran from February 2016 to late summer of the same year at Pathwork. The purpose of this dedicated block of fieldwork was to orient myself to the work practices of the fieldsite. This initially involved looking explicitly at the different ways Transparency and Accountability manifested themselves as everyday practice through: characterising the performance of work related to Youth Work and management; and creating extra work from perceived or legal obligations for more formal forms of transparency and accountability. This phase of work started with weekly field visits to Patchwork, which overtime became either more frequent or less frequent as my schedule was intertwined with that of the organisation and different fieldwork methods were employed. Often I would visit several times a week in order to work on the accounts with the workers, volunteer, and take part in a team meeting. Sometimes, such as during the summer, I may not have visited during a given week. As noted, a variety of standard fieldwork methods were employed during this phase to develop praxeological accounts through techniques such as field notes, interviews, and participating in the work of the organisation itself. As the research progressed I became integrated into the daily life of the charity (and they became integrated into my daily life as a PhD student). The nature of my field notes thus shifted from "all-encompassing" to focused on specific phenomena as it occurred, and the research became characterised more by discussions around designing technologies.
 
 **User-Centred Design**
 
