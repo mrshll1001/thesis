@@ -42,3 +42,10 @@ code {
   color: #D24D27;
   padding: 0.1em;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
