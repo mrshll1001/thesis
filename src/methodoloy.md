@@ -2,11 +2,11 @@ Methodology {#methodology}
 ============
 
 
-Introduction
+Introduction {#methodology-introduction}
 -----------------------
 N/A
 
-A Work Place study
+A Work Place Study {#methodology-workplacestudy}
 -----------------------
 This section situates the thesis within the tradition of a workplace study.
 
@@ -15,7 +15,7 @@ This section situates the thesis within the tradition of a workplace study.
 + how
 
 
-Overview and Timeline
+Overview and Timeline {#methodology-overview}
 ---------------------
 This research began in late February 2016 when I reached out to the Patchwork Project as potential participants. Following a brief meeting with them at the [Shawarma Fattoush](http://fattoushne4.co.uk/) restaurant in Newcastle,  I began fieldwork the following week. The research then ended in late August 2018, culminating full-circle in a meal at the same restaurant (and on the same table) as where it began. The work inbetween these two dates consisted of several "phases" of work within the context of the workplace study that addressed the material needs of the research: an initial in-depth phase of fieldwork to understand how the interactional work of transparency and accountability was organised in a charity; a phase of iterative user-centred design to produce responses to the initial findings; early and expanded deployments which involved multiple organisations and methods; and finally some additional evaluation designed to bring in perspectives of other workers within the ecosystem such as accountants and funders as well as gather field data on some final iterative improvements made to the systems.
 
@@ -35,20 +35,20 @@ As such the phase of research as discussed here denotes the dominant focus of th
 
 **Additional Evaluation** was performed in the final months of the research. This was, in my eyes, designed to compensate for what I perceived as a lack of proper engagement with the tools and to discuss with participants findings that had arose during my conversations with funders and accountants. Through lessons learned from both earlier deployments, a short "challenge" was issued to participants to try and capture a "week in the life" of their organisation using the features of Accounting Scrapbook and Rosemary Accounts as much as possible. The engagement with this lead, somewhat ironically, to the discovery of several technical issues in the systems which meant that the "week" turned into several weeks as progress was halted and began again several times. Following this dedicated use of the tools and reflection thereof through dicussion, an exit interview was performed with each organisation to discuss the purpose and implementation of the research itself and the final state of our designs.
 
-Description of Methods
+Description of Methods {#methodology-methods}
 ----------------------
 + fieldwork methods
 + design methods
 + evaluation methods
 
 
-Orientations to Analysis
+Orientations to Analysis {#methodology-analysis}
 ------------------------
 + Marx
 + Ethnomethodology
 + why appropriated
 + how that influences the nitty gritty methods
 
-Summary
+Summary {#methodology-summary}
 -------
 N/A
