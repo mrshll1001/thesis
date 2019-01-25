@@ -1,5 +1,5 @@
-Methodology {#methodology}
-============
+Chapter 3 - Methodology {#methodology}
+=======================
 
 
 Introduction {#methodology-introduction}
