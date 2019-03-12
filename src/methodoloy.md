@@ -1,4 +1,4 @@
-Chapter 3 - Methodology {#methodology}
+Chapter 3 - Methodology #inprogress {#methodology}
 =======================
 
 
@@ -8,11 +8,13 @@ N/A
 
 A Work Place Study {#methodology-workplacestudy}
 -----------------------
-This section situates the thesis within the tradition of a workplace study.
+>This section situates the thesis within the tradition of a workplace study.
 
-+ what
-+ why - goals, how others did this
-+ how
+Workplace Studies are a form of research that concern themselves with how workplace activities are organised and, in particular, the roles in which technologies play in assisting workers organising mundane activities and collaborative tasks @heath_TechnologySocialInteraction_2000. Within CSCW and HCI Workplace Studies have been used to inform systems design at various stages of design research.
+
++ what **100 words**
++ why - goals, how others did this **500 words**
++ how **400 words**
 
 
 Overview and Timeline {#methodology-overview}
