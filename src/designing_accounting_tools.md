@@ -5,14 +5,23 @@ This chapter presents an empirical account of the design process that was undert
 
 Introduction
 ----------------
++ The previous chapter provided an analysis of work practice within a charity, that was then used to propose design requirements for systems
++ This chapter follows from that and describes the design and implementation of systems based around those initial findings
++ New participants are introduced, who affect the process in a variety of capacities
++ The components and items of the system are described with a design rationale
++ A brief reflection on the research's approach to collaboration is given
++ Lesson from the design process are summarised and described at the end
 
 Study Scope and Methods
 --------------------------------
 This section elaborates on the overall design process following the initial portion of fieldwork. The design process is discussed in detail with reference to literature used to ground the specific techniques used.
 
-### Initial Design Work
+### Participants and Collaborators
++ Patchwork were involved throughout the process, and were the most prominent collaborators during this.
++ Edbert's House were also involved and affected the design of the system bringing new problems to light.
++ Gateshead Older People Assembly were involved in a small way but not involved in a particularly serious way.
 
-#### Futures Workshop
+### Initial Design Work (Futures Workshops)
 
 ### Iterative Development and Design
 
