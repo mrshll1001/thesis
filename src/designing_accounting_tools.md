@@ -40,7 +40,20 @@ This section elaborates on the overall design process following the initial port
 + Other details of the workshops were captured through fieldnotes.
 
 ### Iterative Development and Design
++ Performed across six months October 2016 -> April 2017 with Patchwork taking the form of fairly standard iterative design work.
++ Accounting Scrapbook was built first to allow a collection process for the data to be performed.
++ Rosemary was built second to give the data somewhere to go.
++ Informal 'crit' sessions were performed across the six months integrated into regular fieldwork sessions where possible.
 
++ In May Edbert's House expressed interest in joining the research (actually Patrick roped them in but they genuinely seemed keen)
++ An initial meeting with them at their project also involved Gateshead Older People's Assembly (GOPA) who both agreed to be part of the research.
++ Several meetings were had with Edbert's House and GOPA initially to scope how they would be involved, including several "training" sessions on how to use the software that was produced.
++ Edbert's House raised several points about the current design of the software and suggested improvements.
++ Some of these were ratified with GOPA.
++ These will be discussed in depth later.
++ To accommodate these new enthusiastic participants changes were made to the systems across the month of May and into June.
+
++ The initial designs were deployed for evaluation in June, which is discussed later.
 
 System Details and Design Rationale
 -----------------------------------
@@ -50,8 +63,6 @@ This section outlines the systems and design rationale of the software that was 
 
 ### Federated Architecture
 As discussed in the [previous chapter](#fieldwork-discussion), one of the design requirements for this space was to support a *Configurable Transparency* which did not impose a specific presentation or collection process onto the worker; thus allowing them to present their work in a manner that makes sense in that moment for whichever purpose they wish. I also noted that this would be achieveable through interoperable, federated, tools; allowing data to be exchanged between systems whilst supporting collection and presentation in various formats. This mirrors the work performed by organisations already since organisations already engage in collecting a wide variety of information to be used for accountability, and recombine it in order to present it to a variety of audiences.
-
-**(note: this gets a little fluffy for this paragraph, check this with a supervisor)**
 
 + Critiques of platform capitalism. Introduce platform cooperativism
 + Not trying to build platform coops, but provide an alternative to being "locked in" and silo'd
