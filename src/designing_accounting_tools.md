@@ -341,6 +341,7 @@ The following sections details the behaviour and design rationale for each featu
 + Were tagged so that anything added to this scrapbook had these tags on
 + Entries could be added to multiple scrapbooks, the idea being you could generate complex lists of tags very quickly without much effort by adding entries to multiple scrapbooks at once.
 + Ability to be colour coded, although notes indicate that the free-colour selection should have been more limited
++ originally called envelopes but had a distinctly "financial" feel to them
 
 
 #### Types of Entry
@@ -391,9 +392,29 @@ Discussion
 ----------------
 This section reflects on features and discussions in the design process in order to contribute to teh design requirements of software in this space. In addition to this, comments are made on the appropriateness of techniques utilised develop the designs in this setting.
 
-### Building metaphors
+### Building metaphors and mapping - The work of standards
++ Some of the most important work in the design of the data standard and the tooling was around language used and metaphors
++ Scrapbooks were originally called envelopes and changed. Activities were called Events and had to be changed
++ Rosemary used the metaphor of a budgeting and accounting tool because that's what "made sense" to the workers while it was actually a weird hybrid of social media and data repository.
++ The mapping work was important, coming to the fore during the import data functionality but was present. The idea of a standard is to prevent the need for mapping going forward but the work of standards will require important ways to develop mapping processes to support workers and publishers.
 
-### TBC
+
+### Open Data, Infrastructure, Tools and Platforms
++ Despite a deliberate design choice to take a decentralised approach workers still viewed it as a platform
++ Lack of engagement around the idea of a data standard
++ More engagement around the design of tools around that, despite the standard being the glue for tools
++ This lead to the standard being iterated on as a result of the tooling whereas the opposite is supposed to be true
++ Charities don't really care about open data so much as they care about being able to do their jobs; and any means that they can use to demonstrate to funders about this is going to be considered
++ That's why the metaphors were important and how the privacy features were built in -- a budgeting tool shouldn't provide a live view so much as snapshots.
+
+### My role as designer
++ Held loads of crits and got feedback on the software but workers did not really take up the "design" mantle
++ Were a lot more engaged when it came to Rosemary and AS but this still didn't translate to a lot of actual sitting down
++ Weren't interested in early sketches, so implementation began before proper feedback was given
++ Again the charity focus was around doing their jobs, despite all romantic notions of "participatory design" they struggled to afford me time every week and crits were threaded through field visits rather than being in a specific "design space"
++ Their work is primarily care-giving in the various contexts (Youth Work, Elderly People, Social Care) and the transparency work around that is just administration or gets in the way
++ Trusted me as a "designer" or "computer person" to build them something that would make their lives easier
++ Designers should consider the political economy of the work they're performing as design-as-a-resource and the capacity for people to design in a participatory way is limited by that context.
 
 Summary / Conclusions
 --------------------------------
