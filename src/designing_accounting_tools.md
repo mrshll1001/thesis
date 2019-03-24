@@ -22,6 +22,22 @@ This section elaborates on the overall design process following the initial port
 + Gateshead Older People Assembly were involved in a small way but not involved in a particularly serious way.
 
 ### Initial Design Work (Futures Workshops)
++ The first piece of design work came when three workshops were held at Patchwork across the summer of 2016.
++ Workshops were inspired by a "futures workshop" but scheduling restrictions required the three phases of a futures workshop to be spread across different days, roughly three to four weeks apart each time.
+
++ First workshop was designed to elicit reflection on how the organisation communicated its spending and activities
++ A rich picture diagram was built in several layers and reflected upon by the participants
+
++ Second workshop explored the relationship between the participants and their data.
++ Nine scenarios were presented to the group to discuss and reflect upon.
++ group then were asked to present their own vision for supporting accountability; which they did as a group.
+
++ Group was given a design brief akin to "magic machines" to imagine how a future version of Patchwork would "do" accountability.
++ given basic office materials to construct the machines
++ workers would then demonstrate their use to each other and myself by taking us to the locations where each machine was designed to be used.
+
++ Workshops were audio recorded but data was damaged in transit, leaving only the recording for second workshop intact.
++ Other details of the workshops were captured through fieldnotes.
 
 ### Iterative Development and Design
 
