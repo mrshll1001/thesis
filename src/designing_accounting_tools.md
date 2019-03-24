@@ -36,7 +36,7 @@ This section elaborates on the overall design process following the initial port
 + given basic office materials to construct the machines
 + workers would then demonstrate their use to each other and myself by taking us to the locations where each machine was designed to be used.
 
-+ Workshops were audio recorded but data was damaged in transit, leaving only the recording for second workshop intact.
++ Workshops were audio recorded but data was damaged at a later point, leaving only the recording for second workshop intact. The first workshop was partially transcribed before the loss of the raw data.
 + Other details of the workshops were captured through fieldnotes.
 
 ### Iterative Development and Design
