@@ -29,7 +29,16 @@ margin-bottom: 3em;
 table {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-style: solid;
 }
+
+td, th {
+  padding: 1em;
+  border: 1px solid;
+  }
+
 
 blockquote {
   background: #f9f9f9;
