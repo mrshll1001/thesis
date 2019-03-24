@@ -58,6 +58,7 @@ Findings
 
 + Duplicating use; use of social media for photos exists so the standard/systems should be adopted to harvest this as well
 + Use of excel should have been leaped on rather than designing yet another shiny thing to force them to use -- look at how existing data standards allow publishing via spreadsheets!!
++ Worker schedules
 
 ### TBC (Focused around desires for other stakeholders)
 
@@ -65,9 +66,14 @@ Findings
 Discussion
 -----------------
 
-### TBC (Focused around stakeholder buy-in)
-
 ### Dialectic Transparency
++ building from contexts and links and boundary objects
++ digital systems can support transparency processes by enabling a dialectical form of Transparency
++ dialectics is the process by which two things produce a synthesis
++ Systems can be configured to support this dialectics as an interaction between the stakeholders and the charity
++ Can address the problems with the tags
++ Goal isn't to add all the tags in the world, but to find the tags which are there and which are important to you.
+
 
 Summary / Conclusions
 ----------------------------------

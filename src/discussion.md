@@ -5,13 +5,16 @@ Supporting Transparency Work: Dialectic Transparency
 -----------------------------------------------------
 + Might want to look at dialogics as for multiple existing truths
 
-Who should be publishing this open data?
+Transparency as Infrastructure: Who should be publishing this open data?
 ------------------------------------------
 + Dow et al "Middle Out"
 + Might be effective for future design work to target the funders as publishers
 + this requires less onus on the charities
 + funders already dictate the formats that charities work in, why not just make that happen to be open
 + Funders already publish grants data (360Giving). Why not their impact?
+
+Working in the Third Sector
+---------------------------
 
 We can't design away their wealth: Reflections on the Digital Civics programme
 ------------------------------------------------------------------------------
