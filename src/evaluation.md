@@ -1,4 +1,4 @@
-Chapter 6: Scaffolding Dialogues - deploying, evaluating, critiquing {#evaluation-casestudy}
+Chapter 6: Evaluating Accounting Tools {#evaluation-casestudy}
 =========================================================================
 This chapter presents an empirical account of deploying and evaluating the novel accounting systems produced in the previous chapter, and the design requirements that arise as a result.
 
@@ -20,10 +20,33 @@ As noted earlier , this took place across several phases of research as engageme
 As the deployment and evaluation phase of the research was extended across some time and a variety of methods were used to engage participants in evaluating the systems. These methods are discussed more in-depth [earlier](#methodology-methods) in the thesis; but are touched upon here in order to situate them in the research's timeline more clearly.
 
 ### Initial Deployments
++ Initial deployments occurred between July and September 2017
++ The intent was to see whether the tools had been designed in a way such that they were flexible enough to be appropriated by workers and integrated into their own workstreams rather than creating new working patterns.
++ Participants were basically asked to use the system as they wished with the notion that some check-ups would be performed.
++ These check-ups started fairly ambitiously with a weekly check-up at Patchwork, and a fortnightly or monthly check-up at the other organisations
++ Became clear during the process that participants were not actually using the systems. This was most surprising at Patchwork but made sense as it was the summer and the heavy summer programme was underway.
++ After three months of very little engagement it was decided to change tack.
 
 ### Structured Deployments
++ Structured deployments were added as a way of creating a space within the fieldwork with which to engage participants critically in the systems.
++ A series of challenges or tasks were produced that were designed to walk someone through the system, and these were sent to each participant group after a brief chat to check viability. It was intended to visit the participants after the completion of each task or set of tasks to elicit their reflections and evaluations of the systems.
++ After an additional month it was clear that participants were not engaging in the tasks either
++ It was decided to turn field visits into evaluation sessions where the researcher would walk through the tasks with the participant. These resembled the traditional cooperative evaluation sessions.
++ These were audio recorded and transcribed.
+
++ These were performed across six months and based around the schedules of the participants. Later, hoping to capture some data which was unshepherded I issued a short challenge at the tail end of the summer to capture a "week in the life" using the tools. This was followed up with an exit interview with each organisation to summarise the research.
 
 ### Interviews with Stakeholders
++ Interviews with stakeholders in the charity ecosystem were performed.
++ This was to evaluate how the system could be interacted with by others, and to see what work would need to be done to accommodate the other "side of the coin" in terms of "accountability work".
++ Four interviews were performed.
++ Two with accountants. The first accountant worked for an accountancy company [briefly mentioned in Chapter 4](#fieldwork_compiling_accounts). This choice was made out of convenience (they're local) and out of sheer morbid curiousity. The second was an independent accountant which I took to operate quite differently to the first, and was currently contracted to work with patchwork's accounts.
++ Two were representative's of small funding organisations. One worked for a local "Community Foundation", and one worked for Big Lottery Fund (now the National Lottery Community Foundation).
++ In all settings, an interview schedule was prepared to understand the nature of the work performed by the participant
++ Then they were shown instances of the tool and walked throught the systems - with dummy data
++ They were then asked about their impressions of the tool and what extra work would be required to accommodate their work.
+
++ Sadly the second interview with the Big lottery fund was lost in a late 2018 crash which wiped the entire phone. Small notes from the session survived.
 
 
 Findings

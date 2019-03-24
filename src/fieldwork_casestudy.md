@@ -117,7 +117,7 @@ Mike’s discussion of the staff accepting lower pay provides insight into the v
 
 This emphasises Mike’s awareness of how staff salaries impact the organisation; he is willing to keep his salary lower than that of comparable positions in the area (*"round here"*) and demonstrates that he would need to justify to others a pay increase that required searching for a disproportionate amount of further funding. Mike also mentions how the staff will be relieved that the salaries are being brought in line with standard pay rises; illustrating that the salary cuts have tangible effects on staff and further defining their position as a value-driven cohort. When Mike discusses the salaries of larger organisations he also reveals his views on what money and people are supposed to do in an organisation; they are supposed to be put towards the organisation’s work and paying head staff large salaries creates pressure from extra work and financial requirements *"before you even get anything done"*.
 
-#### Compiling Accounts
+#### Compiling Accounts {#fieldwork_compiling_accounts}
 
 ![Verifying Accounts](./src/figs/fieldwork_verifying_accounts.svg)
 
