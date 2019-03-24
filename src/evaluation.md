@@ -4,7 +4,12 @@ This chapter presents an empirical account of deploying and evaluating the novel
 
 Introduction
 -----------------
-
++ Previous chapters outlined the work of a charity and its implications for design, and the process of designing accounting tools and some discussion around the reflection of that design process
++ This chapter picks up where the previous one ended in terms of events in that it details the long and drawn out deployment of the systems
++ The chapter discusses how the systems were deployed: when; what manner; and who.
++ It introduces some new participants who were not charity workers in the same sense, but used to evaluate the tools from an additional perspective.
++ Findings from the research are presented grouped
++ discussions are had making points about the performance of the evaluation, as well as design implications for future systems and for open data
 
 Study Scope
 -----------------
