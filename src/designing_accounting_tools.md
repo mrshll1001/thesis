@@ -160,6 +160,7 @@ example entry:
   …
 }
 ```
++ media was originally a single field rather than an array. This was changed due to feedback later to match workflow.
 
 ###### Location
 Any geographic location data associated with the item. To allow for flexibility and the potential for protecting some sensitive contexts, this can be as broad or as specific as the user/producing application would like (or can reasonably produce).
