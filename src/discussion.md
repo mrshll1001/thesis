@@ -1,6 +1,10 @@
 Chapter 7: Discussion {#metadiscussion}
 =======================================
 
+Supporting Transparency Work: Dialectic Transparency
+-----------------------------------------------------
++ Might want to look at dialogics as for multiple existing truths
+
 Who should be publishing this open data?
 ------------------------------------------
 + Dow et al "Middle Out"

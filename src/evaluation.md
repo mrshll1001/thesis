@@ -8,10 +8,6 @@ Introduction
 
 Study Scope
 -----------------
-+
-
-
-
 This study and evaluation covers a staged set of deployments of the tools designed in [Chapter 5](#design-casestudy) across. During the final stages of the "User-Centred Design" phase of research two additional organisations were approached and were involved in steering a set of changes to Rosemary Accounts in particular. In June 2017 the tools were deployed with a view of evaluating their fitness for purpose as well as iterating in some small way to iron out problems and increase uptake.
 
 As noted earlier , this took place across several phases of research as engagement and uptake of the tools was limited at first.
@@ -22,8 +18,6 @@ As the deployment and evaluation phase of the research was extended across some 
 
 ### Structured Deployments
 
-### Introducing Gateshead Older People and Edbert's House
-
 ### Interviews with Stakeholders
 
 
@@ -33,6 +27,9 @@ Findings
 ### The context horseshoe (drowning in tags)
 
 ### System use and non-use
+
++ Duplicating use; use of social media for photos exists so the standard/systems should be adopted to harvest this as well
++ Use of excel should have been leaped on rather than designing yet another shiny thing to force them to use -- look at how existing data standards allow publishing via spreadsheets!!
 
 ### TBC (Focused around desires for other stakeholders)
 

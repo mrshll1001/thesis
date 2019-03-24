@@ -297,12 +297,39 @@ Reports in Rosemary were designed to be a flexible way to produce summaries of w
 Choosing to enable or disable individual parameters was designed to allow the organisation to configure the presentation of the report
 
 #### Importing from elsewhere
++ Importing via elsewhere was important for several reasons
++ Mandated by the federated or decentralised architecture -- need some way of swapping data around
++ Allow
 
 ##### Via QA endpoint
++ Designed to support multiple theoretical ways to import data across the web
++ Follows the design guidelines of the QA data standard described earlier
++ Allows organisations to generate access tokens, which can be used to add valid devices and identify who's data this is.
+
++ Earlier versions simply generated the token, and required manual entry on the device or other system.
++ Following some feedback from participants that it was difficult to type out the token, the token was incorporated in to a JSON structure and encoded as a QR code to be scanned on mobile devices
++ This functionality was added to Accounting Scrapbook as a result of this.
 
 ##### Via File Upload
++ Brought up by Edbert's House and ratified with GOPA
++ Wanted to get a backlog of data loaded into the system to start working through.
++ Required export from their existing systems (SaGe, Quickbooks) to do so.
++ These supported exporting to CSV, which would also support Patchwork's excel spreadsheet.
+
++ to account for different formats and writing a new scraper per format, it was decided to go with a flexible approach
++ system allows for a custom "Mapping" between CSV file headings and the metaphors used in Rosemary.
 
 ##### In-Tray
++ Way to collect all imported data in one place and notify the admin staff that there was data to be sorted.
++ Later it differentiated between items added remotely via app or via csv import thanks to feedback.
++ Was originally called the "inbox" but everyone thought it was messages from staff not data that had been collected.
++ Renamed "In-Tray" to better match Patchwork's physical boxes of receipts.
++ Accept all and reject all buttons added by request
+
+##### Exporting Data
++ In case the participants were using this to collect and manage serious data it was written to export all financial data
++ Export was done in a basic flattened version (CSV)
++ Limited to financial data as that was deemed the most sensitive and photographs were being duplicated elsewhere
 
 ### Accounting Scrapbook
 Accounting Scrapbook is a lightweight mobile application that was designed to allow the charity workers to collaborate in collecting and curating information about their work and spending. Within the application, workers may create entries to reflect their everyday work and expenditure such as Images, Quotes, Activities, and Spends. These can then be organised by placing them into one or more *"Scrapbooks"*, allowing them to be grouped thematically and associated with other content.
@@ -310,6 +337,10 @@ Accounting Scrapbook is a lightweight mobile application that was designed to al
 The following sections details the behaviour and design rationale for each feature of the design.
 
 #### Scrapbooks
++ Named collections related to anything the worker wanted it to be
++ Were tagged so that anything added to this scrapbook had these tags on
++ Entries could be added to multiple scrapbooks, the idea being you could generate complex lists of tags very quickly without much effort by adding entries to multiple scrapbooks at once.
++ Ability to be colour coded, although notes indicate that the free-colour selection should have been more limited
 
 
 #### Types of Entry
@@ -326,7 +357,9 @@ These types of entry were produced to mirror the components of the QA data stand
 
 
 #### Tags
-
++ Core building block
++ Originally one-word tags but were later adapted to allow spaces and separated by commas.
++ Originally were parsed as specifically hashtags twitter-like @-handles but this was confusing to some so made it more open
 
 #### Adding Entries
 The app provides several interfaces for adding an entry to the system, each tailored to providing the information for a different type of entry (Image, Spend, Quote, Activity).
@@ -334,18 +367,24 @@ The app provides several interfaces for adding an entry to the system, each tail
 ##### Adding Images
 Adding an entry with images is done by selecting the *Add Images* button on the main menu, taking you to the Add Image screen (**Figure**). At the top of the screen there is a single button labelled *"Choose Images"*. Selecting this button brings up the phone's gallery interface, allowing you to select one or more images that exist on the device already. When this action is complete, the gallery closes and the first of the selected images is placed on the UI to affirm its selection.
 
-When
++ originally operated as a camera, but workers mentioned they often took multiple photos at once and this would be a lot of work
 
 ##### Adding Spend Data
++ straightforward interface to add spend data.
++ Only spend data is incorporated as the app shouldn't be accommodating grant income
 
 ##### Adding Quotes
++ straightforward interface to add quotes data, matching the standard
 
 ##### Adding Activities
++ Originally named events but workers found this confusing as events were something big ie "AGMs"
++ This was true across the board.
++ Pressing the button opened a map which allowed you to choose the location for the activity.
++ Those with Google Maps installed had functionality through this, but additional "Open Street Map" compatability was built in if the phone did not have GSF installed.
 
 ##### Common Elements
-
-### Discarded Designs
-There were several other components that we considered developing for the research, but were discarded due to limitations on time or because it may have been too disruptive to the daily work of Patchwork.
++ Scrapbook dialog box
++ Adding tags was originally done manually but became an auto-complete box after feedback
 
 
 Discussion
