@@ -3,6 +3,10 @@ body {
   font-size: 16pt;
 }
 
+p, li{
+  line-height: 1.65;
+}
+
 .centre {
   text-align: center;
 }

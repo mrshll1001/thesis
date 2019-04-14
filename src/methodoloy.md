@@ -46,10 +46,25 @@ Description of Methods {#methodology-methods}
 
 Orientations to Analysis {#methodology-analysis}
 ------------------------
+Ethnomethodology
+
++ goal of the research was to understand the ways in which transparency and accountability are "done" in charitable Organisations w/ regards to the role digital technologies (may) play
++ to provide insights that may be used for design workers operating in this space
++ as part of that, fieldwork was performed early in the research and an ethnomethodological orientation was taken to the performance of fieldwork and the analysis of the data from it
++ ethnomethodology characterised by an orientation to members of a social setting organise and produce their social world in an ordered way.
++ While not epistemologically indifferent, rooted in phenomonology, it is said to carry *"little or no theoretical baggage"* and consists of analytical choices as to what the fieldworker attends to @randall_fieldwork_2007".
++ specific flavour of ethnomethodology was an *ethnomethodolgical study of work*
++ ethnomethodological studies of work have a significant history with systems design
++ benefits this approach brings to this study is the encouragement to develop a *vulgar competence* in the setting's work because of the indifference to traditional dichotomies such as subjectivity vs objectivity
++ particularly important is the nature of reflexivity in ethnomethodology, rather than the interpretive ethnographies that hand-wave reflexivity to certify their theoretical interpretations of action - reflexivity is here conceived of as a natural part of producing the setting and that members themselves possess the everyday analytical skills required to provide accounts of their work. This is essential in two ways;
++ first, by developing a vulgar competence in a setting I as a designer may develop intimate understanding of its work which can be used to develop praxeological accounts and inform design; with the goal of this research being to *actually design in this space* as well as provide long-term design requirements to inform future work
++ second, reflexivity in ethnomethodology is predicated on members of a setting engaging in interactional work that make their actions account-able to others in a setting. This is done by making actions observable and understandable for all those caring to look. That the topic of this research concerns transaprency and accountability in the grander sense of the terms makes it appropriate as the orientation to analysis mirrors the subject of my attention as a designer and a researcher. By asking "how is transparency and accountability produced in a setting", what actions make it up, and how I (through my vulgar competence) understand that to be so through the accountability of those actions; a line from transparency work to design requirements supporting the transparency and accountability of an organisation can be made. 
+
+
 + Marx
-+ Ethnomethodology
 + why appropriated
 + how that influences the nitty gritty methods
++ @randall_fieldwork_2007 analytical choices as to the attention of the fieldworker, allows ethnomethodology to do the bulk of the work understanding the production of the transparency in the setting without clashing with marxist political economy as to why such things are necessary in the first place.
 
 Summary {#methodology-summary}
 -------
